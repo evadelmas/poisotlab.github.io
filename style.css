@@ -134,7 +134,7 @@ table {
   border-spacing: 0; }
 
 html, body {
-  font-family: "Lato", sans-serif; }
+  font-family: "Open Sans", "Lato", sans-serif; }
 
 a {
   color: #4433aa;
@@ -166,27 +166,27 @@ h1 {
   clear: both;
   display: block;
   font-size: 0.9em;
-  line-height: 1.2em; }
+  line-height: 1.25em; }
   .opportunity h2 {
-    color: #444444;
-    font-size: 1em;
+    color: black;
+    font-size: 1.1em;
     margin-bottom: 1em; }
 
 .en, .fr {
-  width: 430px;
-  padding: 10px; }
+  width: 420px;
+  padding: 15px; }
 
 .fr {
   float: left;
   text-align: right; }
   .fr h2 {
-    text-align: left; }
+    text-align: right; }
 
 .en {
   float: right;
   text-align: left; }
   .en h2 {
-    text-align: right; }
+    text-align: left; }
 
 footer {
   clear: both;
@@ -198,3 +198,9 @@ footer {
   padding-bottom: 2em;
   border-top: 2px solid #eeeeee;
   background-color: #f0f0f0; }
+
+q {
+  color: #111111;
+  background-color: #eeee00;
+  display: inline;
+  font-style: italic; }
