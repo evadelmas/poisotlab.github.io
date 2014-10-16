@@ -13,6 +13,7 @@ to measure the variation in the structure of ecological networks, and
 describe its spatial dynamics. This research reveals an important aspect of
 the dissimilarity of ecological communities: the same species can interact
 in different ways.
+
 </div>
 
 <div class="pure-u-1 copy" markdown="1">
@@ -23,12 +24,25 @@ predictive models that would use different sources of information (functional
 traits, local abundances, previous knowledge, ...) to predict the probability
 that two species will interact. These models are required to forecast the
 structure of novel communities that will emerge through global changes.
+
 </div>
 
 <div class="pure-u-1 copy" markdown="1">
 # Numerical toolkits for network analysis
+
+Addressing these new questions often requires to develop new tools. We develop
+statistical and mathematical approaches, implement them, and release them as
+free and open source software to make network analysis user-friendly. We also
+contribute to the [mangal.io](http://mangal.io) project, an open database
+of species interactions and associated packages.
+
 </div>
 
 <div class="pure-u-1 copy" markdown="1">
 # Functional consequences of network structure
+
+We are interested in turning the structure of networks into a predictive
+variable for community ecology. We are particularly interested in the
+relationship between network structure and ecosystem functioning.
+
 </div>
