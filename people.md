@@ -32,7 +32,7 @@ languages on [github](http://github.com/phdp/).
 
 
 <div class="pure-u-1 copy" markdown="1">
-## Amélie Müller
+## Amélie Muller
 
 <img src="/mugshots/ameliemuller.jpg" class="mugshot"/> Amélie is a master's
 student from Strasbourg University, doing a 6-months research stay in the group.
