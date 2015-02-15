@@ -1,13 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
    <head>
-      <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>{{ site.title }} | {{ page.title }}</title>
-      <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
-      <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
-      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-      <link rel="stylesheet" href="/styles/custom.css">
+      {% include header.html %}
    </head>
    <body>
 
@@ -15,16 +9,11 @@
          {% include nav.html %}
       </div>
 
-      <div class="wrapper">
-         
+      <div class="whitebg"></div>
+
+      <div class="wrapper" id="main">
+
          <div class="l-content">
-
-            {% comment %}<div class="banner">{% endcomment %}
-               {% comment %}<h1 class="banner-head">{% endcomment %}
-                  {% comment %}{{ page.title }}{% endcomment %}
-               {% comment %}</h1>{% endcomment %}
-            {% comment %}</div>{% endcomment %}
-
             <div class="pure-g">
                {{ content }}
             </div>
