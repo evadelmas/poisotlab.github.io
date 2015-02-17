@@ -1,35 +1,49 @@
-.d3{
+.link {
+  fill: none;
+  stroke: @light-grey;
+  stroke-width: 1.5px;
+}
 
+#int1 {
+  fill: @blue;
+}
 
-  .link {
-    fill: none;
-    stroke: #666;
-    stroke-width: 1.5px;
-  }
+#int2 {
+  fill: @purple;
+}
 
-  #interaction {
-    fill: @accent;
-  }
+#int3 {
+  fill: @green;
+}
 
-  .link.interaction {
-    stroke: @accent;
-  }
+#int4 {
+  fill: @orange;
+}
 
-  .link.resolved {
-    stroke-dasharray: 0,2 1;
-  }
+.link.int1 {
+  stroke: @blue;
+}
 
-  circle {
-    fill: lighten(@accent, 50%);
-    stroke: @accent;
-    stroke-width: 2.5px;
-  }
+.link.int2 {
+  stroke: @purple;
+}
 
-  text {
-    font: 10px sans-serif;
-    pointer-events: none;
-    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
-  }
+.link.int3 {
+  stroke: @green;
+}
 
+.link.int4 {
+  stroke: @orange;
+}
 
+circle {
+  fill: @light-blue;
+  stroke: @blue;
+  stroke-width: 2.5px;
+}
+
+text {
+  font: 10px sans-serif;
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
 }

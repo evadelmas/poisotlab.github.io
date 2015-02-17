@@ -1,14 +1,17 @@
 @import url(http://fonts.googleapis.com/css?family=Oxygen+Mono);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,300italic,600,700,600italic,700italic,800,800italic);
 
-@accent: #225ea8;
+@import "/styles/colors.less";
+
+.d3{
+  @import "/styles/d3.less";
+}
 
 *{
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-
 
 html{
   height: 100%;
@@ -42,7 +45,7 @@ body{
 
 .top-bar{
   z-index: 3 !important;
-  background: @accent !important;
+  background: @blue !important;
   top: 0px;
   position: fixed;
   padding: 10px 10px;
@@ -100,7 +103,7 @@ body{
     text-decoration: none;
     border-bottom: 1px solid #ececec;
     &:hover{
-      border-bottom: 1px solid @accent;
+      border-bottom: 1px solid @blue;
     }
   }
   z-index: 2;
@@ -121,7 +124,7 @@ body{
 }
 
 .landing{
-  padding: 3em 2em;
+  padding: 2em 2em;
   font-size: 1.2em;
   text-align: right;
 }
@@ -131,5 +134,3 @@ body{
     line-height: 1.8em;
   }
 }
-
-@import "/styles/d3.less";
