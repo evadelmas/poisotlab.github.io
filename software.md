@@ -14,8 +14,12 @@ We create cool tools for computational ecology! Here is a list, along with links
 
 [LP-BRIM](https://github.com/PoisotLab/lpbrim) is a way to find modules in large networks.
 
-[LP-BRIM](https://github.com/PoisotLab/betalink) provides measures of network beta-diversity.
+[betalink](https://github.com/PoisotLab/betalink) provides measures of network beta-diversity.
 
 # Julia packages
+
+[ProbaNet.jl](https://github.com/PoisotLab/ProbaNet.jl) provides probabilistic measures of network structure.
+
+[Brim.jl](https://github.com/PoisotLab/Brim.jl) is a fast implementation of various modularity optimization routines.
 
 </div>
