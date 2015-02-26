@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Software
-description: Want to know more about what we do?
+description: Some of the tools we made.
 ---
 
 <div class="pure-u-1 copy" markdown="1">
- # R packages
+
+# R packages
  
- ## PACO
- 
+## PACO
+
 [PACO](https://github.com/PoisotLab/paco)
 
 </div>
