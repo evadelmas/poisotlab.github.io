@@ -12,6 +12,10 @@ We create cool tools for computational ecology! Here is a list, along with links
 
 [PACO](https://github.com/PoisotLab/paco) implements procrustes analysis of co-phylogenetic signal.
 
+[![Build Status](https://travis-ci.org/PoisotLab/paco.svg?branch=master)](https://travis-ci.org/PoisotLab/paco)
+[![Coverage Status](https://coveralls.io/repos/PoisotLab/paco/badge.svg)](https://coveralls.io/r/PoisotLab/paco)
+
+
 [LP-BRIM](https://github.com/PoisotLab/lpbrim) is a way to find modules in large networks.
 
 [betalink](https://github.com/PoisotLab/betalink) provides measures of network beta-diversity.
