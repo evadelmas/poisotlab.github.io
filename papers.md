@@ -13,6 +13,7 @@ structure of probabilistic networks. bioRxiV.
 T. Poisot, B. Baiser, J.A. Dunne, S. Kéfi, F. Massol, N. Mouquet, T.N. Romanuk,
 D.B. Stouffer, S.A. Wood & D. Gravel (2014) mangal - making complex ecological
 network analysis simpler. [bioRxiV][mgpr]. Accepted, *Ecography*.
+
 [mgpr]: http://biorxiv.org/content/early/2015/02/24/002634
 
 </div>
