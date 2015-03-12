@@ -7,9 +7,13 @@ description: Want to know more about what we do?
 <div class="pure-u-1 copy" markdown="1">
 # Pre-prints
 
+T. Poisot, A. Cirtwill, D. Gravel, M.J. Fortin & D.B. Stouffer (2015) The
+structure of probabilistic networks. bioRxiV.
+
 T. Poisot, B. Baiser, J.A. Dunne, S. Kéfi, F. Massol, N. Mouquet, T.N. Romanuk,
 D.B. Stouffer, S.A. Wood & D. Gravel (2014) mangal - making complex ecological
-network analysis simpler. bioRxiV. In revision for *Ecography*.
+network analysis simpler. [bioRxiV][mgpr]. Accepted, *Ecography*.
+[mgpr]: http://biorxiv.org/content/early/2015/02/24/002634
 
 </div>
 
