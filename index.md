@@ -12,8 +12,9 @@ through space and time, and their consequences on ecosystem properties. We use
 numerical methods, computational tools, and close collaboration with empiricists
 to address these questions.
 
-You can read more about [our research](research), [who we are](people), or learn
-about [current opportunities](opportunities). Oh, and we also [publish some papers](papers).
+We are based at the Université de Montréal. You can read more about [our
+research](research), [who we are](people), or learn about [current
+opportunities](opportunities). Oh, and we also [publish some papers](papers).
 
 </div>
 
