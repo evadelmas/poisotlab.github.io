@@ -10,9 +10,22 @@ description: Want to know more about what we do?
 T. Poisot, A. Cirtwill, D. Gravel, M.J. Fortin & D.B. Stouffer (2015) The
 structure of probabilistic networks. bioRxiV.
 
+</div>
+
+<div class="pure-u-1 copy" markdown="1">
+# 2015
+
+P.S. Jørgensen , F. Barraquand , V. Bonhomme , T.J. Curran , E. Cieraad , T.
+Ezard , L. Gherardi , R.A. Hayes , T. Poisot , R. Salguero-Gómez , L. DeSoto ,
+B. Swartz , J.M. Talbot , B. Wee , N. Zimmerman (2015) Connecting people and
+ideas from around the world: global innovation platforms for next-generation
+ecology and beyond. [preprint][gippr]. Accepted, *Ecosphere*.
+
+[gippr]: http://biorxiv.org/content/early/2014/12/14/012666
+
 T. Poisot, B. Baiser, J.A. Dunne, S. Kéfi, F. Massol, N. Mouquet, T.N. Romanuk,
-D.B. Stouffer, S.A. Wood & D. Gravel (2014) mangal - making complex ecological
-network analysis simpler. [bioRxiV][mgpr]. Accepted, *Ecography*.
+D.B. Stouffer, S.A. Wood & D. Gravel (2015) mangal - making complex ecological
+network analysis simpler. [preprint][mgpr]. Accepted, *Ecography*.
 
 [mgpr]: http://biorxiv.org/content/early/2015/02/24/002634
 
