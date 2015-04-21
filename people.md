@@ -19,12 +19,12 @@ and is on [github](http://github.com/tpoisot/) too.
 <div class="pure-u-1 copy" markdown="1">
 
 <img src="/mugshots/philippedesjardinsproulx.jpg" class="mugshot"/> **Philippe
-Desjardins-Proulx** is a PhD student with Tim and [Dominique Gravel][dom]. His research focuses
-on applying machine learning and deep transfer knowledge to solve complicated
-ecological problems of all sorts, and he has more informations about it on
-his [website](http://phdp.github.io/). He talks about Haskell too much on
-[twitter](http://twitter.com/phdpqc/), and does thing in esoteric programming
-languages on [github](http://github.com/phdp/).
+Desjardins-Proulx** is a PhD student with Tim and [Dominique Gravel][dom]. His
+research focuses on applying machine learning and deep transfer knowledge to
+solve complicated ecological problems of all sorts, and he has more informations
+about it on his [website](http://phdp.github.io/). He talks about Haskell too
+much on [twitter](http://twitter.com/phdpqc/), and does thing in esoteric
+programming languages on [github](http://github.com/phdp/).
 
 </div>
 
@@ -41,12 +41,19 @@ management programs could gain from focusing on the variability of interactions.
 
 <div class="pure-u-1 copy" markdown="1">
 
-<img src="/mugshots/renaudmckinnon.png" class="mugshot"/> **Renaud Mc Kinnon** is a MSc
-student with Tim, [Dominique Gravel][dom] and [Steven Kembel][skemb]. He
-uses the interactions between trees from experimental plantations and their
-microbial ectosymbionts to understand how different levels of biodiversity
-(interactions, functional traits, taxonomy) interact to shape ecosystem
-functioning.
+### Former lab members
+
+</div>
+
+
+<div class="pure-u-1 copy" markdown="1">
+
+<img src="/mugshots/renaudmckinnon.png" class="mugshot"/> **Renaud Mc Kinnon**
+completed his MSc student with Tim, [Dominique Gravel][dom] and [Steven
+Kembel][skemb]. His research focused on interactions between trees from
+experimental plantations and their microbial ectosymbionts, to understand how
+different levels of biodiversity (interactions, functional traits, taxonomy)
+shape ecosystem functioning.
 
 </div>
 
