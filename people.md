@@ -18,16 +18,14 @@ and is on [github](http://github.com/tpoisot/) too.
 
 <div class="pure-u-1 copy" markdown="1">
 
-<img src="/mugshots/philippedesjardinsproulx.jpg" class="mugshot"/> **Philippe
-Desjardins-Proulx** is a PhD student with Tim and [Dominique Gravel][dom]. His
-research focuses on applying machine learning and deep transfer knowledge to
-solve complicated ecological problems of all sorts, and he has more informations
-about it on his [website](http://phdp.github.io/). He talks about Haskell too
-much on [twitter](http://twitter.com/phdpqc/), and does thing in esoteric
-programming languages on [github](http://github.com/phdp/).
+<img src="/mugshots/cynthiagueveneuxjulien.png" class="mugshot"/> **Cynthia
+Guéveneux-Julien** is a summer student working on the spatial dissimilarity of
+host-parasite interactions at the continental scale. Her project is to determine
+how the structure and dissimilarity of networks varies at the margin of species
+distributions, and to identify which environmental variables are driving this
+variation.
 
 </div>
-
 
 <div class="pure-u-1 copy" markdown="1">
 
@@ -36,6 +34,18 @@ student from Strasbourg University, doing a 6-months research stay in the group.
 Her work is centered on understanding how interactions with pollinators
 contribute to the persistence of plants at different spatial scales, and how
 management programs could gain from focusing on the variability of interactions.
+
+</div>
+
+<div class="pure-u-1 copy" markdown="1">
+
+<img src="/mugshots/philippedesjardinsproulx.jpg" class="mugshot"/> **Philippe
+Desjardins-Proulx** is a PhD student with Tim and [Dominique Gravel][dom]. His
+research focuses on applying machine learning and deep transfer knowledge to
+solve complicated ecological problems of all sorts, and he has more informations
+about it on his [website](http://phdp.github.io/). He talks about Haskell too
+much on [twitter](http://twitter.com/phdpqc/), and does thing in esoteric
+programming languages on [github](http://github.com/phdp/).
 
 </div>
 
