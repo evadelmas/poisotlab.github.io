@@ -6,8 +6,7 @@ description: Meet the group!
 
 <div class="pure-u-1 copy" markdown="1">
 
-<img src="/mugshots/tim.jpg" class="mugshot"/> **Timothée Poisot** is a computational
-ecologist, focused on understanding how and why species interactions
+<img src="/mugshots/tim.jpg" class="mugshot"/> **Timothée Poisot** is a computational ecologist, focused on understanding how and why species interactions
 vary over space and time. He uses network approaches, and is
 easily excited by methodology. Tim is a member of the [Québec
 Centre for Biodiversity Sciences][qcbs], rants about open science on
