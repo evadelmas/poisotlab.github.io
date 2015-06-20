@@ -23,9 +23,13 @@ past experience, and contact information of two references.
 ## MSc
 
 We are looking for one MSc student (with the possibility to move onto a PhD) to
-work on the variation of trophic interactions over space/time, and develop
+work on the variation of host-parasite interactions over space/time, and develop
 statistical approaches to partition the sources of this variation. Funding is
-provided for two years.
+provided for two years. This project potentially includes a field work component
+(fish capture and parasitic inventory) to be carried over the summer, at the
+[Station de Biologie des Laurentides][sbl].
+
+[sbl]: http://www.sbl.umontreal.ca/index.html
 
 ## Other opportunities
 
