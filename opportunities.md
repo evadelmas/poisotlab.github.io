@@ -16,26 +16,22 @@ a good thing, but not a requirement.
 
 ## How to apply
 
-To apply, send Timothée (`tim@poisotlab.io`) PDFs of your CV, a one-page
-summary of your career aspirations and outline of your motivation and past
-experience, and contact information of two references.
+To apply, send Timothée (`tim@poisotlab.io`) a single PDF with your CV, a
+one-page summary of your career aspirations and outline of your motivation and
+past experience, and contact information of two references.
 
-## PhD
+## MSc
 
-We are looking for one PhD candidate to work on the relationship between the
-structure of food webs and ecosystem functioning. Some of the work will be done
-during a 3-months stay in the group of [Daniel Stouffer][danb], University of
-Canterbury, Christchurch. Applicants are encouraged to apply immediately, the
-project is expected to start in Sept. 2015. [Plus d'informations (in
-French)][info_fr].
-
-[info_fr]: /resources/files/PHDBEF_fr.pdf
-[danb]: http://www.stoufferlab.org/
+We are looking for one MSc student (with the possibility to move onto a PhD) to
+work on the variation of trophic interactions over space/time, and develop
+statistical approaches to partition the sources of this variation. Funding is
+provided for two years.
 
 ## Other opportunities
 
-There are currently no other opportunities. If you have your own funding,
-you are invited to get in touch, and we can work on defining a research
-project that matches your interests.
+There are currently no other funded opportunities. If you have your own funding,
+or are interested in looking for external funding, you are invited to get in
+touch, and we can work on defining a research project that matches your
+interests.
 
 </div>
