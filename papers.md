@@ -10,7 +10,8 @@ description: Want to know more about what we do?
 T. Poisot, A. Cirtwill, D. Gravel, M.J. Fortin & D.B. Stouffer (2015) The
 structure of probabilistic networks. bioRxiV.
 
-T. Poisot (2015) Best publishing practices to improve user confidence in scientific software. [preprint][bpp]. Under review, *Ideas in Ecology & Evolution*.
+T. Poisot (2015) Best publishing practices to improve user confidence in
+scientific software. [preprint][bpp]. In press, *Ideas in Ecology & Evolution*.
 
 [bpp]:http://figshare.com/articles/Best_publishing_practices_to_improve_user_confidence_in_scientific_software/1434688
 
@@ -19,15 +20,17 @@ T. Poisot (2015) Best publishing practices to improve user confidence in scienti
 <div class="pure-u-1 copy" markdown="1">
 # 2015
 
-T. Poisot, S. Kéfi, S. Morand, M. Stanko, P.A. Marquet & M.E. Hochberg (2015) A continuum of specialists and generalists in empirical communities. [*PLOS ONE*][conti].
+T. Poisot, S. Kéfi, S. Morand, M. Stanko, P.A. Marquet & M.E. Hochberg (2015) A
+continuum of specialists and generalists in empirical communities. [*PLOS
+ONE*][conti].
 
 [conti]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114674
 
-P.S. Jørgensen , F. Barraquand , V. Bonhomme , T.J. Curran , E. Cieraad , T.
-Ezard , L. Gherardi , R.A. Hayes , T. Poisot , R. Salguero-Gómez , L. DeSoto ,
-B. Swartz , J.M. Talbot , B. Wee , N. Zimmerman (2015) Connecting people and
-ideas from around the world: global innovation platforms for next-generation
-ecology and beyond. [preprint][gippr]. Accepted, *Ecosphere*.
+P.S. Jørgensen, F. Barraquand, V. Bonhomme, T.J. Curran, E. Cieraad, T. Ezard,
+L. Gherardi, R.A. Hayes, T. Poisot, R. Salguero-Gómez, L. DeSoto , B. Swartz,
+J.M. Talbot, B. Wee, N. Zimmerman (2015) Connecting people and ideas from around
+the world: global innovation platforms for next-generation ecology and beyond.
+[preprint][gippr]. Accepted, *Ecosphere*.
 
 [gippr]: http://biorxiv.org/content/early/2014/12/14/012666
 
