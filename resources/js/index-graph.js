@@ -13,6 +13,7 @@ var links = [
   {source: "B", target: "J", type: "int4"},
   {source: "B", target: "K", type: "int4"},
   {source: "B", target: "L", type: "int4"},
+  {source: "L", target: "B", type: "int1"},
 ];
 
 var nodes = {};
@@ -23,8 +24,8 @@ links.forEach(function(link) {
   link.target = nodes[link.target] || (nodes[link.target] = {name: link.target});
 });
 
-var width = 400,
-    height = 400;
+var width = 500,
+    height = 500;
 
 var force = d3.layout.force()
     .nodes(d3.values(nodes))

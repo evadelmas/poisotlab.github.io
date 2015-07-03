@@ -1,35 +1,33 @@
 ---
 layout: page
 title: Opportunities
+nav: opportunities
 ---
 
-<div class="pure-u-1 copy" markdown="1"> If you are interested in theoretical
-approaches to community ecology and biogeography, want to work in a dynamic
-department, and are not afraid of inter-disciplinary approaches, then we
-offer a research environment where you will be able to pursue your scientific
-interests and learn new skills. Experience in mathematics or programming is
-a good thing, but not a requirement.
-</div>
+# How to apply?
 
-<div class="pure-u-1 copy" markdown="1">
-# Current opportunities
-
-## How to apply
+If you are interested in theoretical approaches to community ecology and
+biogeography, want to work in a dynamic department, and are not afraid of
+inter-disciplinary approaches, then we offer a research environment where you
+will be able to pursue your scientific interests and learn new skills.
+Experience in mathematics or programming is a good thing, but not a requirement.
 
 To apply, send Timothée (`tim@poisotlab.io`) a single PDF with your CV, a
 one-page summary of your career aspirations and outline of your motivation and
 past experience, and contact information of two references.
 
+# Current opportunities
+
 ## MSc
 
-We are looking for one MSc student (with the possibility to move onto a PhD) to
-work on the variation of host-parasite interactions over space/time, and develop
-statistical approaches to partition the sources of this variation. Funding is
-provided for two years. This project potentially includes a field work component
-(fish capture and parasitic inventory) to be carried over the summer, at the
-[Station de Biologie des Laurentides][sbl].
-
-[sbl]: http://www.sbl.umontreal.ca/index.html
+We have available funding for a MSc candidate, for up to two years. Please have
+a look at the [departmental requirements for this program][msc]. There is no
+designated topic of research. If you are interested, have a look at our
+[research interests](/research/) and [selected publications](/papers/), and
+contact Tim to discuss potential subjects. Although we have a strong
+computational side to all our research, there are opportunities to do
+field-based science. If you are interested in molecular approaches in community
+ecology, we have a *very* exciting project starting soon.
 
 ## Other opportunities
 
@@ -37,5 +35,3 @@ There are currently no other funded opportunities. If you have your own funding,
 or are interested in looking for external funding, you are invited to get in
 touch, and we can work on defining a research project that matches your
 interests.
-
-</div>

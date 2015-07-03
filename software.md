@@ -1,12 +1,8 @@
 ---
 layout: page
 title: Software
-description: Some of the tools we made.
+nav: software
 ---
-
-<div class="pure-u-1 copy" markdown="1">
-
-We create cool tools for computational ecology! Here is a list, along with links to the *GitHub* projects.
 
 # R packages
 
@@ -33,4 +29,9 @@ We create cool tools for computational ecology! Here is a list, along with links
 [![Build Status](https://travis-ci.org/PoisotLab/Brim.jl.svg?branch=master)](https://travis-ci.org/PoisotLab/Brim.jl)
 [![Coverage Status](https://coveralls.io/repos/PoisotLab/Brim.jl/badge.svg?branch=master)](https://coveralls.io/r/PoisotLab/Brim.jl?branch=master)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.16579.svg)](http://dx.doi.org/10.5281/zenodo.16579)
-</div>
+
+# mangal
+
+[mangal.io](http://mangal.io) is a database for species interaction networks. Or
+more accurately, it is a platform to store data about species interactions, and
+use it for network studies. It integrates with other biodiversity databases.

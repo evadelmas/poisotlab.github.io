@@ -1,10 +1,22 @@
-<ul class="left">
-   <li><a href="/">the<strong>poisot</strong>lab</a></li>
-</ul>
-<ul class="right">
-   <li {%if page.title == 'Research' %}class="active"{% endif %}><a href="/research/">Research</a></li>
-   <li {%if page.title == 'People' %}class="active"{% endif %}><a href="/people/">People</a></li>
-   <li {%if page.title == 'Papers' %}class="active"{% endif %}><a href="/papers/">Papers</a></li>
-   <li {%if page.title == 'Software' %}class="active"{% endif %}><a href="/software/">Software</a></li>
-   <li {%if page.title == 'Opportunities' %}class="active"{% endif %}><a href="/opportunities/">Opportunities</a></li>
-</ul>
+
+<img src="/resources/logo.png" width="218px" alt="" class="logo"/>
+
+<h2 class="research {%if page.nav == 'research' %}active{% endif %}"><a href="/research/">Research</a></h2>
+
+<p>We work on the variation of ecological communities.</p>
+
+<h2 class="people {%if page.nav == 'people' %}active{% endif %}"><a href="/people/">People</a></h2>
+
+<p>We are lovely! Meet us and learn about our projects.</p>
+
+<h2 class="papers {%if page.nav == 'papers' %}active{% endif %}"><a href="/papers/">Papers</a></h2>
+
+<p>We write papers. We give talks. Often about science.</p>
+
+<h2 class="software {%if page.nav == 'software' %}active{% endif %}"><a href="/software/">Software</a></h2>
+
+<p>We write code. It's open source.</p>
+
+<h2 class="opportunities {%if page.nav == 'opportunities' %}active{% endif %}"><a href="/opportunities/">Opportunities</a></h2>
+
+<p>We might be the right place for you!</p>

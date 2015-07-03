@@ -1,82 +1,15 @@
 ---
 layout: page
 title: Papers
-description: Want to know more about what we do?
+nav: papers
 ---
 
-<div class="pure-u-1 copy" markdown="1">
-# Pre-prints
+# Selected papers
 
-T. Poisot, A. Cirtwill, D. Gravel, M.J. Fortin & D.B. Stouffer (2015) The
-structure of probabilistic networks. bioRxiV.
+These are the most representative, recent, or cool papers from the lab. [But we have more](/allpapers/)!
 
-T. Poisot (2015) Best publishing practices to improve user confidence in
-scientific software. [preprint][bpp]. In press, *Ideas in Ecology & Evolution*.
-
-[bpp]:http://figshare.com/articles/Best_publishing_practices_to_improve_user_confidence_in_scientific_software/1434688
-
-</div>
-
-<div class="pure-u-1 copy" markdown="1">
-# 2015
-
-T. Poisot, S. Kéfi, S. Morand, M. Stanko, P.A. Marquet & M.E. Hochberg (2015) A
-continuum of specialists and generalists in empirical communities. [*PLOS
-ONE*][conti].
-
-[conti]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114674
-
-P.S. Jørgensen, F. Barraquand, V. Bonhomme, T.J. Curran, E. Cieraad, T. Ezard,
-L. Gherardi, R.A. Hayes, T. Poisot, R. Salguero-Gómez, L. DeSoto , B. Swartz,
-J.M. Talbot, B. Wee, N. Zimmerman (2015) Connecting people and ideas from around
-the world: global innovation platforms for next-generation ecology and beyond.
-[preprint][gippr]. Accepted, *Ecosphere*.
-
-[gippr]: http://biorxiv.org/content/early/2014/12/14/012666
-
-T. Poisot, B. Baiser, J.A. Dunne, S. Kéfi, F. Massol, N. Mouquet, T.N. Romanuk,
-D.B. Stouffer, S.A. Wood & D. Gravel (2015) mangal - making complex ecological
-network analysis simpler. [preprint][mgpr]. Accepted, *Ecography*.
-
-[mgpr]: http://biorxiv.org/content/early/2015/02/24/002634
-
-</div>
-
-<div class="pure-u-1 copy" markdown="1">
-# 2014
-
-T. Poisot, D.B. Stouffer & D. Gravel (2014) Beyond species: why ecological
-interactions vary through space and time. [*Oïkos*][beyondspecies]. Editor's
-choice.
-
-[beyondspecies]: http://onlinelibrary.wiley.com/doi/10.1111/oik.01719/abstract
-
-T. Poisot & D. Gravel (2014) When is an ecological network complex? Connectance
-drives degree distribution and emerging network properties. [*PeerJ*][econetcomp].
-
-[econetcomp]: https://peerj.com/articles/251/
-
-</div>
-
-<div class="pure-u-1 copy" markdown="1">
-# 2013
-
-T. Poisot (2013) An a posteriori measure of network modularity. F1000 Research.
-
-T. Poisot, M. Stanko, D. Miklisova & S. Morand (2013) Facultative and obligate
-parasite communities exhibit different network properties. Parasitology.
-
-</div>
-
-<div class="pure-u-1 copy" markdown="1">
-# 2012
-
-T. Poisot, E. Canard, D. Mouillot, N. Mouquet & D. Gravel (2012) The
-dissimilarity of species interaction networks. *Ecology Letters*, 15 (12)
-1353-1361.
-
-T. Poisot, E. Canard, N. Mouquet & M.E. Hochberg (2012) A comparative study of
-ecological specialization estimators. *Methods in Ecology & Evolution*, 3 (3)
-537-544.
-
-</div>
+{% for p in site.papers %}{% if p.featured %}<div class="bibitem">
+{{forloop.rindex}}. <span class="title">{{p.title}}</span> ({{ p.date }}{% if p.preprint %}; preprint{% endif %})<p /><span class="authors">{% for a in p.authors %}
+<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</span><p />
+{% if p.pdf %}<span class="fulltext"><a href="/pdf/{{p.pdf}}" title="{{p.title}}">Full text PDF</a>{% if p.preprint %} &mdash; <a href="http://dx.doi.org/{{p.doi}}">Citable preprint</a>{% endif %}</span><p />{% endif %}
+{% if p.in %}Published in <em>{{ p.in }}</em>{%if p.doi %} <a href="http://dx.doi.org/{{p.doi}}">journal version</a> &mdash; <code>{{p.doi}}</code>{% endif %}<p />{% endif %}</div>{% endif %}{% endfor %}
