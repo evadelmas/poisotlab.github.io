@@ -20,8 +20,7 @@ past experience, and contact information of two references.
 
 ## MSc
 
-We have available funding for a MSc candidate, for up to two years. Please have
-a look at the [departmental requirements for this program][msc]. There is no
+We have available funding for a MSc candidate, for up to two years. There is no
 designated topic of research. If you are interested, have a look at our
 [research interests](/research/) and [selected publications](/papers/), and
 contact Tim to discuss potential subjects. Although we have a strong

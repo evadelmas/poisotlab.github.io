@@ -1,27 +1,17 @@
-<!doctype html>
-<html class="no-js" lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  {% include header.html %}
+{% include header.html %}
 </head>
 <body>
 
-  <div class="content">
+{% include nav.html %}
 
-    <div class="navbar">
-      {% include nav.html %}
-      <div class="push"></div>
-      <div class="footer">
-        {% include footer.html %}
-      </div>
-    </div>
+{{ content }}
 
-    <div class="wrapper {{page.nav}}" id="main">
-
-      {{ content }}
-
-    </div>
-
-  </div>
-
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
 </body>
 </html>

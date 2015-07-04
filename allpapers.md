@@ -6,11 +6,25 @@ nav: papers
 
 # All papers
 
-{% for p in site.papers %}<div class="bibitem"><a name="{{forloop.rindex}}"></a>
-{{forloop.rindex}}. <span class="title">{{p.title}}</span> ({{ p.date }}{% if p.preprint %}; preprint{% endif %})<p /><span class="authors">{% for a in p.authors %}
-<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</span><p />
-{% if p.pdf %}<span class="fulltext"><a href="/pdf/{{p.pdf}}" title="{{p.title}}">Full text PDF</a>{% if p.preprint %} &mdash; <a href="http://dx.doi.org/{{p.doi}}">Citable preprint</a>{% endif %}</span><p />{% endif %}
-{% if p.in %}Published in <em>{{ p.in }}</em>{%if p.doi %} <a href="http://dx.doi.org/{{p.doi}}">journal version</a> &mdash; <code>{{p.doi}}</code>{% endif %}<p />{% endif %}</div>{% endfor %}
+{% for p in site.papers %}
+<div class="row">
+
+<div class="col-md-9">
+<span class="badge">{{forloop.rindex}}</span> <b>{{p.title}}</b><p />
+{% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+<br />{{ p.date }}{% if p.in %}; <em>{{ p.in }}</em>{% else %}{% if p.preprint %}; preprint{% endif %}{% endif %}
+</div>
+
+<div class="col-md-3">
+{% if p.pdf %}<a href="/pdf/{{p.pdf}}" title="{{p.title}}"><span class="label label-success">Full text PDF</span></a>{% endif %}
+
+{% if p.preprint %}<a href="http://dx.doi.org/{{p.doi}}"><span class="label label-info">Citable preprint</span></a>{% endif %}
+
+{% if p.in %}{%if p.doi %} <a href="http://dx.doi.org/{{p.doi}}"><span class="label label-warning">Journal version</span></a>{% endif %}<p />{% endif %}</div>
+</div>
+<hr/>
+{% endfor %}
+
 
 
 {% comment %}

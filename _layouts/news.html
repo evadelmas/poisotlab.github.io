@@ -1,10 +1,10 @@
 ---
-layout: base
+layout: page
 ---
 
 <h1>{{ page.title }}</h1>
 
-<span class="metadata">By {{ page.author }}, {{ page.date | date: '%B %d, %Y' }}</span>
+<p class="text-muted">By {{ page.author }}, {{ page.date | date: '%B %d, %Y' }}</p>
 
 {{ content }}
 
