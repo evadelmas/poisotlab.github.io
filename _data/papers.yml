@@ -12,9 +12,32 @@
     - name: M.B. Araujo
     - name: D.B. Stouffer
   date: 2015
-  doi: 10.1101/021402
-  pdf: poisot2015synthetic.pdf
-  preprint: yes
+  labels:
+    - type: preprint
+      doi: 10.1101/021402
+    - type: pdf
+      pdf: poisot2015synthetic.pdf
+- title: "mangal - making complex ecological network analysis simple"
+  featured: yes
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: B. Baiser
+    - name: J.A. Dunne
+    - name: S. Kéfi
+    - name: F. Massol
+    - name: N. Mouquet
+    - name: T.N. Romanuk
+    - name: D.B. Stouffer
+    - name: S.A. Wood
+    - name: D. Gravel
+  date: 2015
+  labels:
+    - type: preprint
+      doi: 10.1101/002634
+    - type: published
+      in: Ecography
+      doi: 10.1111/ecog.00976
 - title: "Connecting people and ideas from around the world: global innovation platforms for next-generation ecology and beyond"
   authors:
     - name: P.S. Jørgensen
@@ -34,8 +57,10 @@
     - name: B. Wee
     - name: N. Zimmerman
   date: 2015
-  doi: 10.1890/ES14-00198.1
-  in: Ecosphere
+  labels:
+    - type: published
+      doi: 10.1890/ES14-00198.1
+      in: Ecosphere
 - title: "The spread of a novel behaviour in wild chimpanzees: new insights into the ape cultural mind"
   authors:
     - name: T. Gruber
@@ -44,21 +69,22 @@
     - name: K. Zuberbühler
     - name: W. Hoppitt
     - name: C. Hobaiter
-  in: Communicative and Integrative Biology
-  doi: 10.1080/19420889.2015.1017164
+  labels:
+    - type: published
+      in: Communicative and Integrative Biology
+      doi: 10.1080/19420889.2015.1017164
   date: 2015
 - title: "Ongoing worldwide homogenization of human pathogens"
-  preprint: yes
-  doi: 10.1101/009977
   date: 2014
   authors:
     - name: T. Poisot
       type: pi
     - name: C. Nunn
     - name: S. Morand
+  labels:
+    - type: preprint
+      doi: 10.1101/009977
 - title: "Social network analysis shows direct evidence for social transmission of tool use in wild chimpanzees"
-  doi: 10.1371/journal.pbio.1001960
-  in: PLOS Biology
   date: 2014
   authors:
     - name: C. Hobaiter
@@ -67,8 +93,11 @@
     - name: K. Zuberbühler
     - name: W. Hoppitt
     - name: T. Gruber
+  labels:
+    - type: published
+      doi: 10.1371/journal.pbio.1001960
+      in: PLOS Biology
 - title: "A Continuum of Specialists and Generalists in Empirical Communities"
-  featured: yes
   authors:
     - name: T. Poisot
       type: pi
@@ -78,8 +107,19 @@
     - name: P.A. Marquet
     - name: M.E. Hochberg
   date: 2015
-  doi: 10.1371/journal.pone.0114674
-  in: PLOS One
+  labels:
+    - type: published
+      doi: 10.1371/journal.pone.0114674
+      in: PLOS One
+- title: "When is cophylogeny evidence of coevolution?"
+  date: 2015
+  authors:
+    - name: T. Poisot
+      type: pi
+  labels:
+    - type: chapter
+      url: http://www.cambridge.org/ca/academic/subjects/life-sciences/zoology/parasite-diversity-and-diversification-evolutionary-ecology-meets-phylogenetics
+      in: Parasite Diversity & Diversification
 - title: "Beyond species: why ecological interaction networks vary through space and time"
   featured: yes
   authors:
@@ -88,27 +128,59 @@
     - name: D.B. Stouffer
     - name: D. Gravel
   date: 2015
-  doi: 10.1111/oik.01719
-  in: Oikos
+  labels:
+    - type: published
+      doi: 10.1111/oik.01719
+      in: Oikos
+- title: "BiMAT: a MATLAB &reg; package to facilitate the analysis and visualization of bipartite networks"
+  date: 2015
+  authors:
+    - name: C.O. Flores
+    - name: T. Poisot
+      type: pi
+    - name: S. Valverde
+    - name: J.S. Weitz
+  labels:
+    - type: arxiv
+      arxiv: 1406.6732
+- title: "Dispersal and spatial heterogeneity allow coexistence between enemies and protective mutualists"
+  date: 2014
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: J.D. Bever
+    - name: P.H. Thrall
+    - name: M.E. Hochberg
+  labels:
+    - type: published
+      doi: 10.1002/ece3.1151
+      in: Ecology & Evolution
 - title: "When is an ecological network complex? Connectance drives degree distribution and emerging network properties"
   authors:
     - name: T. Poisot
       type: pi
     - name: D. Gravel
   date: 2014
-  doi: 10.7717/peerj.251
-  in: PeerJ
+  labels:
+    - type: published
+      doi: 10.7717/peerj.251
+      in: PeerJ
+    - type: preprint
+      doi: 10.7287/peerj.preprints.50v4
 - title: "Trophic complementarity drives the biodiversity-ecosystem functioning relationship in food webs"
-  in: Ecology Letters
   date: 2013
+  featured: yes
   authors:
     - name: T. Poisot
       type: pi
     - name: N. Mouquet
     - name: D. Gravel
+  labels:
+    - type: published
+      in: Ecology Letters
+      doi: 10.1111/ele.12118
 - title: "The structure of natural microbial enemy-victim networks"
   featured: yes
-  in: Ecological Processes
   date: 2013
   authors:
     - name: T. Poisot
@@ -118,20 +190,34 @@
       type: student
       eq: yes
     - name: M.E. Hochberg
-  doi: 10.1186/2192-1709-2-13
+  labels:
+    - type: published
+      doi: 10.1186/2192-1709-2-13
+      in: Ecological Processes
+    - type: dataset
+      doi: 10.6084/m9.figshare.97583
 - title: "An a posteriori measure of network modularity"
-  in: F1000 Research
   authors:
     - name: T. Poisot
       type: pi
   date: 2013
-  doi: 10.12688/f1000research.2-130.v3
-- title: "BiMAT: a MATLAB &reg; package to facilitate the analysis and visualization of bipartite networks"
+  labels:
+    - type: published
+      doi: 10.12688/f1000research.2-130.v3
+      in: F1000 Research
+- title: "Resource availability affects the structure of a natural bacteria-bacteriophage community"
+  date: 2010
   authors:
-    - name: C.O. Flores
     - name: T. Poisot
       type: pi
-    - name: S. Valverde
-    - name: J.S. Weitz
-  date: 2015
-  arxiv: 1406.6732
+    - name: G. Lepennetier
+      type: student
+    - name: E. Martinez
+    - name: J. Ramsayer
+    - name: M.E. Hochberg
+  labels:
+    - type: published
+      in: Biology Letters
+      doi: 10.1098/rsbl.2010.0774
+    - type: dataset
+      doi: 10.6084/m9.figshare.97583

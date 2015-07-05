@@ -22,15 +22,7 @@ nav: papers
 
 
 {% comment %}
-**T. Poisot**, J.D. Bever, P.H. Thrall & M.E. Hochberg (2014) Dispersal and spatial heterogeneity allow coexistence between enemies and protective mutualists. *Ecology & Evolution*. [online](http://onlinelibrary.wiley.com/doi/10.1002/ece3.1151/abstract). <i class="fa fa-unlock-alt"></i>
-
-**T. Poisot**, B. Baiser, J.A. Dunne, S. Kéfi, F. Massol, N. Mouquet, T.N. Romanuk, D.B. Stouffer, S.A. Wood & D. Gravel (2014) `mangal` - making complex ecological network analysis simpler. *bioRxiV*. [online](http://dx.doi.org/10.1101/002634), [website](http://mangal.uqar.ca/). <i class="fa fa-unlock-alt"></i>
-
-**T. Poisot** (in press) When is cophylogeny evidence of coevolution?. In *Evolutionary Ecology of Host-Parasite Systems*, Morand. S, Littlewod, T., and Poulin, R., eds. *Cambridge University Press*.
-
 F. Barraquand, T.H.G. Ezard, P.S. Joergensen, N. Zimmerman, S.A. Chamberlain, R. Salguero-Gómez, T.J. Curran, & **T. Poisot** (2014) Lack of quantitative training among early-career ecologists: a survey of the problem and potential solutions. *PeerJ*. [preprint](https://peerj.com/preprints/53/), [online](https://peerj.com/articles/285/). <i class="fa fa-unlock-alt"></i>
-
-**T. Poisot** & D. Gravel (2014) When is an ecological network complex? Connectance drives degree distribution and emerging network properties. *PeerJ*. [online](https://peerj.com/articles/251/), [preprint](https://peerj.com/preprints/50/), [github](https://github.com/tpoisot/ms_connectance_complexity). <i class="fa fa-unlock-alt"></i>
 
 D.&nbsp;Gravel, **T. Poisot**, C. Albouy, L. Velez & D. Mouillot (2013) Inferring food web structure from predator-prey body size relationships. *Methods in Ecology & Evolution*. [pdf]({{ site.url }}/reprints/gravel_mee_niche.pdf).
 
@@ -61,8 +53,6 @@ P.&nbsp;Desjardins-Proulx, **T. Poisot**, & D. Gravel (2012). A simple algorithm
 **T. Poisot**, O. Verneau & Y. Desdevises (2011) Morphological and molecular evolution are not linked in *Lamellodiscus*(Plathyhelminthes, Monogenea). *PLoS One* 6 (10) e26252. [online](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0026252). <i class="fa fa-unlock-alt"></i>
 
 **T. Poisot**, J.D. Bever, A. Nemri, P.H. Thrall & M.E. Hochberg (2011) A Conceptual Framework for the Evolution of Ecological Specialization. *Ecology Letters* 14 (9) 841–851. [online](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2011.01645.x/full). <i class="fa fa-unlock-alt"></i>
-
-**T. Poisot**, G. Lepennetier, E. Martinez, J. Ramsayer & M.E. Hochberg (2011) Resource availability affects the structure of a natural bacteria-bacteriophage community. *Biology Letters* 7 (2) 201-204. [pdf]({{ site.url }}/reprints/poisot_bl_phages.pdf), [data](http://figshare.com/articles/Bacteria-phage_adjacency_matrix_along_an_environmental_gradient/97583).
 
 P.S. Jørgensen, V. Bonhomme, T.H.G. Ezard, R.A. Hayes, **T. Poisot**, R. Salguero-gomez, S. Vizzini, N. Zimmerman. (2011) A global network of next generation ecologists. *INTECOL Bulletin* 5 (2) 4-6. [pdf]({{ site.url }}/reprints/jorgensen_intecol_innge.pdf).
 
