@@ -6,7 +6,7 @@ nav: papers
 
 # All papers
 
-{% for p in site.papers %}
+{% for p in site.data.papers %}
 <div class="row">
 
 <div class="col-md-9">

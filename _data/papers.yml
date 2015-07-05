@@ -1,0 +1,128 @@
+- title: "Synthetic datasets and community tools for the rapid testing of ecological hypotheses"
+  featured: yes
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: D. Gravel
+    - name: S. Leroux
+    - name: S.A. Wood
+    - name: M.J. Fortin
+    - name: B. Baiser
+    - name: A.R. Cirtwill
+    - name: M.B. Araujo
+    - name: D.B. Stouffer
+  date: 2015
+  doi: 10.1101/021402
+  pdf: poisot2015synthetic.pdf
+  preprint: yes
+- title: "Connecting people and ideas from around the world: global innovation platforms for next-generation ecology and beyond"
+  authors:
+    - name: P.S. Jørgensen
+    - name: F. Barraquand
+    - name: V. Bonhomme
+    - name: T.J. Curran
+    - name: E. Cieraad
+    - name: T.G. Ezard
+    - name: L.A. Gherardi
+    - name: R.A. Hayes
+    - name: T. Poisot
+      type: pi
+    - name: R. Salguero-Gómez
+    - name: L. DeSoto
+    - name: B. Swartz
+    - name: J.M. Talbot
+    - name: B. Wee
+    - name: N. Zimmerman
+  date: 2015
+  doi: 10.1890/ES14-00198.1
+  in: Ecosphere
+- title: "The spread of a novel behaviour in wild chimpanzees: new insights into the ape cultural mind"
+  authors:
+    - name: T. Gruber
+    - name: T. Poisot
+      type: pi
+    - name: K. Zuberbühler
+    - name: W. Hoppitt
+    - name: C. Hobaiter
+  in: Communicative and Integrative Biology
+  doi: 10.1080/19420889.2015.1017164
+  date: 2015
+- title: "Ongoing worldwide homogenization of human pathogens"
+  preprint: yes
+  doi: 10.1101/009977
+  date: 2014
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: C. Nunn
+    - name: S. Morand
+- title: "Social network analysis shows direct evidence for social transmission of tool use in wild chimpanzees"
+  doi: 10.1371/journal.pbio.1001960
+  in: PLOS Biology
+  date: 2014
+  authors:
+    - name: C. Hobaiter
+    - name: T. Poisot
+      type: pi
+    - name: K. Zuberbühler
+    - name: W. Hoppitt
+    - name: T. Gruber
+- title: "A Continuum of Specialists and Generalists in Empirical Communities"
+  featured: yes
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: S. Kéfi
+    - name: S. Morand
+    - name: M. Stanko
+    - name: P.A. Marquet
+    - name: M.E. Hochberg
+  date: 2015
+  doi: 10.1371/journal.pone.0114674
+  in: PLOS One
+- title: "Beyond species: why ecological interaction networks vary through space and time"
+  featured: yes
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: D.B. Stouffer
+    - name: D. Gravel
+  date: 2015
+  doi: 10.1111/oik.01719
+  in: Oikos
+- title: "When is an ecological network complex? Connectance drives degree distribution and emerging network properties"
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: D. Gravel
+  date: 2014
+  doi: 10.7717/peerj.251
+  in: PeerJ
+- title: "Trophic complementarity drives the biodiversity-ecosystem functioning relationship in food webs"
+  in: Ecology Letters
+  date: 2013
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: N. Mouquet
+    - name: D. Gravel
+- title: "The structure of natural microbial enemy-victim networks"
+  featured: yes
+  in: Ecological Processes
+  date: 2013
+  authors:
+    - name: T. Poisot
+      type: pi
+      eq: yes
+    - name: M. Lounnas
+      type: student
+      eq: yes
+    - name: M.E. Hochberg
+  doi: 10.1186/2192-1709-2-13
+- title: "An *a posteriori* measure of network modularity"
+  in: F1000 Research
+  authors:
+    - name: T. Poisot
+      type: pi
+  date: 2013
+  doi: 10.12688/f1000research.2-130.v3

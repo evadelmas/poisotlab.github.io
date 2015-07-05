@@ -8,7 +8,7 @@ nav: papers
 # Most representative, recent, or cool papers from the lab.<br />[But we have more](/allpapers/)!
 </div>
 
-{% for p in site.papers %}{% if p.featured %}
+{% for p in site.data.papers %}{% if p.featured %}
 <div class="row">
 
 <div class="col-md-9">

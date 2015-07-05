@@ -9,7 +9,7 @@ layout: page
 {{ content }}
 
 {% if page.paper %}
-{% for p in site.papers %}
+{% for p in site.data.papers %}
 {% if page.paper == forloop.rindex %}<div class="bibitem">
   {{forloop.rindex}}. <span class="title">{{p.title}}</span> ({{ p.date }}{% if p.preprint %}; preprint{% endif %})<p /><span class="authors">{% for a in p.authors %}
   <span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</span><p />
