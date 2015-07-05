@@ -119,10 +119,19 @@
       eq: yes
     - name: M.E. Hochberg
   doi: 10.1186/2192-1709-2-13
-- title: "An *a posteriori* measure of network modularity"
+- title: "An a posteriori measure of network modularity"
   in: F1000 Research
   authors:
     - name: T. Poisot
       type: pi
   date: 2013
   doi: 10.12688/f1000research.2-130.v3
+- title: "BiMAT: a MATLAB &reg; package to facilitate the analysis and visualization of bipartite networks"
+  authors:
+    - name: C.O. Flores
+    - name: T. Poisot
+      type: pi
+    - name: S. Valverde
+    - name: J.S. Weitz
+  date: 2015
+  arxiv: 1406.6732

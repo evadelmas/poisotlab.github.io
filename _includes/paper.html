@@ -1,0 +1,18 @@
+<div class="row">
+
+<div class="col-md-9">
+<span class="text-muted">{{forloop.rindex}}.</span> <b>{{p.title}}</b><p />
+{% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+<br />{{ p.date }}{% if p.in %}; <em>{{ p.in }}</em>{% else %}{% if p.preprint %}; preprint{% endif %}{% endif %}
+</div>
+
+<div class="col-md-3">
+{% if p.pdf %}<a href="/pdf/{{p.pdf}}" title="{{p.title}}"><span class="label label-success">Full text PDF</span></a>{% endif %}
+
+{% if p.preprint %}<a href="http://dx.doi.org/{{p.doi}}"><span class="label label-info">Citable preprint</span></a>{% endif %}
+
+{% if p.arxiv %}<a href="http://arxiv.org/abs/{{p.arxiv}}" title="{{p.title}} on arXiv"><span class="label label-primary">arXiv</span></a>{% endif %}
+
+{% if p.in %}{%if p.doi %} <a href="http://dx.doi.org/{{p.doi}}"><span class="label label-warning">Journal version</span></a>{% endif %}<p />{% endif %}</div>
+</div>
+<hr/>
