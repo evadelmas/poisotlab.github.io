@@ -1,15 +1,13 @@
 @import "/styles/colors.less";
 
-@import url(http://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700,700italic|PT+Serif:400,400italic,700,700italic);
 
 .d3{
   @import "/styles/d3.less";
 }
 
-body {
-  font-family: "Lato";
-  padding-bottom: 50px;
-  background: none;
+code, pre {
+  font-family: "PT Mono";
 }
 
 html {
@@ -17,14 +15,23 @@ html {
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
+  height: 100%;
+}
+
+body {
+  font-family: "PT Sans";
+  background: none;
+  height: 100%;
 }
 
 .content {
+  min-height: 100%;
   font-size: 1.1em;
-  margin-top: 4em;
-  margin-bottom: 4em;
+  border-radius: 1px;
+  padding: 30px;
+  padding-top: 100px;
+  padding-bottom: 20px;
   background: rgba(254, 254, 254, 0.9);
-  padding: 2em;
 }
 
 .img-circle {
@@ -39,12 +46,16 @@ html {
 }
 
 .whitelink {
-  color: #ddd;
+  color: #eee;
   text-shadow: none;
+  text-transform: lowercase;
 }
 
 .navbar-default {
-  background: #222;
+  background: none;
+  .container, .container-fluid{
+    background: #222;
+  }
   box-shadow: none;
   border: none;
   .navbar-header > a, li > a {

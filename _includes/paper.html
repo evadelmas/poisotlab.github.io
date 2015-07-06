@@ -6,7 +6,7 @@
 <br />{{ p.date }}
 </div>
 
-<div class="col-md-3">
+<div class="col-md-2 col-md-offset-1 text-right">
   {% for lab in p.labels %}
   {% if lab.type == "pdf" %}<a href="/pdf/{{lab.pdf}}" title="{{p.title}}"><span class="label label-success">Full text PDF</span></a>{% endif %}
   {% if lab.type == "published" %}<a href="http://dx.doi.org/{{lab.doi}}" title="{{ lab.in }}"><span class="label label-warning">Journal version</span></a>{% endif %}

@@ -1,20 +1,16 @@
 ---
 layout: page
-title: Selected papers
+title: Papers
 nav: papers
 ---
 
-<div class="row" markdown="1">
 # Selected papers
-</div>
 
 {% for p in site.data.papers %}{% if p.featured %}
 {% include paper.html %}
 {% endif %}{% endfor %}
 
-<div class="row" markdown="1">
 # All other papers
-</div>
 
 {% for p in site.data.papers %}{% if p.featured %}{% else %}
 {% include paper.html %}

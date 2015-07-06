@@ -4,43 +4,76 @@ title: People
 nav: people
 ---
 
-<img src="/mugshots/tim.jpg" class="img-circle" style="width: 50px; height: 50px"  /> **Timothée Poisot** is a
-computational ecologist, focused on understanding how and why species
-interactions vary over space and time. He uses network approaches, and is easily
-excited by methodology. Tim is a member of the [Québec Centre for Biodiversity
-Sciences][qcbs], rants about open science on [twitter](http://twitter.com/tpoi),
-has a [blog](https://medium.com/@tpoi/), and is on
-[github](http://github.com/tpoisot/) too. [Tim's abridged CV](/tim).
+<div class="row">
+<div class="col-xs-2 col-md-1">
+<img src="/mugshots/tim.jpg" class="img-circle" style="width: 50px; height: 50px"  />
+</div>
+<div class="col-xs-10 col-md-5" markdown="1">
 
-<img src="/mugshots/cynthiagueveneuxjulien.png" class="img-circle" style="width: 50px; height: 50px"  /> **Cynthia
-Guéveneux-Julien** is a summer student working on the spatial dissimilarity of
-host-parasite interactions at the continental scale. Her project is to determine
-how the structure and dissimilarity of networks varies at the margin of species
-distributions, and to identify which environmental variables are driving this
-variation.
+**Timothée Poisot** is a computational ecologist, focused on understanding how
+and why species interactions vary over space and time. He uses network
+approaches, and is easily excited by methodology. Tim is a member of the
+[Québec Centre for Biodiversity Sciences][qcbs], rants about open science on
+[twitter](http://twitter.com/tpoi), has a [blog](https://medium.com/@tpoi/),
+and is on [github](http://github.com/tpoisot/) too. [Tim's abridged CV](/tim).
+</div>
+</div>
 
-<img src="/mugshots/ameliemuller.jpg" class="img-circle" style="width: 50px; height: 50px"  /> **Amélie Muller** is a master's
-student from Strasbourg University, doing a 6-months research stay in the group.
-Her work is centered on understanding how interactions with pollinators
-contribute to the persistence of plants at different spatial scales, and how
-management programs could gain from focusing on the variability of interactions.
+# Current lab members
 
-<img src="/mugshots/philippedesjardinsproulx.jpg" class="img-circle" style="width: 50px; height: 50px"  /> **Philippe
-Desjardins-Proulx** is a PhD student with Tim and [Dominique Gravel][dom]. His
-research focuses on applying machine learning and deep transfer knowledge to
-solve complicated ecological problems of all sorts, and he has more informations
-about it on his [website](http://phdp.github.io/). He talks about Haskell too
-much on [twitter](http://twitter.com/phdpqc/), and does thing in esoteric
-programming languages on [github](http://github.com/phdp/).
+<div class="row">
+<div class="col-xs-2 col-md-1">
+<img src="/mugshots/cynthiagueveneuxjulien.png" class="img-circle" style="width: 50px; height: 50px"  />
+</div>
+<div class="col-xs-10 col-md-5" markdown="1">
+**Cynthia Guéveneux-Julien** is a summer student working on the spatial
+dissimilarity of host-parasite interactions at the continental scale. Her
+project is to determine how the structure and dissimilarity of networks varies
+at the margin of species distributions, and to identify which environmental
+variables are driving this variation.
+</div>
+
+<div class="col-xs-2 col-md-1">
+<img src="/mugshots/ameliemuller.jpg" class="img-circle" style="width: 50px; height: 50px"  />
+</div>
+<div class="col-xs-10 col-md-5" markdown="1">
+**Amélie Muller** is a master's student from Strasbourg University, doing a
+6-months research stay in the group. Her work is centered on understanding how
+interactions with pollinators contribute to the persistence of plants at
+different spatial scales, and how management programs could gain from focusing
+on the variability of interactions.
+</div>
+
+<div class="col-xs-2 col-md-1">
+<img src="/mugshots/philippedesjardinsproulx.jpg" class="img-circle" style="width: 50px; height: 50px"  />
+</div>
+<div class="col-xs-10 col-md-5" markdown="1">
+**Philippe Desjardins-Proulx** is a PhD student with Tim and [Dominique
+Gravel][dom]. His research focuses on applying machine learning and deep
+transfer knowledge to solve complicated ecological problems of all sorts, and
+he has more informations about it on his [website](http://phdp.github.io/). He
+talks about Haskell too much on [twitter](http://twitter.com/phdpqc/), and
+does thing in esoteric programming languages on
+[github](http://github.com/phdp/).
+</div>
+</div>
 
 # Former lab members
 
-<img src="/mugshots/renaudmckinnon.png" class="img-circle" style="width: 50px; height: 50px"  /> **Renaud Mc Kinnon**
+<div class="row">
+<div class="col-xs-2 col-md-1">
+<img src="/mugshots/renaudmckinnon.png" class="img-circle" style="width: 50px; height: 50px"  />
+</div>
+<div class="col-xs-10 col-md-5" markdown="1">
+**Renaud Mc Kinnon**
 completed his MSc student with Tim, [Dominique Gravel][dom] and [Steven
 Kembel][skemb]. His research focused on interactions between trees from
 experimental plantations and their microbial ectosymbionts, to understand how
 different levels of biodiversity (interactions, functional traits, taxonomy)
 shape ecosystem functioning.
+</div>
+</div>
+
 
 [qcbs]: http://qcbs.ca/fr/membres/les-chercheurs/?profile=166
 [dom]: http://chaire-eec.uqar.ca/
