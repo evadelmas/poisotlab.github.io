@@ -107,29 +107,6 @@
       in: Communicative and Integrative Biology
       doi: 10.1080/19420889.2015.1017164
   date: 2015
-- title: "Ongoing worldwide homogenization of human pathogens"
-  date: 2014
-  authors:
-    - name: T. Poisot
-      type: pi
-    - name: C. Nunn
-    - name: S. Morand
-  labels:
-    - type: preprint
-      doi: 10.1101/009977
-- title: "Social network analysis shows direct evidence for social transmission of tool use in wild chimpanzees"
-  date: 2014
-  authors:
-    - name: C. Hobaiter
-    - name: T. Poisot
-      type: pi
-    - name: K. Zuberbühler
-    - name: W. Hoppitt
-    - name: T. Gruber
-  labels:
-    - type: published
-      doi: 10.1371/journal.pbio.1001960
-      in: PLOS Biology
 - title: "A Continuum of Specialists and Generalists in Empirical Communities"
   authors:
     - name: T. Poisot
@@ -176,6 +153,45 @@
   labels:
     - type: arxiv
       arxiv: 1406.6732
+- title: "Lack of quantitative training among early-career ecologists: a survey of the problem and potential solutions."
+  date: 2014
+  authors:
+    - name: F. Barraquand
+    - name: T.H.G. Ezard
+    - name: P.S. Joergensen
+    - name: N. Zimmerman
+    - name: S.A. Chamberlain
+    - name: R. Salguero-Gómez
+    - name: T.J. Curran
+    - name: T. Poisot
+      type: pi
+  labels:
+    - type: published
+      in: PeerJ
+      doi: 10.7717/peerj.285
+- title: "Ongoing worldwide homogenization of human pathogens"
+  date: 2014
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: C. Nunn
+    - name: S. Morand
+  labels:
+    - type: preprint
+      doi: 10.1101/009977
+- title: "Social network analysis shows direct evidence for social transmission of tool use in wild chimpanzees"
+  date: 2014
+  authors:
+    - name: C. Hobaiter
+    - name: T. Poisot
+      type: pi
+    - name: K. Zuberbühler
+    - name: W. Hoppitt
+    - name: T. Gruber
+  labels:
+    - type: published
+      doi: 10.1371/journal.pbio.1001960
+      in: PLOS Biology
 - title: "Dispersal and spatial heterogeneity allow coexistence between enemies and protective mutualists"
   date: 2014
   authors:

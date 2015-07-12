@@ -18,8 +18,6 @@ nav: papers
 
 
 {% comment %}
-F. Barraquand, T.H.G. Ezard, P.S. Joergensen, N. Zimmerman, S.A. Chamberlain, R. Salguero-Gómez, T.J. Curran, & **T. Poisot** (2014) Lack of quantitative training among early-career ecologists: a survey of the problem and potential solutions. *PeerJ*. [preprint](https://peerj.com/preprints/53/), [online](https://peerj.com/articles/285/). <i class="fa fa-unlock-alt"></i>
-
 D.&nbsp;Gravel, **T. Poisot**, C. Albouy, L. Velez & D. Mouillot (2013) Inferring food web structure from predator-prey body size relationships. *Methods in Ecology & Evolution*. [pdf]({{ site.url }}/reprints/gravel_mee_niche.pdf).
 
 D. Gravel, **T. Poisot** & P. Desjardins-Proulx (2013) Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes. *Journal of Limnology*. [github](https://github.com/DominiqueGravel/ms_neutral_theory), [pdf]({{site.url}}/reprints/gravel_limno_neutrality.pdf).
