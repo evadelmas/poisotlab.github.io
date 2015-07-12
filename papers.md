@@ -44,8 +44,6 @@ P.&nbsp;Desjardins-Proulx, **T. Poisot**, & D. Gravel (2012). A simple algorithm
 
 **T. Poisot**, P.H. Thrall, M.E. Hochberg (2012) Trophic network structure emerges through antagonistic coevolution in temporally varying environments. *Proceedings of the Royal Society B: Biological Sciences*, 279 (1712) 299–308. [pdf]({{ site.url }}/reprints/poisot_prslb_coevolution.pdf), [suppl. mat.]({{ site.url }}/reprints/PRSLB_2011_supplementary-material.pdf).
 
-**T. Poisot**, O. Verneau & Y. Desdevises (2011) Morphological and molecular evolution are not linked in *Lamellodiscus*(Plathyhelminthes, Monogenea). *PLoS One* 6 (10) e26252. [online](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0026252). <i class="fa fa-unlock-alt"></i>
-
 **T. Poisot**, J.D. Bever, A. Nemri, P.H. Thrall & M.E. Hochberg (2011) A Conceptual Framework for the Evolution of Ecological Specialization. *Ecology Letters* 14 (9) 841–851. [online](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2011.01645.x/full). <i class="fa fa-unlock-alt"></i>
 
 P.S. Jørgensen, V. Bonhomme, T.H.G. Ezard, R.A. Hayes, **T. Poisot**, R. Salguero-gomez, S. Vizzini, N. Zimmerman. (2011) A global network of next generation ecologists. *INTECOL Bulletin* 5 (2) 4-6. [pdf]({{ site.url }}/reprints/jorgensen_intecol_innge.pdf).
