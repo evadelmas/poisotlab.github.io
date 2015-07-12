@@ -253,6 +253,18 @@
     - type: published
       doi: 10.12688/f1000research.2-130.v3
       in: F1000 Research
+- title: "Morphological and molecular evolution are not linked in Lamellodiscus (Plathyhelminthes, Monogenea)"
+  date: 2011
+  key: poisot11morpho
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: O. Verneau
+    - name: Y. Desdevises
+  labels:
+    - type: published
+      in: PLOS One
+      doi: 10.1371/journal.pone.0026252
 - title: "Resource availability affects the structure of a natural bacteria-bacteriophage community"
   date: 2010
   authors:
