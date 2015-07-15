@@ -34,8 +34,6 @@ J.S. Weitz, **T. Poisot**, J.R. Meyer, C.O. Flores, S. Valverde, M.B. Sullivan &
 
 **T. Poisot**, T. Bell, E. Martinez, C. Gougat-Barbera & M.E. Hochberg (2012) Terminal investment induced by a bacteriophage in a rhizosphere bacterium. *F1000 Research*. [online](http://f1000research.com/articles/1-21/v2).  <i class="fa fa-unlock-alt"></i>
 
-**T. Poisot**, E. Canard, D. Mouillot, N. Mouquet & D. Gravel (2012) The dissimilarity of species interaction networks. *Ecology Letters*, 15 (12) 1353-1361. [pdf]({{ site.url }}/reprints/poisot_ele_betalink.pdf), [suppl. mat.]({{ site.url }}/reprints/poisot_ele_betalink_suppmat.pdf), [R package](https://github.com/tpoisot/betalink). <i class="fa fa-unlock-alt"></i>
-
 **T. Poisot**, E. Canard, N. Mouquet & M.E. Hochberg (2012) A comparative study of ecological specialization estimators. *Methods in Ecology & Evolution*, 3 (3) 537-544. [pdf]({{ site.url }}/reprints/poisot_methodsecolevol_pdi.pdf), [R package](https://r-forge.r-project.org/R/?group_id=593).
 
 **T. Poisot** (2012) L'ABC de la spécialisation: apparition, biodiversité, conservation. *Le Prisme à Idées* 4, 49-52. Vulgarization paper in French for the special issue *From uncertainty to risk*. [pdf]( {{ site.url }}/reprints/poisot_prisme_abc.pdf).

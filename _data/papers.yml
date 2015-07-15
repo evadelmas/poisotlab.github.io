@@ -253,6 +253,23 @@
     - type: published
       doi: 10.12688/f1000research.2-130.v3
       in: F1000 Research
+- title: "The dissimilarity of species interaction networks"
+  key: poisot12dissim
+  date: 2012
+  featured: yes
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: E. Canard
+    - name: D. Mouillot
+    - name: N. Mouquet
+    - name: D. Gravel
+  labels:
+    - type: published
+      in: Ecology Letters
+      doi: 10.1111/ele.12002
+    - type: cran
+      package: betalink
 - title: "Morphological and molecular evolution are not linked in Lamellodiscus (Plathyhelminthes, Monogenea)"
   date: 2011
   key: poisot11morpho

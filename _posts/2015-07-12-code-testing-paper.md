@@ -5,7 +5,7 @@ author: Tim
 paper: poisot15bestpub
 ---
 
-Tim puslished a new paper on the best practices to release scientific software
+Tim published a new paper on the best practices to release scientific software
 for publication, in *Ideas in Ecology & Evolution*. Ethan White wrote a very
 insightful reply on the [citation of code][cite], which is of course well worth
 reading.
