@@ -31,7 +31,7 @@ nav: software
 
 # Python packages
 
-[pymangal](https://github.com/mangal-wg/pymangal) allows interactions with mangal.io. It is recommended over the `R` package, especially for upload.
+[pymangal](https://github.com/mangal-wg/pymangal) allows interactions with mangal.io. It is recommended over the `R` package, especially for upload. Can be installed with `pip install pymangal`.
 
 [![Build Status](https://travis-ci.org/mangal-wg/pymangal.png?branch=master)](https://travis-ci.org/mangal-wg/pymangal)
 [![Coverage Status](https://coveralls.io/repos/mangal-wg/pymangal/badge.svg?branch=master&service=github)](https://coveralls.io/github/mangal-wg/pymangal?branch=master) [![codecov.io](http://codecov.io/github/mangal-wg/pymangal/coverage.svg?branch=master)](http://codecov.io/github/mangal-wg/pymangal?branch=master)
