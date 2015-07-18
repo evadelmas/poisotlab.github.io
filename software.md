@@ -6,12 +6,12 @@ nav: software
 
 # R packages
 
-[PACO](https://github.com/PoisotLab/paco) implements procrustes analysis of co-phylogenetic signal.
+[PACO](https://github.com/PoisotLab/paco) implements procrustes analysis of co-phylogenetic signal. It can be installed from CRAN (`install.packages('paco')`).
 
 [![Build Status](https://travis-ci.org/PoisotLab/paco.svg?branch=master)](https://travis-ci.org/PoisotLab/paco)
 [![Coverage Status](https://coveralls.io/repos/PoisotLab/paco/badge.svg)](https://coveralls.io/r/PoisotLab/paco)
 
-[LP-BRIM](https://github.com/PoisotLab/lpbrim) is a way to find modules in large networks.
+[LP-BRIM](https://github.com/PoisotLab/lpbrim) is a way to find modules in large networks. It can be installed from CRAN (`install.packages('lpbrim')`).
 
 [betalink](https://github.com/PoisotLab/betalink) provides measures of network beta-diversity. It can be installed from CRAN (`install.packages('betalink')`).
 
