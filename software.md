@@ -17,13 +17,13 @@ nav: software
 
 # Julia packages
 
-[ProbabilisticNetwork.jl](https://github.com/PoisotLab/ProbabilisticNetwork.jl) provides probabilistic measures of network structure.
+[EcologicalNetwork.jl](https://github.com/PoisotLab/ProbabilisticNetwork.jl) provides measures of network structure, including probabilistic networks. Can be installed with `Pkg.add("EcologicalNetwork")`.
 
-[![Build Status](https://travis-ci.org/PoisotLab/ProbabilisticNetwork.jl.svg?branch=master)](https://travis-ci.org/PoisotLab/ProbabilisticNetwork.jl)
+[![Build Status](https://travis-ci.org/PoisotLab/EcologicalNetwork.jl.svg?branch=master)](https://travis-ci.org/PoisotLab/EcologicalNetwork.jl)
 [![Coverage Status](https://coveralls.io/repos/PoisotLab/ProbabilisticNetwork.jl/badge.svg)](https://coveralls.io/r/PoisotLab/ProbabilisticNetwork.jl)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.16578.svg)](http://dx.doi.org/10.5281/zenodo.16578)
 
-[Brim.jl](https://github.com/PoisotLab/Brim.jl) is a fast implementation of various modularity optimization routines.
+[Brim.jl](https://github.com/PoisotLab/Brim.jl) is a fast implementation of various modularity optimization routines. Can be installed with `Pkg.add("Brim")`.
 
 [![Build Status](https://travis-ci.org/PoisotLab/Brim.jl.svg?branch=master)](https://travis-ci.org/PoisotLab/Brim.jl)
 [![Coverage Status](https://coveralls.io/repos/PoisotLab/Brim.jl/badge.svg?branch=master)](https://coveralls.io/r/PoisotLab/Brim.jl?branch=master)
