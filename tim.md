@@ -25,3 +25,11 @@ FRQNT Starting investigator grant, *Statistical approaches to the variation of b
 Université de Montréal starting grant, 2015-2018, 25k CAD
 
 Canadian Institute of Ecology & Evolution working group, *Community ecology at the continental scale*, 2014-2015, 14k CAD
+
+# Academic citizenship
+
+Vice chair of the Open Science section, Ecological Society of America
+
+Associate editor (software), Methods in Ecology & Evolution
+
+Board member, Société Française d'Écologie

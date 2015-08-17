@@ -1,3 +1,27 @@
+- title: "The next generation of action ecology: novel approaches towards global ecological research"
+  key: innge2015action
+  authors:
+    - name: R.L. White
+    - name: A.E. Sutton
+    - name: R. Salguero-Gómez
+    - name: T.C. Bray
+    - name: H. Campbell
+    - name: E. Cieraad
+    - name: N. Geekiyanage
+    - name: L. Gherardi
+    - name: A.C. Hughes
+    - name: P.S. Jørgensen
+    - name: T. Poisot
+      type: pi
+    - name: L. DeSoto
+    - name: N. Zimmerman
+  date: 2015
+  labels:
+    - type: published
+      doi: 10.1890/ES14-00485.1
+      in: Ecosphere
+    - type: pdf
+      pdf: innge2015action.pdf
 - title: "Bacteriophage richness reduces bacterial niche overlap in experimental microcosms"
   key: matias15bacterio
   authors:
