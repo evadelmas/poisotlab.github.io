@@ -1,0 +1,22 @@
+- name: Brim.jl
+  language: julia
+  org: PoisotLab
+  reponame: Brim.jl
+  available: true
+  description: Brim optimization of modularity and significance testing
+  services:
+    - travis
+    - codecov
+    - coveralls
+    - rtd: brimjl
+- name: EcologicalNetwork.jl
+  language: julia
+  org: PoisotLab
+  reponame: EcologicalNetwork.jl
+  available: true
+  description: Measures for binary and probabilistic ecological networks
+  services:
+    - travis
+    - codecov
+    - coveralls
+    - rtd: ecologicalnetworkjl
