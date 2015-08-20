@@ -1,3 +1,17 @@
+- title: "The structure of probabilistic networks"
+  key: poisot2015proba
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: A. Cirtwill
+    - name: K. Cazelles
+    - name: D. Gravel
+    - name: M.J. Fortin
+    - name: D.B. Stouffer
+  labels:
+    - type: preprint
+      doi: 10.1101/016485
+  date: 2015
 - title: "The next generation of action ecology: novel approaches towards global ecological research"
   key: innge2015action
   authors:
@@ -118,6 +132,8 @@
     - type: published
       doi: 10.1890/ES14-00198.1
       in: Ecosphere
+    - type: preprint
+      doi: 10.1101/012666
 - title: "The spread of a novel behaviour in wild chimpanzees: new insights into the ape cultural mind"
   authors:
     - name: T. Gruber
@@ -166,6 +182,8 @@
     - type: published
       doi: 10.1111/oik.01719
       in: Oikos
+    - type: preprint
+      doi: 10.1101/001677
 - title: "BiMAT: a MATLAB &reg; package to facilitate the analysis and visualization of bipartite networks"
   date: 2015
   authors:
@@ -252,6 +270,19 @@
     - type: published
       in: Ecology Letters
       doi: 10.1111/ele.12118
+- title: Inferring food web structure from predator-prey body size relationships.
+  date: 2013
+  authors:
+    - name: D. Gravel
+    - name: T. Poisot
+      type: pi
+    - name: C. Albouy
+    - name: L. Velez
+    - name: D. Mouillot
+  labels:
+    - type: published
+      in: Methods in Ecology & Evolution
+      doi: 10.1111/2041-210X.12103
 - title: "The structure of natural microbial enemy-victim networks"
   date: 2013
   authors:

@@ -18,7 +18,6 @@ nav: papers
 
 
 {% comment %}
-D.&nbsp;Gravel, **T. Poisot**, C. Albouy, L. Velez & D. Mouillot (2013) Inferring food web structure from predator-prey body size relationships. *Methods in Ecology & Evolution*. [pdf]({{ site.url }}/reprints/gravel_mee_niche.pdf).
 
 D. Gravel, **T. Poisot** & P. Desjardins-Proulx (2013) Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes. *Journal of Limnology*. [github](https://github.com/DominiqueGravel/ms_neutral_theory), [pdf]({{site.url}}/reprints/gravel_limno_neutrality.pdf).
 
