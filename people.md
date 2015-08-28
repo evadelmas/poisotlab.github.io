@@ -21,6 +21,8 @@ and is on [github](http://github.com/tpoisot/) too. [Tim's abridged CV](/tim).
 
 # Current lab members
 
+<div class="row">
+
 <div class="col-xs-2 col-md-1">
 <img src="/mugshots/philippedesjardinsproulx.jpg" class="img-circle" style="width: 50px; height: 50px"  />
 </div>
@@ -33,11 +35,13 @@ talks about Haskell too much on [twitter](http://twitter.com/phdpqc/), and
 does thing in esoteric programming languages on
 [github](http://github.com/phdp/).
 </div>
+
 </div>
 
 # Former lab members
 
 <div class="row">
+
 <div class="col-xs-2 col-md-1">
 <img src="/mugshots/renaudmckinnon.png" class="img-circle" style="width: 50px; height: 50px"  />
 </div>
@@ -49,17 +53,15 @@ experimental plantations and their microbial ectosymbionts, to understand how
 different levels of biodiversity (interactions, functional traits, taxonomy)
 shape ecosystem functioning.
 </div>
-</div>
 
-<div class="row">
 <div class="col-xs-2 col-md-1">
 <img src="/mugshots/cynthiagueveneuxjulien.png" class="img-circle" style="width: 50px; height: 50px"  />
 </div>
 <div class="col-xs-10 col-md-5" markdown="1">
-**Cynthia Guéveneux-Julien** worked as a summer student on the spatial
+**Cynthia Guéveneux-Julien** worked as a summer student, on the spatial
 dissimilarity of host-parasite interactions at the continental scale. Her
-project yielded new insights on how the structure and dissimilarity of networks varies
-at the margin of species distributions, and how ti identify which environmental
+project gave new insights on how the structure and dissimilarity of networks varies
+at the margin of species distributions, and how to best identify which environmental
 variables are driving this variation.
 </div>
 
@@ -67,13 +69,14 @@ variables are driving this variation.
 <img src="/mugshots/ameliemuller.jpg" class="img-circle" style="width: 50px; height: 50px"  />
 </div>
 <div class="col-xs-10 col-md-5" markdown="1">
-**Amélie Muller** worked as a master's student from Strasbourg University, doing a
-6-months research stay in the group. Her work centered on understanding how
+**Amélie Muller** was a master's student from Strasbourg University, doing a
+6-months research stay in the group. Her work focused on understanding how
 interactions with pollinators contribute to the persistence of plants at
-different spatial scales, and how management programs could gain from focusing
-on the variability of interactions.
+different spatial scales, and how management programs could gain from relying on
+the variability of interactions.
 </div>
 
+</div>
 
 
 [qcbs]: http://qcbs.ca/fr/membres/les-chercheurs/?profile=166
