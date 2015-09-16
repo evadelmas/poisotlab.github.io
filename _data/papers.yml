@@ -186,6 +186,7 @@
       doi: 10.1101/001677
 - title: "BiMAT: a MATLAB &reg; package to facilitate the analysis and visualization of bipartite networks"
   date: 2015
+  key: flores2015bimat
   authors:
     - name: C.O. Flores
     - name: T. Poisot
@@ -195,6 +196,9 @@
   labels:
     - type: arxiv
       arxiv: 1406.6732
+    - type: published
+      doi: 10.1111/2041-210X.12458
+      in: Methods in Ecology & Evolution
 - title: "Lack of quantitative training among early-career ecologists: a survey of the problem and potential solutions."
   date: 2014
   authors:
