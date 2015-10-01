@@ -24,6 +24,17 @@ and is on [github](http://github.com/tpoisot/) too. [Tim's abridged CV](/tim).
 <div class="row">
 
 <div class="col-xs-2 col-md-1">
+<img src="/mugshots/cynthiagueveneuxjulien.png" class="img-circle" style="width: 50px; height: 50px"  />
+</div>
+<div class="col-xs-10 col-md-5" markdown="1">
+**Cynthia Guéveneux-Julien** is an undergraduate research assistant, working on the spatial
+dissimilarity of host-parasite interactions at the continental scale. Her
+project is giving new insights on how the structure and dissimilarity of networks varies
+at the margin of species distributions, and how to best identify which environmental
+variables are driving this variation.
+</div>
+
+<div class="col-xs-2 col-md-1">
 <img src="/mugshots/philippedesjardinsproulx.jpg" class="img-circle" style="width: 50px; height: 50px"  />
 </div>
 <div class="col-xs-10 col-md-5" markdown="1">
@@ -52,17 +63,6 @@ Kembel][skemb]. His research focused on interactions between trees from
 experimental plantations and their microbial ectosymbionts, to understand how
 different levels of biodiversity (interactions, functional traits, taxonomy)
 shape ecosystem functioning.
-</div>
-
-<div class="col-xs-2 col-md-1">
-<img src="/mugshots/cynthiagueveneuxjulien.png" class="img-circle" style="width: 50px; height: 50px"  />
-</div>
-<div class="col-xs-10 col-md-5" markdown="1">
-**Cynthia Guéveneux-Julien** worked as a summer student, on the spatial
-dissimilarity of host-parasite interactions at the continental scale. Her
-project gave new insights on how the structure and dissimilarity of networks varies
-at the margin of species distributions, and how to best identify which environmental
-variables are driving this variation.
 </div>
 
 <div class="col-xs-2 col-md-1">

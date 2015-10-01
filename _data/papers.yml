@@ -70,6 +70,7 @@
       pdf: poisot2015bestpublishing.pdf
 - title: "Synthetic datasets and community tools for the rapid testing of ecological hypotheses"
   featured: yes
+  key: syntheticdatasets2015
   authors:
     - name: T. Poisot
       type: pi
