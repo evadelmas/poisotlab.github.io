@@ -6,7 +6,7 @@ nav: people
 
 <div class="row">
 <div class="col-xs-2 col-md-1">
-<img src="/mugshots/tim.jpg" class="img-circle" style="width: 50px; height: 50px"  />
+<img src="/mugshots/tim.jpg" class="img-circle" style="width: 70px; height: 70px"  />
 </div>
 <div class="col-xs-10 col-md-5" markdown="1">
 
@@ -24,7 +24,17 @@ and is on [github](http://github.com/tpoisot/) too. [Tim's abridged CV](/tim).
 <div class="row">
 
 <div class="col-xs-2 col-md-1">
-<img src="/mugshots/cynthiagueveneuxjulien.png" class="img-circle" style="width: 50px; height: 50px"  />
+<img src="/mugshots/evadelmas.jpg" class="img-circle" style="width: 70px; height: 70px"  />
+</div>
+<div class="col-xs-10 col-md-5" markdown="1">
+**Eva Delmas** is a PhD student with Tim and [Daniel Stouffer][stouffer]. Her
+research project deals with understanding how food web structure can be used
+to predict ecosystem functioning and biomass fluxes across ecosystems, and how
+species functional roles predict their contribution to ecosystem functions.
+</div>
+
+<div class="col-xs-2 col-md-1">
+<img src="/mugshots/cynthiagueveneuxjulien.png" class="img-circle" style="width: 70px; height: 70px"  />
 </div>
 <div class="col-xs-10 col-md-5" markdown="1">
 **Cynthia Guéveneux-Julien** is an undergraduate research assistant, working on the spatial
@@ -35,7 +45,7 @@ variables are driving this variation.
 </div>
 
 <div class="col-xs-2 col-md-1">
-<img src="/mugshots/philippedesjardinsproulx.jpg" class="img-circle" style="width: 50px; height: 50px"  />
+<img src="/mugshots/philippedesjardinsproulx.jpg" class="img-circle" style="width: 70px; height: 70px"  />
 </div>
 <div class="col-xs-10 col-md-5" markdown="1">
 **Philippe Desjardins-Proulx** is a PhD student with Tim and [Dominique
@@ -54,7 +64,7 @@ does thing in esoteric programming languages on
 <div class="row">
 
 <div class="col-xs-2 col-md-1">
-<img src="/mugshots/renaudmckinnon.png" class="img-circle" style="width: 50px; height: 50px"  />
+<img src="/mugshots/renaudmckinnon.png" class="img-circle" style="width: 70px; height: 70px"  />
 </div>
 <div class="col-xs-10 col-md-5" markdown="1">
 **Renaud Mc Kinnon**
@@ -66,7 +76,7 @@ shape ecosystem functioning.
 </div>
 
 <div class="col-xs-2 col-md-1">
-<img src="/mugshots/ameliemuller.jpg" class="img-circle" style="width: 50px; height: 50px"  />
+<img src="/mugshots/ameliemuller.jpg" class="img-circle" style="width: 70px; height: 70px"  />
 </div>
 <div class="col-xs-10 col-md-5" markdown="1">
 **Amélie Muller** was a master's student from Strasbourg University, doing a
@@ -82,3 +92,4 @@ the variability of interactions.
 [qcbs]: http://qcbs.ca/fr/membres/les-chercheurs/?profile=166
 [dom]: http://chaire-eec.uqar.ca/
 [skemb]: http://phylodiversity.net/skembel/index.html
+[stouffer]: http://stoufferlab.org/
