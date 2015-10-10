@@ -21,12 +21,6 @@ nav: papers
 
 **T. Poisot**, R. Mounce & D. Gravel (2013) Moving toward a sustainable ecological science: don't let data go to waste!. *Ideas in Ecology & Evolution*, under review for the Open Science special issue. [online](http://library.queensu.ca/ojs/index.php/IEE/article/view/4632), [preprint](http://figshare.com/articles/Moving_toward_a_sustainable_ecological_science_don_t_let_data_go_to_waste_/693745). <i class="fa fa-unlock-alt"></i>
 
-**T. Poisot**, M. Stanko, D. Miklisova & S. Morand (2013) Facultative and obligate parasite communities exhibit different network properties. *Parasitology*. [pdf]({{ site.url }}/reprints/poisot_parasitology_differences.pdf)
-
-P.&nbsp;Desjardins-Proulx, E.P. White, J.J. Adamson, K. Ram, **T. Poisot**, D. Gravel (2013) The case for preprints in biology. *PLoS Biology*. [online](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001563). <i class="fa fa-unlock-alt"></i>
-
-**T. Poisot** <i class="fa fa-star-o"></i>, B. Péquin <i class="fa fa-star-o"></i> & D. Gravel <i class="fa fa-star-o"></i> (2013) High-Throughput Sequencing: A roadmap towards community ecology. *Ecology & Evolution*. [online](http://onlinelibrary.wiley.com/doi/10.1002/ece3.508/full). <i class="fa fa-unlock-alt"></i>
-
 J.S. Weitz, **T. Poisot**, J.R. Meyer, C.O. Flores, S. Valverde, M.B. Sullivan & M.E. Hochberg (2013) Phage-bacteria infection networks. *Trends in Microbiology*, 21 (2) 82–91. [pdf]({{ site.url }}/reprints/weitz_tim_pbin.pdf).
 
 **T. Poisot**, T. Bell, E. Martinez, C. Gougat-Barbera & M.E. Hochberg (2012) Terminal investment induced by a bacteriophage in a rhizosphere bacterium. *F1000 Research*. [online](http://f1000research.com/articles/1-21/v2).  <i class="fa fa-unlock-alt"></i>

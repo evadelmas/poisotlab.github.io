@@ -263,6 +263,18 @@
       in: PeerJ
     - type: preprint
       doi: 10.7287/peerj.preprints.50v4
+- title: "Facultative and obligate parasite communities exhibit different network properties"
+  date: 2013
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: M. Stanko
+    - name: D. Miklisova
+    - name: S. Morand
+  labels:
+    - type: published
+      in: Parasitology
+      doi: 10.1017/S0031182013000851
 - title: "Trophic complementarity drives the biodiversity-ecosystem functioning relationship in food webs"
   date: 2013
   featured: yes
@@ -288,6 +300,21 @@
     - type: published
       in: Methods in Ecology & Evolution
       doi: 10.1111/2041-210X.12103
+- title: The case for preprints in biology.
+  date: 2013
+  authors:
+    - name: P. Desjardins-Proulx
+      type: student
+    - name: E.P. White
+    - name: J.J. Adamson
+    - name: K. Ram
+    - name: T. Poisot
+      type: pi
+    - name: D. Gravel
+  labels:
+    - type: published
+      in: PLOS Biology
+      doi: 10.1371/journal.pbio.1001563
 - title: "The structure of natural microbial enemy-victim networks"
   date: 2013
   authors:
@@ -304,6 +331,17 @@
       in: Ecological Processes
     - type: dataset
       doi: 10.6084/m9.figshare.97583
+- title: "High-Throughput Sequencing: A roadmap towards community ecology."
+  authors:
+    - name: T. Poisot
+      type: pi
+    - name: B. Péquin
+    - name: D. Gravel
+  date: 2013
+  labels:
+    - type: published
+      in: Ecology & Evolution
+      doi: 10.1002/ece3.508/full
 - title: Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes.
   date: 2013
   authors:
