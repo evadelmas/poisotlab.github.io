@@ -20,3 +20,33 @@
     - codecov
     - coveralls
     - rtd: ecologicalnetworkjl
+- name: paco
+  language: R
+  org: PoisotLab
+  reponame: paco
+  available: true
+  description: Cophylogenetic analyses using procrustres
+  services:
+    - travis
+- name: lpbrim
+  language: R
+  org: PoisotLab
+  reponame: lpbrim
+  available: true
+  description: LP-BRIM module detection
+- name: betalink
+  language: R
+  org: PoisotLab
+  reponame: betalink
+  available: true
+  description: "&beta;-diversity of species interaction networks"
+- name: pymangal
+  language: python
+  org: mangal-wg
+  reponame: pymangal
+  available: true
+  description: "Interface to the <a href='http://mangal.io'>mangal</a> database for species interactions"
+  services:
+    - travis
+    - pypi
+    - coveralls
