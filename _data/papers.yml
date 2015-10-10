@@ -304,6 +304,18 @@
       in: Ecological Processes
     - type: dataset
       doi: 10.6084/m9.figshare.97583
+- title: Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes.
+  date: 2013
+  authors:
+    - name: D. Gravel
+    - name: T. Poisot
+      type: pi
+    - name: P. Desjardins-Proulx
+      type: student
+  labels:
+    - type: published
+      in: Journal of Limnology
+      doi: 10.4081/jlimnol.2014.807
 - title: "An a posteriori measure of network modularity"
   authors:
     - name: T. Poisot

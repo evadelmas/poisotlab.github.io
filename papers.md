@@ -19,8 +19,6 @@ nav: papers
 
 {% comment %}
 
-D. Gravel, **T. Poisot** & P. Desjardins-Proulx (2013) Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes. *Journal of Limnology*. [github](https://github.com/DominiqueGravel/ms_neutral_theory), [pdf]({{site.url}}/reprints/gravel_limno_neutrality.pdf).
-
 **T. Poisot**, R. Mounce & D. Gravel (2013) Moving toward a sustainable ecological science: don't let data go to waste!. *Ideas in Ecology & Evolution*, under review for the Open Science special issue. [online](http://library.queensu.ca/ojs/index.php/IEE/article/view/4632), [preprint](http://figshare.com/articles/Moving_toward_a_sustainable_ecological_science_don_t_let_data_go_to_waste_/693745). <i class="fa fa-unlock-alt"></i>
 
 **T. Poisot**, M. Stanko, D. Miklisova & S. Morand (2013) Facultative and obligate parasite communities exhibit different network properties. *Parasitology*. [pdf]({{ site.url }}/reprints/poisot_parasitology_differences.pdf)
