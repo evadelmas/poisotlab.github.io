@@ -88,6 +88,9 @@
       doi: 10.1101/021402
     - type: pdf
       pdf: poisot2015synthetic.pdf
+    - type: published
+      in: Ecography
+      doi: 10.1111/ecog.01941
 - title: "mangal - making complex ecological network analysis simple"
   key: poisot15mangal
   featured: yes
