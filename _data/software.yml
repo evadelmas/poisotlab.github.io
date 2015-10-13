@@ -50,3 +50,6 @@
     - travis
     - pypi
     - coveralls
+- name: mangal
+  url: http://mangal.io
+  description: A database for species interaction networks. Or more accurately, a platform to store data about species interactions, and use them for network studies.

@@ -3,11 +3,17 @@
 <head>
 {% include header.html %}
 </head>
-<body>
+<body><span class="thepage">&nbsp;</span>
 
 {% include nav.html %}
 
 {{ content }}
 
+<script type="text/javascript">
+$(document).scroll(function(){
+    $('#nav').toggleClass('scrolled', $(this).scrollTop() > 2);
+    $('#nav').toggleClass('unscrolled', $(this).scrollTop() <= 2);
+});
+</script>
 </body>
 </html>

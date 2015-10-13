@@ -2,6 +2,11 @@
 
 @import url(http://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700,700italic|PT+Serif:400,400italic,700,700italic);
 
+// Color palette
+@high: rgb(74,205,176);
+@medium: rgb(28,150,150);
+@low: rgb(72,92,114);
+
 .d3{
   @import "/styles/d3.less";
 }
@@ -11,112 +16,181 @@ code, pre {
 }
 
 html {
-  background: #fff;
+  background-image: url(/resources/bg/6.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   min-height: 100%;
   height: 100%;
+}
+
+.thepage {
+  background-color: fadeout(@low, 8%);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1000;
 }
 
 body {
-  font-family: "PT Serif";
   background: none;
+  font-family: "PT Sans";
   min-height: 100%;
   height: 100%;
 }
 
-.software-block {
-  display: block;
-  height: 12em;
-}
+// height of the bar
+@nalh: 50px;
+@naip: 25px;
+@bheight: calc(2 * @naip + @nalh);
 
-.resobj {
-  margin-bottom: 4em;
-}
+// internal padding
+@ipad: 40px;
 
-// .home {
-//   background-image: url(/resources/logo.png);
-//   background-position: right bottom;
-//   background-repeat: no-repeat;
-// }
-
-.content {
-  font-size: 1.1em;
-  height: 100%;
-  min-height: 100%;
-  padding: 15px;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.img-circle {
-  float: left;
-  margin: 10px;
-}
-
-.people {
-  p{
-    clear: both;
+.home {
+  a {
+    text-decoration: underline;
+    color: white;
+    text-decoration-color: @medium;
+    &:hover {
+      text-decoration-color: @high;
+    }
   }
 }
 
-.whitelink {
-  color: #333;
-  text-shadow: none;
-  text-transform: lowercase;
+.content{
+  box-sizing: content-box;
+  padding: @ipad 0;
+  padding-top: 200px;
+  color: white;
+  font-size: 17px;
+  p {
+    a {
+      text-decoration: underline;
+      color: white;
+      text-decoration-color: @medium;
+      &:hover {
+        text-decoration-color: @high;
+      }
+    }
+  }
+  h1, h2, h3, h4 {
+    color: #fff !important;
+  }
+  h1 {
+    margin-bottom: 1em;
+    color: @high !important;
+  }
 }
 
 .navbar-default {
-  background: #fff;
-  border-bottom: 1px solid #eee;
-  .navbar-header > a, li > a {
-    .whitelink !important;
+  background: none;
+  color: white;
+  border: none;
+  height: @bheight;
+  font-size: 18px;
+}
+
+.navbar-header {
+  font-size: 18px;
+  a {
+    color: white !important;
   }
-  .navbar-brand {
-    a{
-      color: #444;
+  font-family: "PT Serif";
+  line-height: @nalh;
+  padding: @naip 0;
+  margin-left: -15px !important;
+  img {
+    height: 98px;
+    padding: 1px;
+    position: absolute;
+    top: 0 !important;
+    margin-left: -100px;
+  }
+  padding-left: 100px;
+}
+
+ul.nav {
+  li {
+    a {
+      text-transform: lowercase;
+      color: fadeout(white, 20%) !important;
+      &:hover {
+        color: white !important;
+      }
     }
-    font-size: 25px;
-    font-family: "PT Serif";
-    margin-top: -24px !important;
-  }
-  .navbar-brand > img {
-    max-height: 78px;
-    height: 78px;
-    margin-top: -4px;
-    -o-object-fit: contain;
-    object-fit: contain;
-    display: inline;
+    &.active {
+      a {
+        color: @high !important;
+      }
+    }
   }
 }
 
-.navbar-default .navbar-nav > .active > a {
-  color: black !important;
-  background: none !important;
-}
-
-.navbar {
-  .container {
-    height: 80px !important;
+.scrolled {
+  background-color: white;
+  .navbar-header {
     a {
-      height: 80px !important;
-      margin: 0px;
-      line-height: 20px;
-      padding-top: 30px;
+      color: @low !important;
+    }
+  }
+  ul.nav {
+    li {
+      a {
+        color: fadeout(@low, 40%) !important;
+        &:hover {
+          color: black !important;
+        }
+      }
+      &.active {
+        a {
+          color: @low !important;
+        }
+      }
     }
   }
 }
-
-h1, h2, h3, .label, .nav > li > a {
-  font-family: "PT Sans";
+.unscrolled {
+  background-color: none;
+  .navbar-header {
+    a {
+      color: white !important;
+    }
+  }
+  ul.nav {
+    li {
+      a {
+        color: fadeout(white, 20%) !important;
+        &:hover {
+          color: white !important;
+        }
+      }
+      &.active {
+        a {
+          color: @high !important;
+        }
+      }
+    }
+  }
+}
+.scrolled, .unscrolled {
+  transition: all 1s;
 }
 
-.content {
-  h1 {
-    padding-bottom: 0.4em;
-    padding-top: 1.1em;
-  }
-  h1:first-child {
-    margin-top: 0px;
-    padding-top: 0px;
+
+ul.nav {
+  li {
+    a {
+      padding: @naip;
+      line-height: @nalh;
+    }
+    &.active {
+      a {
+        background: none !important;
+      }
+    }
   }
 }
 
@@ -129,4 +203,21 @@ h1, h2, h3, .label, .nav > li > a {
 .student {
   text-decoration: underline;
   text-decoration-color: #bbb;
+}
+
+.text-muted {
+  color: #ddd;
+}
+
+.text-primary {
+  color: @high;
+}
+
+.publication {
+  margin-bottom: 2em;
+}
+
+.software-block, .resobj {
+  display: block;
+  height: 14em;
 }

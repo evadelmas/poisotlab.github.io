@@ -1,5 +1,5 @@
 <div class="col-md-6 software-block">
-  <h3>{{p.name}} (<span class="text-muted">{{p.language}}</span>)</h3>
+  <h3>{{p.name}} {% if p.language %}(<span class="text-muted">{{p.language}}</span>){% endif %}</h3>
 
   <p>{{ p.description }}</p>
 
@@ -9,6 +9,12 @@
     {% if p.language == "julia" %}<code>Pkg.add("{{ p.name }}")</code>.{% endif %}
     {% if p.language == "R" %}<code>install.packages("{{ p.name }}")</code>.{% endif %}
     {% if p.language == "python" %}<code>pip install {{ p.name }}</code>.{% endif %}
+  </p>
+  {% endif %}
+
+  {% if p.url %}
+  <p class="url">
+    See the website at <a href="{{ p.url }}" target="_blank">{{ p.url }}</a>.
   </p>
   {% endif %}
 
