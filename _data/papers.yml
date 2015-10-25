@@ -1,3 +1,24 @@
+- title: "Ten simple rules for digital data storage"
+  key: hart10simplerules
+  featured: yes
+  date: 2015
+  authors:
+    - name: E. Hart
+    - name: P. Barmby
+    - name: D. LeBauer
+    - name: F. Michonneau
+    - name: S. Mount
+    - name: T. Poisot
+      type: pi
+    - name: K.H. Woo
+    - name: N. Zimmerman
+    - name: J.W. Hollister
+  labels:
+    - type: preprint
+      doi: 10.7287/peerj.preprints.1448v1
+    - type: github
+      org: emhart
+      repo: 10-simple-rules-data-storage
 - title: "The structure of probabilistic networks"
   key: poisot2015proba
   authors:
@@ -55,7 +76,6 @@
       doi: 10.7287/peerj.preprints.1100v1
 - title: "Best publishing practices to improve user confidence in scientific software"
   key: poisot15bestpub
-  featured: yes
   authors:
     - name: T. Poisot
       type: pi

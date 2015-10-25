@@ -1,0 +1,15 @@
+- name: Timothée Poisot
+  pi: yes
+  id: tim
+  mugshot: tim.jpg
+  blurb: is a computational ecologist, focused on understanding how and why species interactions vary over space and time. He uses network approaches, and is easily excited by methodology. Tim is a member of the [Québec Centre for Biodiversity Sciences][qcbs], rants about open science on [twitter](http://twitter.com/tpoi), has a [blog](https://medium.com/@tpoi/), and is on [github](http://github.com/tpoisot/) too. [Tim's abridged CV](/tim)
+- name: Mathilde Besson
+  current: yes
+  id: mathe
+  mugshot: mathildebesson.jpg
+  blurb: is a PhD candidate with Tim and Dominique Gravel. She works on local adaptation in meta-communities, and how it shapes ecosystem functions. Her research uses modelling and experimental evolution with a bacteria-phage system.
+- name: Eva Delmas
+  current: yes
+  id: eva
+  mugshot: evadelmas.jpg
+  blurb: is a PhD student with Tim and [Daniel Stouffer][stouffer]. Her research project deals with understanding how food web structure can be used to predict ecosystem functioning and biomass fluxes across ecosystems, and how species functional roles predict their contribution to ecosystem functions.

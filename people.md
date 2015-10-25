@@ -4,34 +4,23 @@ title: People
 nav: people
 ---
 
-<div class="row">
-<div class="col-xs-2 col-md-1">
-<img src="/mugshots/tim.jpg" class="img-circle" style="width: 70px; height: 70px"  />
-</div>
-<div class="col-xs-10 col-md-5" markdown="1">
 
-**Timothée Poisot** is a computational ecologist, focused on understanding how
-and why species interactions vary over space and time. He uses network
-approaches, and is easily excited by methodology. Tim is a member of the
-[Québec Centre for Biodiversity Sciences][qcbs], rants about open science on
-[twitter](http://twitter.com/tpoi), has a [blog](https://medium.com/@tpoi/),
-and is on [github](http://github.com/tpoisot/) too. [Tim's abridged CV](/tim).
-</div>
+
+<div class="row">
+
+{% for p in site.data.people %}{% if p.pi %}
+{% include people.html %}{% endif %}
+{% endfor %}
+
 </div>
 
 # Current lab members
 
 <div class="row">
 
-<div class="col-xs-2 col-md-1">
-<img src="/mugshots/evadelmas.jpg" class="img-circle" style="width: 70px; height: 70px"  />
-</div>
-<div class="col-xs-10 col-md-5" markdown="1">
-**Eva Delmas** is a PhD student with Tim and [Daniel Stouffer][stouffer]. Her
-research project deals with understanding how food web structure can be used
-to predict ecosystem functioning and biomass fluxes across ecosystems, and how
-species functional roles predict their contribution to ecosystem functions.
-</div>
+{% for p in site.data.people %}{% if p.current %}
+{% include people.html %}{% endif %}
+{% endfor %}
 
 <div class="col-xs-2 col-md-1">
 <img src="/mugshots/cynthiagueveneuxjulien.png" class="img-circle" style="width: 70px; height: 70px"  />
