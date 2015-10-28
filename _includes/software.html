@@ -22,14 +22,17 @@
   <p class="services">
     {% for s in p.services %}
       {% if s == "travis" %}
-      <img src="https://img.shields.io/travis/{{ p.org }}/{{ p.reponame }}.svg?style=flat-square" />
+      <img src="https://img.shields.io/travis/{{ p.org }}/{{ p.reponame }}.svg" />
       {% endif %}
       {% if s == "coveralls" %}
-      <img src="https://img.shields.io/codecov/c/github/{{ p.org }}/{{ p.reponame }}.svg?style=flat-square" />
+      <img src="https://img.shields.io/codecov/c/github/{{ p.org }}/{{ p.reponame }}.svg" />
       {% endif %}
       {% if s == "pypi" %}
-      <img src="https://img.shields.io/pypi/v/{{ p.reponame }}.svg?style=flat-square" />
-      <img src="https://img.shields.io/pypi/dm/{{ p.reponame }}.svg?style=flat-square" />
+      <img src="https://img.shields.io/pypi/v/{{ p.reponame }}.svg" />
+      <img src="https://img.shields.io/pypi/dm/{{ p.reponame }}.svg" />
+      {% endif %}
+      {% if s == "cran" %}
+      <img src="http://cranlogs.r-pkg.org/badges/{{ p.name }}" />
       {% endif %}
     {% endfor %}
   </p>

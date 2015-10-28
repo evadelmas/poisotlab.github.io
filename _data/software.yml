@@ -28,16 +28,21 @@
   description: Cophylogenetic analyses using procrustres
   services:
     - travis
+    - cran
 - name: lpbrim
   language: R
   org: PoisotLab
   reponame: lpbrim
   available: true
+  services:
+    - cran
   description: LP-BRIM module detection
 - name: betalink
   language: R
   org: PoisotLab
   reponame: betalink
+  services:
+    - cran
   available: true
   description: "&beta;-diversity of species interaction networks"
 - name: pymangal
