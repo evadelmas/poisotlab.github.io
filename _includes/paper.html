@@ -9,11 +9,11 @@
 <div class="col-md-2 col-md-offset-1 text-right">
   {% for lab in p.labels %}
   {% if lab.type == "pdf" %}<a href="/pdf/{{lab.pdf}}" title="{{p.title}}"><span class="label label-success">Full text PDF</span></a>{% endif %}
-  {% if lab.type == "published" %}<a href="http://dx.doi.org/{{lab.doi}}" title="{{ lab.in }}"><span class="label label-warning">Journal version</span></a>{% endif %}
+  {% if lab.type == "published" %}<a href="https://doi.org/{{lab.doi}}" title="{{ lab.in }}"><span class="label label-warning">Journal version</span></a>{% endif %}
   {% if lab.type == "chapter" %}<a href="{{lab.url}}" title="{{ lab.in }}"><span class="label label-warning">Book chapter</span></a>{% endif %}
-  {% if lab.type == "preprint" %}<a href="http://dx.doi.org/{{lab.doi}}"><span class="label label-info">Citable preprint</span></a>{% endif %}
-  {% if lab.type == "dataset" %}<a href="http://dx.doi.org/{{lab.doi}}"><span class="label label-default">Data</span></a>{% endif %}
-  {% if lab.type == "cran" %}<a href="http://cran.r-project.org/web/packages/{{lab.package}}"><span class="label label-default">R package</span></a>{% endif %}
+  {% if lab.type == "preprint" %}<a href="https://doi.org/{{lab.doi}}"><span class="label label-info">Citable preprint</span></a>{% endif %}
+  {% if lab.type == "dataset" %}<a href="https://doi.org/{{lab.doi}}"><span class="label label-default">Data</span></a>{% endif %}
+  {% if lab.type == "cran" %}<a href="https://cran.r-project.org/web/packages/{{lab.package}}"><span class="label label-default">R package</span></a>{% endif %}
   {% if lab.type == "arxiv" %}<a href="http://arxiv.org/abs/{{lab.arxiv}}" title="{{p.title}} on arXiv"><span class="label label-primary">arXiv</span></a>{% endif %}
   {% endfor %}
 </div>
