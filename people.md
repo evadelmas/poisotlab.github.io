@@ -41,9 +41,9 @@ variables are driving this variation.
 Gravel][dom]. His research focuses on applying machine learning and deep
 transfer knowledge to solve complicated ecological problems of all sorts, and
 he has more informations about it on his [website](http://phdp.github.io/). He
-talks about Haskell too much on [twitter](http://twitter.com/phdpqc/), and
+talks about Haskell too much on [twitter](https://twitter.com/phdpqc/), and
 does thing in esoteric programming languages on
-[github](http://github.com/phdp/).
+[github](https://github.com/phdp/).
 </div>
 
 </div>
