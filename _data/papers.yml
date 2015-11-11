@@ -32,6 +32,9 @@
   labels:
     - type: preprint
       doi: 10.1101/016485
+    - type: published
+      doi: 10.1111/2041-210X.12468
+      in: Methods in Ecology & Evolution
   date: 2015
 - title: "The next generation of action ecology: novel approaches towards global ecological research"
   key: innge2015action
