@@ -1,3 +1,20 @@
+- title: "Temperature and trophic structure are driving microbial productivity along a biogeographical gradient"
+  key: gray15temperature
+  date: 2015
+  authors:
+     - name: S.M. Gray
+     - name: T. Poisot
+       type: pi
+     - name: E. Harvey
+     - name: N. Mouquet
+     - name: T.E. Miller
+     - name: D. Gravel
+  labels:
+     - type: published
+       doi: 10.1111/ecog.01748
+       in: Ecography
+     - type: pdf
+       pdf: gray2015temperature.pdf
 - title: "Ten simple rules for digital data storage"
   key: hart10simplerules
   featured: yes
@@ -21,6 +38,7 @@
       repo: 10-simple-rules-data-storage
 - title: "The structure of probabilistic networks"
   key: poisot2015proba
+  featured: yes
   authors:
     - name: T. Poisot
       type: pi
@@ -116,7 +134,6 @@
       doi: 10.1111/ecog.01941
 - title: "mangal - making complex ecological network analysis simple"
   key: poisot15mangal
-  featured: yes
   authors:
     - name: T. Poisot
       type: pi
@@ -136,6 +153,8 @@
     - type: published
       in: Ecography
       doi: 10.1111/ecog.00976
+    - type: pdf
+      pdf: mangal.pdf
 - title: "Connecting people and ideas from around the world: global innovation platforms for next-generation ecology and beyond"
   authors:
     - name: P.S. Jørgensen
@@ -392,7 +411,6 @@
 - title: "The dissimilarity of species interaction networks"
   key: poisot12dissim
   date: 2012
-  featured: yes
   authors:
     - name: T. Poisot
       type: pi
