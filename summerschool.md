@@ -49,7 +49,7 @@ and stimulating place to work and relax.
 
 ## Dates
 
-The summer school will take place during the first week of May, 2106 (from
+The summer school will take place during the first week of May, 2016 (from
 May 2, to May 8).
 
 ## Pre-requisites
