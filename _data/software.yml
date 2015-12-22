@@ -43,6 +43,7 @@
   reponame: betalink
   services:
     - cran
+    - travis
   available: true
   description: "&beta;-diversity of species interaction networks"
 - name: pymangal

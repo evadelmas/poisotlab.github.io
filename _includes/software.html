@@ -1,7 +1,12 @@
 <div class="col-md-6 software-block">
-  <h3>{{p.name}} {% if p.language %}(<span class="text-muted">{{p.language}}</span>){% endif %}</h3>
+  <h3>{{p.name}} {% if p.language %}(<span class="text-muted">{{p.language}}</span>){% endif %}{% if p.reponame %}&nbsp;
+  <a href="https://github.com/{{ p.org  }}/{{ p.reponame }}" target="_blank">
+     <i class="fa fa-github"></i>
+  </a>
+  {% endif %}</h3>
 
-  <p>{{ p.description }}</p>
+  <p>{{ p.description }}
+  </p>
 
   {% if p.available %}
   <p class="installation">
@@ -32,7 +37,7 @@
       <img src="https://img.shields.io/pypi/dm/{{ p.reponame }}.svg" />
       {% endif %}
       {% if s == "cran" %}
-      <img src="http://cranlogs.r-pkg.org/badges/{{ p.name }}" />
+      <img src="http://cranlogs.r-pkg.org/badges/grand-total/{{ p.name }}" />
       {% endif %}
     {% endfor %}
   </p>
