@@ -44,6 +44,7 @@
   services:
     - cran
     - travis
+    - coveralls
   available: true
   description: "&beta;-diversity of species interaction networks"
 - name: pymangal
