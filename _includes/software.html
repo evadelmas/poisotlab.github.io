@@ -30,6 +30,9 @@
       <img src="https://img.shields.io/travis/{{ p.org }}/{{ p.reponame }}.svg" />
       {% endif %}
       {% if s == "coveralls" %}
+      <img src="https://img.shields.io/coveralls/{{ p.org }}/{{ p.reponame }}.svg" />
+      {% endif %}
+      {% if s == "codecov" %}
       <img src="https://img.shields.io/codecov/c/github/{{ p.org }}/{{ p.reponame }}.svg" />
       {% endif %}
       {% if s == "pypi" %}
