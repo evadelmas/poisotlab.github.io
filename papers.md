@@ -19,8 +19,6 @@ nav: papers
 
 {% comment %}
 
-J.S. Weitz, **T. Poisot**, J.R. Meyer, C.O. Flores, S. Valverde, M.B. Sullivan & M.E. Hochberg (2013) Phage-bacteria infection networks. *Trends in Microbiology*, 21 (2) 82–91. [pdf]({{ site.url }}/reprints/weitz_tim_pbin.pdf).
-
 **T. Poisot**, T. Bell, E. Martinez, C. Gougat-Barbera & M.E. Hochberg (2012) Terminal investment induced by a bacteriophage in a rhizosphere bacterium. *F1000 Research*. [online](http://f1000research.com/articles/1-21/v2).  <i class="fa fa-unlock-alt"></i>
 
 **T. Poisot**, E. Canard, N. Mouquet & M.E. Hochberg (2012) A comparative study of ecological specialization estimators. *Methods in Ecology & Evolution*, 3 (3) 537-544. [pdf]({{ site.url }}/reprints/poisot_methodsecolevol_pdi.pdf), [R package](https://r-forge.r-project.org/R/?group_id=593).
