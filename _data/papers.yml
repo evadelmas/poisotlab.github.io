@@ -1,3 +1,10 @@
+- title: "Evolutionary Ecology of Specialisation"
+  key: elsspe
+  authors:
+     - name: J.C. Vamosi
+     - name: T. Poisot
+       type: pi
+  date: forthcoming
 - title: "Coevolution leaves a stronger imprint on interactions than on community structure"
   key: coevospace
   featured: yes
