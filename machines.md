@@ -21,9 +21,11 @@ scientists that have been pioneers in computer sciences or applied mathematics.
 ## Servers
 
 - `ada` ([Ada Lovelace][ada]; first computer programmer) -- 48 Intel Xeon cores, 256G RAM. Oh yeah.
+- `hedy` ([Hedy Lamarr][hedy]; developed technology now used for wifi) -- the little Raspberry PI that could (print, through `lp` and `ssh`).
 
 [ada]: https://en.wikipedia.org/wiki/Ada_Lovelace
 [grace]: https://en.wikipedia.org/wiki/Grace_Hopper
 [adele]: https://en.wikipedia.org/wiki/Adele_Goldberg_%28computer_scientist%29
 [grete]: https://en.wikipedia.org/wiki/Grete_Hermann
 [margaret]: https://en.wikipedia.org/wiki/Margaret_Hamilton_%28scientist%29
+[hedy]: https://en.wikipedia.org/wiki/Hedy_Lamarr
