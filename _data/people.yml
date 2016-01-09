@@ -13,3 +13,8 @@
   id: eva
   mugshot: evadelmas.jpg
   blurb: is a PhD student with Tim and [Daniel Stouffer][stouffer]. Her research project deals with understanding how food web structure can be used to predict ecosystem functioning and biomass fluxes across ecosystems, and how species functional roles predict their contribution to ecosystem functions.
+- name: Charles Cusson
+  current: yes
+  id: charles
+  mugshot: generic.png
+  blurb: is working on the development of a better, more responsive interface for the [mangal.io](http://www.mangal.io) database. In particular, he will work on providing more meta-data when viewing the data on the website.
