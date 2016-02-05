@@ -22,10 +22,10 @@ nav: people
 {% include people.html %}{% endif %}
 {% endfor %}
 
-<div class="col-xs-2 col-md-1">
+<div class="one column">
 <img src="/mugshots/cynthiagueveneuxjulien.png" class="img-circle" style="width: 70px; height: 70px"  />
 </div>
-<div class="col-xs-10 col-md-5" markdown="1">
+<div class="five columns" markdown="1">
 **Cynthia Guéveneux-Julien** is an undergraduate research assistant, working on the spatial
 dissimilarity of host-parasite interactions at the continental scale. Her
 project is giving new insights on how the structure and dissimilarity of networks varies
@@ -33,10 +33,10 @@ at the margin of species distributions, and how to best identify which environme
 variables are driving this variation.
 </div>
 
-<div class="col-xs-2 col-md-1">
+<div class="one column">
 <img src="/mugshots/philippedesjardinsproulx.jpg" class="img-circle" style="width: 70px; height: 70px"  />
 </div>
-<div class="col-xs-10 col-md-5" markdown="1">
+<div class="five columns" markdown="1">
 **Philippe Desjardins-Proulx** is a PhD student with Tim and [Dominique
 Gravel][dom]. His research focuses on applying machine learning and deep
 transfer knowledge to solve complicated ecological problems of all sorts, and
@@ -52,10 +52,10 @@ does thing in esoteric programming languages on
 
 <div class="row">
 
-<div class="col-xs-2 col-md-1">
+<div class="one column">
 <img src="/mugshots/renaudmckinnon.png" class="img-circle" style="width: 70px; height: 70px"  />
 </div>
-<div class="col-xs-10 col-md-5" markdown="1">
+<div class="five columns" markdown="1">
 **Renaud Mc Kinnon**
 completed his MSc with Tim, [Dominique Gravel][dom] and [Steven
 Kembel][skemb]. His research focused on interactions between trees from
@@ -64,10 +64,10 @@ different levels of biodiversity (interactions, functional traits, taxonomy)
 shape ecosystem functioning.
 </div>
 
-<div class="col-xs-2 col-md-1">
+<div class="one column">
 <img src="/mugshots/ameliemuller.jpg" class="img-circle" style="width: 70px; height: 70px"  />
 </div>
-<div class="col-xs-10 col-md-5" markdown="1">
+<div class="five columns" markdown="1">
 **Amélie Muller** was a master's student from Strasbourg University, doing a
 6-months research stay in the group. Her work focused on understanding how
 interactions with pollinators contribute to the persistence of plants at

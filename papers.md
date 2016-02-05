@@ -16,7 +16,6 @@ nav: papers
 {% include paper.html %}
 {% endif %}{% endfor %}
 
-
 {% comment %}
 
 **T. Poisot**, T. Bell, E. Martinez, C. Gougat-Barbera & M.E. Hochberg (2012) Terminal investment induced by a bacteriophage in a rhizosphere bacterium. *F1000 Research*. [online](http://f1000research.com/articles/1-21/v2).  <i class="fa fa-unlock-alt"></i>

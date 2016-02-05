@@ -3,16 +3,27 @@
 <head>
 {% include header.html %}
 </head>
-<body><span class="thepage">&nbsp;</span>
+<body>
+
+    <div class="head">
+        <div class="title">
+            <h2>the Poisot lab</h2>
+            <h1>Quantitative & Computational Ecology, Université de Montréal</h1>
+        </div>
+    </div>
 
 {% include nav.html %}
 
+<div class="container main">
+
 {{ content }}
+
+</div>
 
 <script type="text/javascript">
 $(document).scroll(function(){
-    $('#nav').toggleClass('scrolled', $(this).scrollTop() > 2);
-    $('#nav').toggleClass('unscrolled', $(this).scrollTop() <= 2);
+    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > 510);
+    $('.navbar').toggleClass('unscrolled', $(this).scrollTop() <= 510);
 });
 </script>
 </body>

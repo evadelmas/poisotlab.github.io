@@ -1,12 +1,14 @@
 <div class="row publication">
 
-<div class="col-md-9">{% if p.key %}<a name='{{ p.key }}'></a>{% endif %}
+<div class="nine columns">{% if p.key %}<a name='{{ p.key }}'></a>{% endif %}
 <span class="text-muted">{{forloop.rindex}}.</span> <b>{{p.title}}</b><p />
 {% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
 <br />{{ p.date }}
 </div>
 
-<div class="col-md-2 col-md-offset-1 text-right">
+<div class="one column"></div>
+
+<div class="two columns text-right">
   {% for lab in p.labels %}
   {% if lab.type == "pdf" %}<a href="/pdf/{{lab.pdf}}" title="{{p.title}}"><span class="label label-success">Full text PDF</span></a>{% endif %}
   {% if lab.type == "published" %}<a href="https://doi.org/{{lab.doi}}" title="{{ lab.in }}"><span class="label label-warning">Journal version</span></a>{% endif %}
