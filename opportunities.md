@@ -18,13 +18,20 @@ past experience, and contact information of two references.
 
 # Current opportunities
 
+<div class="six columns" markdown="1">
+
 ## Funded opportunities
 
 We currently do not have already-funded opportunities. See *Other opportunities*
 (just below) if you are ready to look for your own funding.
 
+</div>
+
+<div class="six columns" markdown="1">
 ## Other opportunities
 
 If you have your own funding, or are interested in looking for external funding,
 you are invited to get in touch, and we can work on defining a research project
 that matches your interests.
+
+</div>
