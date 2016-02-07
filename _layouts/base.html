@@ -22,8 +22,8 @@
 
 <script type="text/javascript">
 $(document).scroll(function(){
-    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > 510);
-    $('.navbar').toggleClass('unscrolled', $(this).scrollTop() <= 510);
+    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > $('.head').outerHeight());
+    $('.navbar').toggleClass('unscrolled', $(this).scrollTop() <= $('.head').outerHeight());
 });
 </script>
 </body>
