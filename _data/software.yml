@@ -2,7 +2,7 @@
   language: julia
   org: PoisotLab
   reponame: befwm.jl
-  available: false
+  available: true
   description: Bioenergetic model on food webs
   services:
     - travis
