@@ -455,6 +455,17 @@
     - type: published
       doi: 10.12688/f1000research.2-130.v3
       in: F1000 Research
+- title: A comparative study of ecological specialization estimators
+  date: 2012
+  authors:
+      - name: T. Poisot
+        type: pi
+      - name: E. Canard
+      - name: M.E. Hochberg
+  labels:
+      - type: published
+        doi: 10.1111/j.2041-210X.2011.00174.x
+        in: Methods in Ecology & Evolution
 - title: "The dissimilarity of species interaction networks"
   key: poisot12dissim
   date: 2012
@@ -483,6 +494,19 @@
     - type: published
       in: PLOS One
       doi: 10.1371/journal.pone.0026252
+- title: A Conceptual Framework for the Evolution of Ecological Specialization
+  date: 2011
+  labels:
+      - type: published
+        in: Ecology Letters
+        doi: 10.1111/j.1461-0248.2011.01645.x
+  authors:
+      - name: T. Poisot
+        type: pi
+      - name: J.D. Bever
+      - name: A. Nemri
+      - name: P.H. Thrall
+      - name: M.E. Hochberg
 - title: "Resource availability affects the structure of a natural bacteria-bacteriophage community"
   date: 2010
   authors:

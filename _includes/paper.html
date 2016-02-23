@@ -12,6 +12,7 @@
   {% for lab in p.labels %}
   {% if lab.type == "pdf" %}<a href="/pdf/{{lab.pdf}}" title="{{p.title}}"><span class="label label-success">Full text PDF</span></a>{% endif %}
   {% if lab.type == "published" %}<a href="https://doi.org/{{lab.doi}}" title="{{ lab.in }}"><span class="label label-warning">Journal version</span></a>{% endif %}
+  {% if lab.type == "published" %}<a href="http://sci-hub.io/{{lab.doi}}" title="{{ p.title }}"><span class="label label-info">Get it on Sci-Hub</span></a>{% endif %}
   {% if lab.type == "chapter" %}<a href="{{lab.url}}" title="{{ lab.in }}"><span class="label label-warning">Book chapter</span></a>{% endif %}
   {% if lab.type == "preprint" %}<a href="https://doi.org/{{lab.doi}}"><span class="label label-info">Citable preprint</span></a>{% endif %}
   {% if lab.type == "dataset" %}<a href="https://doi.org/{{lab.doi}}"><span class="label label-default">Data</span></a>{% endif %}
