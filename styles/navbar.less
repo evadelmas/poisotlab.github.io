@@ -5,6 +5,7 @@
 .navbar {
     background-color: #ffffff;
     height: 90px;
+    opacity: 0.9;
     img {
         display: none;
     }
@@ -73,13 +74,16 @@
 
 @media (min-width: 750px) {
     .scrolled {
+        .title {display: none; }
         position: fixed;
         top: 0;
         left: 0;
+        height: 90px;
+        margin: 0px;
+        padding: 0px;
         width: 100%;
         /*background-color: #505050;*/
         z-index: 8415364; // I won't get shamed on github, he he he
-        box-shadow: 0px 0px 6px #e0e0e0;
     }
 }
 

@@ -10,9 +10,9 @@
             <h2>the<b>poisot</b>lab</h2>
             <h1>Quantitative & Computational Ecology, Université de Montréal</h1>
         </div>
+        {% include nav.html %}
     </div>
 
-{% include nav.html %}
 
 <div class="container main">
 
@@ -22,8 +22,8 @@
 
 <script type="text/javascript">
 $(document).scroll(function(){
-    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > $('.head').outerHeight());
-    $('.navbar').toggleClass('unscrolled', $(this).scrollTop() <= $('.head').outerHeight());
+    $('.head').toggleClass('scrolled', $(this).scrollTop() > $('.head').outerHeight()-90);
+    $('.head').toggleClass('unscrolled', $(this).scrollTop() <= $('.head').outerHeight()-90);
 });
 </script>
 </body>
