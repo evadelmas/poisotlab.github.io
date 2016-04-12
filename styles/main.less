@@ -35,14 +35,12 @@ body {
 }
 
 .pi {
-  font-weight: 600;
-  text-decoration: underline;
-  text-decoration-color: #bbb;
+  color: @low;
+  border-bottom: 1px solid @high;
 }
 
 .student {
-  text-decoration: underline;
-  text-decoration-color: #bbb;
+  border-bottom: 1px solid @high;
 }
 
 .text-muted {
@@ -55,6 +53,11 @@ body {
 
 .main {
     padding-top: 120px;
+}
+@media (min-width: 750px) {
+    .main {
+        padding-top: 450px;
+    }
 }
 
 .img-circle {

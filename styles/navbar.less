@@ -5,7 +5,6 @@
 .navbar {
     background-color: #ffffff;
     height: 90px;
-    opacity: 0.9;
     img {
         display: none;
     }
@@ -34,8 +33,7 @@
         }
         &.active{
             a {
-                color: #333;
-                border-bottom: 1px solid #333;
+                color: @high;
             }
         }
     }
@@ -51,6 +49,10 @@
 /* Navbar for larger than mobile */
 @media (min-width: 750px) {
     .navbar {
+        top: 0;
+        position: fixed;
+        z-index: 19191919119991;
+        width: 100%;
         img {
             display: inline;
             padding: 5px;
@@ -74,7 +76,6 @@
 
 @media (min-width: 750px) {
     .scrolled {
-        .title {display: none; }
         position: fixed;
         top: 0;
         left: 0;
@@ -82,7 +83,7 @@
         margin: 0px;
         padding: 0px;
         width: 100%;
-        /*background-color: #505050;*/
+        box-shadow: 0px 0px 5px #a0a0a0;
         z-index: 8415364; // I won't get shamed on github, he he he
     }
 }

@@ -5,12 +5,14 @@
 </head>
 <body>
 
+        {% include nav.html %}
     <div class="head">
         <div class="title">
+            <div class="container">
             <h2>the<b>poisot</b>lab</h2>
-            <h1>Quantitative & Computational Ecology, Université de Montréal</h1>
+            <h1>{% if page.chapo %}{{page.chapo}}{%else%}Quantitative & Computational Ecology, Université de Montréal{%endif%}</h1>
+            </div>
         </div>
-        {% include nav.html %}
     </div>
 
 
@@ -22,8 +24,8 @@
 
 <script type="text/javascript">
 $(document).scroll(function(){
-    $('.head').toggleClass('scrolled', $(this).scrollTop() > $('.head').outerHeight()-90);
-    /*$('.head').toggleClass('unscrolled', $(this).scrollTop() <= $('.head').outerHeight()-90);*/
+    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > 1);
+    /*$('.navbar').toggleClass('scrolled', $(this).scrollTop() > $('.navbar').outerHeight());*/
 });
 </script>
 </body>
