@@ -76,7 +76,7 @@ the summer school is over, and eventually turn into new papers.
 - Version control
 - Unit testing, continuous integration
 
-## Day 2: Code optimization 
+## Day 2: Code optimization
 
 - Profiling
 - Parallel and distributed computing
@@ -129,4 +129,3 @@ If your application is selected, we ask that you pay in advance the first
 two-days of the summer school, as a non-refundable deposit. Students affiliated
 with the Québec Centre for Biodiversity Sciences can contact the coordinator
 to have their registration fee covered or reimbursed.
-

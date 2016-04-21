@@ -51,7 +51,7 @@ are files related to a future paper.
 
 It usually go something like this:
 
-~~~ 
+~~~
 /project
     /data
     /manuscripts
@@ -95,5 +95,3 @@ and didactic way on twitter:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Y'all should follow me, I'm charming.
-
-
