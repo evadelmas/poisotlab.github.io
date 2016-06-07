@@ -1,32 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-{% include header.html %}
+  {% include header.html %}
 </head>
 <body>
 
-        {% include nav.html %}
-    <div class="head">
+  {% include nav.html %}
+
+  <div class="container">
+
+
+      <div class="head">
         <div class="title">
-            <div class="container">
+          <div class="container">
+            <a href="/"><img src="/resources/logo.png" class="logo" /></a>
             <h2>the<span style="font-weight: bold;">poisot</span>lab</h2>
             <h1>{% if page.chapo %}{{page.chapo}}{%else%}Quantitative & Computational Ecology, Université de Montréal{%endif%}</h1>
-            </div>
+          </div>
         </div>
-    </div>
+      </div>
 
+    {{ content }}
 
-<div class="container main">
+  </div>
 
-{{ content }}
-
-</div>
-
-<script type="text/javascript">
-$(document).scroll(function(){
+  <script type="text/javascript">
+  $(document).scroll(function(){
     $('.navbar').toggleClass('scrolled', $(this).scrollTop() > 1);
-    /*$('.navbar').toggleClass('scrolled', $(this).scrollTop() > $('.navbar').outerHeight());*/
-});
-</script>
+  });
+  </script>
 </body>
 </html>

@@ -1,7 +1,5 @@
 @import "/styles/colors.less";
 @import "/styles/typography.less";
-@import "/styles/head.less";
-@import "/styles/navbar.less";
 @import "/styles/code.less";
 
 
@@ -9,10 +7,6 @@
 @medium: rgb(74,205,176);
 @high: rgb(28,150,150);
 @low: rgb(72,92,114);
-
-.d3{
-  @import "/styles/d3.less";
-}
 
 * {
     box-sizing: border-box;
@@ -35,91 +29,125 @@ body {
   padding: 0 0
 }
 
-.pi {
-  color: @low;
-  border-bottom: 1px solid @high;
-}
-
-.student {
-  border-bottom: 1px solid @high;
-}
-
-.text-muted {
-  color: #aaa;
-}
-
-.text-primary {
-  color: @low;
-}
-
-.main {
-    padding-top: 120px;
-}
-@media (min-width: 750px) {
-    .main {
-        padding-top: 450px;
-    }
-}
-
-.img-circle {
-    border-radius: 35px;
-    border: 1px solid #f4f5f6;
-    box-shadow: 0px 0px 2px #e0e1e2;
-}
-
 a {
-    text-decoration: none;
-    color: @high;
-    &:hover {
-        color: @medium;
-    }
+  text-decoration: none;
+  color: @high;
+  &:hover {
+    color: @low;
+  }
 }
 
-.publication{
-    padding: 15px;
-    &:hover{
-        background-color: #fefcfc;
-    }
-    a{
-        color: #f3f3f3;
-        &:hover{
-            color: #fff;
-        }
-    }
-    .label{
-        display: inline-block;
-        float: right;
-        background-color: #3c3c3c;
-        margin-bottom: 2px;
-        margin-left: 2px;
-        font-size: 80%;
-        line-height: 18px;
-        padding: 4px;
-        border-radius: 2px;
-        &.label-info{
-            background-color: #9cc5c9;
-        }
-        &.label-success{
-            background-color: #cdb599;
-        }
-        &.label-warning{
-            background-color: #a08689;
-        }
-        &.label-default{
-            background-color: #d5544f;
-        }
-    }
-    .text-right {
-        text-align: right;
-    }
+.container {
+  max-width: 600px;
+  margin: 0px auto;
+  padding: 10px;
+  h1 {
+    color: rgb(156, 156, 156);
+    font-weight: 100;
+    text-align: center;
+    font-family: "PT Serif";
+    margin-top: 90px;
+    margin-bottom: 50px;
+  }
+  h2 {
+    color: rgb(106, 106, 106);
+    font-weight: 300;
+    text-align: center;
+    font-family: "PT Serif";
+  }
 }
 
-h1 {
-    font-size: 30px;
+.head {
+  text-align: center;
+  .logo {
+    background-color: @high;
+    border-radius: 100px;
+    padding: 10px;
+  }
+  .title {
+    h2 {
+      font-family: "PT Serif";
+      font-weight: 400;
+      margin-bottom: 0px;
+      color: black;
+    }
+    h1 {
+      font-weight: 300;
+      color: rgb(147, 147, 147);
+      font-size: 20px;
+      margin-top: 0px;
+      font-family: "PT Sans";
+    }
+  }
 }
-h2 {
-    font-size: 25px;
+
+@media screen and (min-height: 300px) {
+  .head {
+    padding-top: 70px;
+    padding-bottom: 50px;
+  }
 }
-h3 {
-    font-size: 20px;
+
+@media screen and (min-width: 950px) {
+  .navbar {
+    width: 175px;
+    padding: 10px;
+    position: fixed;
+    bottom: 0px;
+    li {
+      margin-top: 10px;
+      .fa {
+        color: #bbb;
+      }
+      &.active {
+        .fa {
+          color: #222;
+        }
+      }
+    }
+  }
+}
+
+.people {
+  img {
+    border: 2px solid @low;
+    border-radius: 100px;
+  }
+  .person {
+    text-align: center;
+    padding-bottom: 50px;
+  }
+}
+
+.softwaredetails {
+  padding-bottom: 50px;
+}
+
+.publication {
+  padding-bottom: 45px;
+  .muted {
+    font-weight: 100;
+    color: rgb(161, 161, 161);
+    background-color: rgb(242, 242, 242);
+    border-radius: 80px;
+    text-align: center;
+    width: 2em;
+    font-size: 50%;
+    padding: 3px;
+    margin-left: 8px;
+    vertical-align: middle;
+    float: right;
+  }
+  .labels {
+    padding-top: 10px;
+  }
+  .label {
+    display: inline-block;
+    background-color: rgb(238, 238, 238);
+    color: rgb(135, 135, 135);
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 90%;
+    margin-right: 8px;
+  }
 }

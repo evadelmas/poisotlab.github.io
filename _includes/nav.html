@@ -1,12 +1,35 @@
 <nav class="navbar">
-    <div class="container">
-        <a href="/"><img src="/resources/logo.png" width="90" alt="" /></a>
-        <ul class="navbar-list">
-        <li class="navbar-item research {%if page.nav == 'research' %}active{% endif %}"><a href="/research/">Research</a></li>
-        <li class="navbar-item people {%if page.nav == 'people' %}active{% endif %}"><a href="/people/">People</a></li>
-        <li class="navbar-item papers {%if page.nav == 'papers' %}active{% endif %}"><a href="/papers/">Papers</a></li>
-        <li class="navbar-item software {%if page.nav == 'software' %}active{% endif %}"><a href="/software/">Software</a></li>
-        <li class="navbar-item opportunities {%if page.nav == 'opportunities' %}active{% endif %}"><a href="/opportunities/">Opportunities</a></li>
-        </ul>
-    </div>
+  <ul class="fa-ul">
+
+    <li class="home {%if page.nav == 'home' %}active{% endif %}">
+      <i class="fa fa-li fa-home" aria-hidden="true"></i>
+      <a href="/">Home</a>
+    </li>
+
+    <li class="research {%if page.nav == 'research' %}active{% endif %}">
+      <i class="fa fa-li fa-bar-chart" aria-hidden="true"></i>
+      <a href="/research/">Research</a>
+    </li>
+
+    <li class="people {%if page.nav == 'people' %}active{% endif %}">
+      <i class="fa fa-li fa-users" aria-hidden="true"></i>
+      <a href="/people/">People</a>
+    </li>
+
+    <li class="papers {%if page.nav == 'papers' %}active{% endif %}">
+      <i class="fa fa-li fa-graduation-cap" aria-hidden="true"></i>
+      <a href="/papers/">Papers</a>
+    </li>
+
+    <li class="software {%if page.nav == 'software' %}active{% endif %}">
+      <i class="fa fa-li fa-code" aria-hidden="true"></i>
+      <a href="/software/">Software</a>
+    </li>
+
+    <li class="opportunities {%if page.nav == 'opportunities' %}active{% endif %}">
+      <i class="fa fa-li fa-asterisk" aria-hidden="true"></i>
+      <a href="/opportunities/">Opportunities</a>
+    </li>
+
+  </ul>
 </nav>

@@ -3,18 +3,45 @@
   id: tim
   mugshot: tim.jpg
   blurb: is a computational ecologist, focused on understanding how and why species interactions vary over space and time. He uses network approaches, and is easily excited by methodology. Tim is a member of the [Québec Centre for Biodiversity Sciences][qcbs], rants about open science on [twitter](https://twitter.com/tpoi), has a [blog](https://medium.com/@tpoi/), and is on [github](https://github.com/tpoisot/) too. [Tim's abridged CV](/tim)
+
 - name: Mathilde Besson
   current: yes
   id: mathe
   mugshot: mathildebesson.jpg
   blurb: is a PhD candidate with Tim and Dominique Gravel. She works on local adaptation in meta-communities, and how it shapes ecosystem functions. Her research uses modelling and experimental evolution with a bacteria-phage system.
+
 - name: Eva Delmas
   current: yes
   id: eva
   mugshot: evadelmas.jpg
   blurb: is a PhD student with Tim and [Daniel Stouffer][stouffer]. Her research project deals with understanding how food web structure can be used to predict ecosystem functioning and biomass fluxes across ecosystems, and how species functional roles predict their contribution to ecosystem functions.
-- name: Charles Cusson
+
+- name: Cynthia Guéveneux-Julien
   current: yes
+  id: cynthia
+  mugshot: cynthiagueveneuxjulien.png
+  blurb: is an Honor's student working on the planification, management, and restoration of landscape connectivity in the Laurentian mountains. She previously worked on the biogeography of host-parasite interactions.
+
+- name: Philippe Desjardins-Proulx
+  current: yes
+  id: phdp
+  mugshot: philippedesjardinsproulx.jpg
+  blurb: is a PhD student with Tim and [Dominique Gravel][dom]. His research focuses on applying machine learning and deep transfer knowledge to solve complicated ecological problems of all sorts, and he has more informations about it on his [website](http://phdp.github.io/). He talks about Haskell too much on [twitter](https://twitter.com/phdpqc/), and does thing in esoteric programming languages on [github](https://github.com/phdp/).
+
+- name: Renaud McKinnon
+  former: yes
+  id: renaud
+  mugshot: renaudmckinnon.png
+  blurb: completed his MSc with Tim, [Dominique Gravel][dom] and [Steven Kembel][skemb]. His research focused on interactions between trees from experimental plantations and their microbial ectosymbionts, to understand how different levels of biodiversity (interactions, functional traits, taxonomy) shape ecosystem functioning.
+
+- name: Charles Cusson
+  former: yes
   id: charles
   mugshot: generic.png
-  blurb: is working on the development of a better, more responsive interface for the [mangal.io](http://www.mangal.io) database. In particular, he will work on providing more meta-data when viewing the data on the website.
+  blurb: worked on the development of a better, more responsive interface for the [mangal.io](http://www.mangal.io) database. In particular, his work resulted in providing more meta-data when viewing the data on the website.
+
+- name: Amélie Muller
+  former: yes
+  id: ameliemuller
+  mugshot: ameliemuller.jpg
+  blurb: was a master's student from Strasbourg University, doing a 6-months research stay in the group. Her work focused on understanding how interactions with pollinators contribute to the persistence of plants at different spatial scales, and how management programs could gain from relying on the variability of interactions.
