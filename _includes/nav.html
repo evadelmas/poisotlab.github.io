@@ -1,34 +1,32 @@
 <nav class="navbar">
-  <ul class="fa-ul">
+  <ul>
 
     <li class="home {%if page.nav == 'home' %}active{% endif %}">
-      <i class="fa fa-li fa-home" aria-hidden="true"></i>
-      <a href="/">Home</a>
+      <a href="/"><i class="fa fa-fw fa-home" aria-hidden="true"></i><span class="linkContent">Home</span></a>
     </li>
 
     <li class="research {%if page.nav == 'research' %}active{% endif %}">
-      <i class="fa fa-li fa-bar-chart" aria-hidden="true"></i>
-      <a href="/research/">Research</a>
+      <a href="/research/"><i class="fa fa-fw fa-bar-chart" aria-hidden="true"></i><span class="linkContent">Research</span></a>
     </li>
 
     <li class="people {%if page.nav == 'people' %}active{% endif %}">
-      <i class="fa fa-li fa-users" aria-hidden="true"></i>
-      <a href="/people/">People</a>
+      <a href="/people/"><i class="fa fa-fw fa-users" aria-hidden="true"></i><span class="linkContent">People</span></a>
     </li>
 
     <li class="papers {%if page.nav == 'papers' %}active{% endif %}">
-      <i class="fa fa-li fa-graduation-cap" aria-hidden="true"></i>
-      <a href="/papers/">Papers</a>
+      <a href="/papers/"><i class="fa fa-fw fa-file-text" aria-hidden="true"></i><span class="linkContent">Papers</span></a>
     </li>
 
     <li class="software {%if page.nav == 'software' %}active{% endif %}">
-      <i class="fa fa-li fa-code" aria-hidden="true"></i>
-      <a href="/software/">Software</a>
+      <a href="/software/"><i class="fa fa-fw fa-code" aria-hidden="true"></i><span class="linkContent">Software</span></a>
     </li>
 
+    <!-- <li class="training {%if page.nav == 'training' %}active{% endif %}">
+      <a href="/training/"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i><span class="linkContent">Training</span></a>
+    </li> -->
+
     <li class="opportunities {%if page.nav == 'opportunities' %}active{% endif %}">
-      <i class="fa fa-li fa-asterisk" aria-hidden="true"></i>
-      <a href="/opportunities/">Opportunities</a>
+      <a href="/opportunities/"><i class="fa fa-fw fa-user-plus" aria-hidden="true"></i><span class="linkContent">Opportunities</span></a>
     </li>
 
   </ul>
