@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <meta name="author" content="The Poisot Lab">
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+
+	<title>Simulations - Documentation for befwm.jl</title>
+
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome-4.0.3.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../css/highlight.css">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link href="../../assets/Documenter.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+        
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <!-- Main title -->
+            <a class="navbar-brand" href="../..">Documentation for befwm.jl</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+            <!-- Main navigation -->
+            <ul class="nav navbar-nav">
+            
+            
+                <li >
+                    <a href="../..">Home</a>
+                </li>
+            
+            
+            
+                <li class="dropdown active">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">User guide <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                    
+                        
+<li >
+    <a href="../userguide/">Introduction</a>
+</li>
+
+                    
+                        
+<li >
+    <a href="../user_random/">Generating networks</a>
+</li>
+
+                    
+                        
+<li class="active">
+    <a href="./">Simulations</a>
+</li>
+
+                    
+                        
+<li >
+    <a href="../user_measures/">Measures on output</a>
+</li>
+
+                    
+                    </ul>
+                </li>
+            
+            
+            
+                <li >
+                    <a href="../../api/">Reference</a>
+                </li>
+            
+            
+            
+                <li >
+                    <a href="../../LICENSE/">License</a>
+                </li>
+            
+            
+            
+                <li >
+                    <a href="../../CHANGELOG/">Release notes</a>
+                </li>
+            
+            
+            </ul>
+
+            <!-- Search, Navigation and Repo links -->
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+                <li >
+                    <a rel="next" href="../user_random/">
+                        <i class="fa fa-arrow-left"></i> Previous
+                    </a>
+                </li>
+                <li >
+                    <a rel="prev" href="../user_measures/">
+                        Next <i class="fa fa-arrow-right"></i>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="http://poisotlab.biol.umontreal.ca/julia-packages/befwm">
+                        
+                        GitLab repo
+                    </a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+            <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+    
+        <li class="main active"><a href="#overview-of-the-simulation">Overview of the simulation</a></li>
+        
+            <li><a href="#create-model-parameters">Create model parameters</a></li>
+        
+            <li><a href="#simulation">Simulation</a></li>
+        
+    
+    </ul>
+</div></div>
+            <div class="col-md-9" role="main">
+
+<p><a id='Overview-of-the-simulation-1'></a></p>
+<h2 id="overview-of-the-simulation">Overview of the simulation</h2>
+<p>Running a simulation has three steps. First, setting up a series of initial parameters. Second, generating the body sizes, metabolic rates, <em>etc.</em>. Finally, starting the simulation itself.</p>
+<p>Starting from a network <code>A</code>, this is as simple as</p>
+<pre><code class="julia">A = [0 1 0 0; 0 0 1 1; 0 0 0 0; 0 0 0 0]
+p = model_parameters(A)
+initial_biomass = rand(size(A, 1))
+d = simulate(p, initial_biomass, start=0, stop=100, steps=10000)
+</code></pre>
+
+<p>We will see in the next sections what each of these steps do.</p>
+<p>All networks are expected to be square, with only <code>0</code> or <code>1</code>, and have predators in rows and preys in columns. In addition, it is expected that <em>at least</em> one species is a primary producer (<em>i.e.</em> at least one of the rows in the matrix has no interaction). This is checked internally by the different functions.</p>
+<p><a id='Create-model-parameters-1'></a></p>
+<h3 id="create-model-parameters">Create model parameters</h3>
+<p>First, create or import an interaction matrix, with predators in rows and preys in columns:</p>
+<pre><code class="julia">#=
+Predators are in rows, so this corresponds to a &quot;diamond&quot; food web: 1 eats
+2 and 3, and 2 and 3 eat 4. 1 is a top predator, 2 and 3 are intermediate
+consumers, and 4 is a primary producer.
+=#
+A = [0 1 1 0; 0 0 0 1; 0 0 0 1; 0 0 0 0]
+
+# We start with random biomasses in [0;1]
+initial_biomasses = rand(size(A, 1))
+</code></pre>
+
+<p>Once done, get the initial parameters, and if needed change some of their values:</p>
+<pre><code class="julia">p = model_parameters(A, Z=2.0)
+</code></pre>
+
+<p>To see what the initial parameters values are, either look at the <code>p</code> object, or (better) at the help of <code>model_parameters</code>, with</p>
+<pre><code>?model_parameters
+</code></pre>
+
+<p><a id='Simulation-1'></a></p>
+<h3 id="simulation">Simulation</h3>
+<p>To start with random biomasses:</p>
+<pre><code class="julia">println(simulate(p, initial_biomasses))
+</code></pre></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            
+            <center>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</center>
+        </footer>
+
+        <script src="../../js/jquery-1.10.2.min.js"></script>
+        <script src="../../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../../js/highlight.pack.js"></script>
+        <script>var base_url = '../..';</script>
+        <script data-main="../../mkdocs/js/search.js" src="../../mkdocs/js/require.js"></script>
+        <script src="../../js/base.js"></script>
+        <script src="../../assets/mathjaxhelper.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            From here you can search these documents. Enter
+                            your search terms below.
+                        </p>
+                        <form role="form">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                            </div>
+                        </form>
+                        <div id="mkdocs-search-results"></div>
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
