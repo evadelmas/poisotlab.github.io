@@ -25,9 +25,9 @@
        type: pi
   date: 2016
   labels:
-      - type: journal
-        doi: 10.1002/9780470015902.a0026281
-        in: eLS
+     - type: published
+       doi: 10.1002/9780470015902.a0026281
+       in: eLS
 - title: "Interactions retain the co-phylogenetic matching that communities lost"
   key: coevospace
   featured: yes
