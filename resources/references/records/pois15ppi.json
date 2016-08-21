@@ -1,0 +1,73 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        20
+      ]
+    ],
+    "date-time": "2015-12-20T12:12:20Z",
+    "timestamp": 1450613540722
+  },
+  "reference-count": 0,
+  "publisher": "Ideas in Ecology and Evolution",
+  "DOI": "10.4033/iee.2015.8.8.f",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        7,
+        11
+      ]
+    ],
+    "date-time": "2015-07-11T18:20:45Z",
+    "timestamp": 1436638845000
+  },
+  "source": "CrossRef",
+  "title": "Best publishing practices to improve user confidence in scientific software",
+  "prefix": "http://id.crossref.org/prefix/10.4033",
+  "volume": "8",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothee"
+    }
+  ],
+  "member": "http://id.crossref.org/member/2467",
+  "published-online": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "container-title": "Ideas in Ecology and Evolution",
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        7,
+        11
+      ]
+    ],
+    "date-time": "2015-07-11T18:20:46Z",
+    "timestamp": 1436638846000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.4033/iee.2015.8.8.f",
+  "ISSN": [
+    "1918-3178"
+  ],
+  "id": "pois15ppi"
+}

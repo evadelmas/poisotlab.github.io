@@ -1,0 +1,132 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        27
+      ]
+    ],
+    "date-time": "2016-05-27T06:40:19Z",
+    "timestamp": 1464331219420
+  },
+  "reference-count": 0,
+  "publisher": "Cold Spring Harbor Laboratory Press",
+  "DOI": "10.1101/055558",
+  "type": "report",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        27
+      ]
+    ],
+    "date-time": "2016-05-27T05:14:45Z",
+    "timestamp": 1464326085000
+  },
+  "source": "CrossRef",
+  "title": "Bringing Elton and Grinnell together: a quantitative framework to represent the biogeography of ecological interaction networks",
+  "prefix": "http://id.crossref.org/prefix/10.1101",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Gravel",
+      "given": "Dominique",
+      "ORCID": "http://orcid.org/0000-0002-4498-7076"
+    },
+    {
+      "affiliation": [],
+      "family": "Baiser",
+      "given": "Benjamin"
+    },
+    {
+      "affiliation": [],
+      "family": "Dune",
+      "given": "Jennifer A"
+    },
+    {
+      "affiliation": [],
+      "family": "Kopelke",
+      "given": "Jens-Peter"
+    },
+    {
+      "affiliation": [],
+      "family": "Martinez",
+      "given": "Neo D",
+      "ORCID": "http://orcid.org/0000-0002-1130-5550"
+    },
+    {
+      "affiliation": [],
+      "family": "Nyman",
+      "given": "Tommi"
+    },
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothee",
+      "ORCID": "http://orcid.org/0000-0002-0735-5184"
+    },
+    {
+      "affiliation": [],
+      "family": "Stouffer",
+      "given": "Daniel B",
+      "ORCID": "http://orcid.org/0000-0001-9436-9674"
+    },
+    {
+      "affiliation": [],
+      "family": "Tylianakis",
+      "given": "Jason M",
+      "ORCID": "http://orcid.org/0000-0001-7402-5620"
+    },
+    {
+      "affiliation": [],
+      "family": "Wood",
+      "given": "Spencer A",
+      "ORCID": "http://orcid.org/0000-0002-6840-7670"
+    },
+    {
+      "affiliation": [],
+      "family": "Roslin",
+      "given": "Tomas"
+    }
+  ],
+  "member": "http://id.crossref.org/member/246",
+  "published-online": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        26
+      ]
+    ]
+  },
+  "container-title": null,
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        27
+      ]
+    ],
+    "date-time": "2016-05-27T05:14:46Z",
+    "timestamp": 1464326086000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        26
+      ]
+    ]
+  },
+  "alternative-id": [
+    "10.1101/055558"
+  ],
+  "URL": "http://dx.doi.org/10.1101/055558",
+  "id": "grav16beg"
+}

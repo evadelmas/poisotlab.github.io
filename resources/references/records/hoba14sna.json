@@ -1,0 +1,131 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        20
+      ]
+    ],
+    "date-time": "2016-04-20T19:57:33Z",
+    "timestamp": 1461182253135
+  },
+  "reference-count": 0,
+  "publisher": "Public Library of Science (PLoS)",
+  "issue": "9",
+  "license": [
+    {
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2014,
+            9,
+            30
+          ]
+        ],
+        "date-time": "2014-09-30T00:00:00Z",
+        "timestamp": 1412035200000
+      },
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "DOI": "10.1371/journal.pbio.1001960",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        9,
+        30
+      ]
+    ],
+    "date-time": "2014-09-30T18:01:18Z",
+    "timestamp": 1412100078000
+  },
+  "page": "e1001960",
+  "update-policy": "http://dx.doi.org/10.1371/journal.pbio.corrections_policy",
+  "source": "CrossRef",
+  "title": "Social Network Analysis Shows Direct Evidence for Social Transmission of Tool Use in Wild Chimpanzees",
+  "prefix": "http://id.crossref.org/prefix/10.1371",
+  "volume": "12",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Hobaiter",
+      "given": "Catherine"
+    },
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Zuberbühler",
+      "given": "Klaus"
+    },
+    {
+      "affiliation": [],
+      "family": "Hoppitt",
+      "given": "William"
+    },
+    {
+      "affiliation": [],
+      "family": "Gruber",
+      "given": "Thibaud"
+    }
+  ],
+  "member": "http://id.crossref.org/member/340",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        9,
+        30
+      ]
+    ]
+  },
+  "container-title": "PLoS Biology",
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        20
+      ]
+    ],
+    "date-time": "2016-04-20T17:58:33Z",
+    "timestamp": 1461175113000
+  },
+  "score": 1,
+  "subtitle": [],
+  "editor": [
+    {
+      "affiliation": [],
+      "family": "de Waal",
+      "given": "Frans B. M."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        9,
+        30
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1371/journal.pbio.1001960",
+  "ISSN": [
+    "1545-7885"
+  ],
+  "subject": [
+    "Biochemistry, Genetics and Molecular Biology(all)",
+    "Immunology and Microbiology(all)",
+    "Neuroscience(all)",
+    "Agricultural and Biological Sciences(all)"
+  ],
+  "id": "hoba14sna"
+}

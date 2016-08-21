@@ -1,0 +1,172 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        25
+      ]
+    ],
+    "date-time": "2015-12-25T06:57:09Z",
+    "timestamp": 1451026629546
+  },
+  "reference-count": 50,
+  "publisher": "Wiley-Blackwell",
+  "issue": "11",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 729,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2015-09-01T00:00:00Z",
+        "timestamp": 1441065600000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2013,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.1111/2041-210x.12103",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        9,
+        2
+      ]
+    ],
+    "date-time": "2013-09-02T14:50:58Z",
+    "timestamp": 1378133458000
+  },
+  "page": "1083-1090",
+  "source": "CrossRef",
+  "title": "Inferring food web structure from predator-prey body size relationships",
+  "prefix": "http://id.crossref.org/prefix/10.1111",
+  "volume": "4",
+  "author": [
+    {
+      "affiliation": [
+        {
+          "name": "Département de biologie, chimie et géographie; Université du Québec à Rimouski; 300 Allée des Ursulines G5L 3A1 Québec Canada"
+        },
+        {
+          "name": "Québec Centre for Biodiversity Science"
+        }
+      ],
+      "family": "Gravel",
+      "given": "Dominique"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Département de biologie, chimie et géographie; Université du Québec à Rimouski; 300 Allée des Ursulines G5L 3A1 Québec Canada"
+        },
+        {
+          "name": "Québec Centre for Biodiversity Science"
+        }
+      ],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "UMR CNRS-UM2-IRD-IFREMER 5119 ECOSYM; Université Montpellier 2, CC 093 34095 Montpellier Cedex5 France"
+        },
+        {
+          "name": "Laboratoire Ecosystèmes Marins Exploités UMR 212; IRD, IFREMER, UMII, UMI; avenue Jean Monnet BP171 34203 Sete Cedex France"
+        }
+      ],
+      "family": "Albouy",
+      "given": "Camille"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "UMR CNRS-UM2-IRD-IFREMER 5119 ECOSYM; Université Montpellier 2, CC 093 34095 Montpellier Cedex5 France"
+        }
+      ],
+      "family": "Velez",
+      "given": "Laure"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "UMR CNRS-UM2-IRD-IFREMER 5119 ECOSYM; Université Montpellier 2, CC 093 34095 Montpellier Cedex5 France"
+        },
+        {
+          "name": "ARC Centre of Excellence for Coral Reef Studies; James Cook University; Townsville Qld 4811 Australia"
+        }
+      ],
+      "family": "Mouillot",
+      "given": "David"
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "published-online": {
+    "date-parts": [
+      [
+        2013,
+        9,
+        2
+      ]
+    ]
+  },
+  "container-title": "Methods Ecol Evol",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "unspecified",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F2041-210X.12103"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        10,
+        21
+      ]
+    ],
+    "date-time": "2015-10-21T22:40:50Z",
+    "timestamp": 1445467250000
+  },
+  "score": 1,
+  "subtitle": [],
+  "editor": [
+    {
+      "affiliation": [],
+      "family": "Freckleton",
+      "given": "Robert"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        9,
+        2
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1111/2041-210x.12103",
+  "ISSN": [
+    "2041-210X"
+  ],
+  "id": "grav13ifw"
+}

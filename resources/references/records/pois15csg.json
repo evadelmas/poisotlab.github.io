@@ -1,0 +1,135 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        20
+      ]
+    ],
+    "date-time": "2016-04-20T20:00:59Z",
+    "timestamp": 1461182459073
+  },
+  "reference-count": 0,
+  "publisher": "Public Library of Science (PLoS)",
+  "issue": "5",
+  "license": [
+    {
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            5,
+            20
+          ]
+        ],
+        "date-time": "2015-05-20T00:00:00Z",
+        "timestamp": 1432080000000
+      },
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "DOI": "10.1371/journal.pone.0114674",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        5,
+        20
+      ]
+    ],
+    "date-time": "2015-05-20T17:56:35Z",
+    "timestamp": 1432144595000
+  },
+  "page": "e0114674",
+  "update-policy": "http://dx.doi.org/10.1371/journal.pone.corrections_policy",
+  "source": "CrossRef",
+  "title": "A Continuum of Specialists and Generalists in Empirical Communities",
+  "prefix": "http://id.crossref.org/prefix/10.1371",
+  "volume": "10",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Kéfi",
+      "given": "Sonia"
+    },
+    {
+      "affiliation": [],
+      "family": "Morand",
+      "given": "Serge"
+    },
+    {
+      "affiliation": [],
+      "family": "Stanko",
+      "given": "Michal"
+    },
+    {
+      "affiliation": [],
+      "family": "Marquet",
+      "given": "Pablo A."
+    },
+    {
+      "affiliation": [],
+      "family": "Hochberg",
+      "given": "Michael E."
+    }
+  ],
+  "member": "http://id.crossref.org/member/340",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        5,
+        20
+      ]
+    ]
+  },
+  "container-title": "PLOS ONE",
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        20
+      ]
+    ],
+    "date-time": "2016-04-20T18:09:50Z",
+    "timestamp": 1461175790000
+  },
+  "score": 1,
+  "subtitle": [],
+  "editor": [
+    {
+      "affiliation": [],
+      "family": "Heil",
+      "given": "Martin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        5,
+        20
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1371/journal.pone.0114674",
+  "ISSN": [
+    "1932-6203"
+  ],
+  "subject": [
+    "Biochemistry, Genetics and Molecular Biology(all)",
+    "Agricultural and Biological Sciences(all)",
+    "Medicine(all)"
+  ],
+  "id": "pois15csg"
+}

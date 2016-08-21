@@ -1,0 +1,123 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        24
+      ]
+    ],
+    "date-time": "2015-12-24T23:47:41Z",
+    "timestamp": 1451000861404
+  },
+  "reference-count": 123,
+  "publisher": "Wiley-Blackwell",
+  "issue": "4",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 904,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2015-09-01T00:00:00Z",
+        "timestamp": 1441065600000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2013,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1002/ece3.508",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        3,
+        13
+      ]
+    ],
+    "date-time": "2013-03-13T04:58:27Z",
+    "timestamp": 1363150707000
+  },
+  "page": "1125-1139",
+  "source": "CrossRef",
+  "title": "High-Throughput Sequencing: A Roadmap Toward Community Ecology",
+  "prefix": "http://id.crossref.org/prefix/10.1002",
+  "volume": "3",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Péquin",
+      "given": "Bérangère"
+    },
+    {
+      "affiliation": [],
+      "family": "Gravel",
+      "given": "Dominique"
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "published-online": {
+    "date-parts": [
+      [
+        2013,
+        3,
+        11
+      ]
+    ]
+  },
+  "container-title": "Ecol Evol",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "unspecified",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fece3.508"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        10,
+        21
+      ]
+    ],
+    "date-time": "2015-10-21T19:05:06Z",
+    "timestamp": 1445454306000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        3,
+        11
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1002/ece3.508",
+  "ISSN": [
+    "2045-7758"
+  ],
+  "id": "pois13hsr"
+}

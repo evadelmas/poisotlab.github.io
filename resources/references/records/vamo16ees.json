@@ -1,0 +1,99 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        19
+      ]
+    ],
+    "date-time": "2016-02-19T10:02:50Z",
+    "timestamp": 1455876170486
+  },
+  "reference-count": 48,
+  "publisher": "Wiley-Blackwell",
+  "DOI": "10.1002/9780470015902.a0026281",
+  "type": "reference-entry",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        16
+      ]
+    ],
+    "date-time": "2016-02-16T06:12:11Z",
+    "timestamp": 1455603131000
+  },
+  "page": "1-7",
+  "source": "CrossRef",
+  "title": "Evolutionary Ecology of Specialisation",
+  "prefix": "http://id.crossref.org/prefix/10.1002",
+  "author": [
+    {
+      "affiliation": [
+        {
+          "name": "University of Calgary; Calgary Alberta Canada"
+        }
+      ],
+      "family": "Vamosi",
+      "given": "Jana C"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Université de Montréal; Montréal Quebec Canada"
+        }
+      ],
+      "family": "Poisot",
+      "given": "Timothée"
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "published-online": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        15
+      ]
+    ]
+  },
+  "container-title": "eLS",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "application/pdf",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9780470015902.a0026281"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        16
+      ]
+    ],
+    "date-time": "2016-02-16T11:09:08Z",
+    "timestamp": 1455620948000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        15
+      ]
+    ]
+  },
+  "ISBN": [
+    "http://id.crossref.org/isbn/9780470015902",
+    "http://id.crossref.org/isbn/9780470016176"
+  ],
+  "URL": "http://dx.doi.org/10.1002/9780470015902.a0026281",
+  "id": "vamo16ees"
+}

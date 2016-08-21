@@ -1,0 +1,120 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        20
+      ]
+    ],
+    "date-time": "2016-04-20T20:37:40Z",
+    "timestamp": 1461184660080
+  },
+  "reference-count": 0,
+  "publisher": "Public Library of Science (PLoS)",
+  "issue": "10",
+  "license": [
+    {
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2011,
+            10,
+            12
+          ]
+        ],
+        "date-time": "2011-10-12T00:00:00Z",
+        "timestamp": 1318377600000
+      },
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "DOI": "10.1371/journal.pone.0026252",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2011,
+        10,
+        12
+      ]
+    ],
+    "date-time": "2011-10-12T20:59:43Z",
+    "timestamp": 1318453183000
+  },
+  "page": "e26252",
+  "update-policy": "http://dx.doi.org/10.1371/journal.pone.corrections_policy",
+  "source": "CrossRef",
+  "title": "Morphological and Molecular Evolution Are Not Linked in Lamellodiscus (Plathyhelminthes, Monogenea)",
+  "prefix": "http://id.crossref.org/prefix/10.1371",
+  "volume": "6",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Verneau",
+      "given": "Olivier"
+    },
+    {
+      "affiliation": [],
+      "family": "Desdevises",
+      "given": "Yves"
+    }
+  ],
+  "member": "http://id.crossref.org/member/340",
+  "published-online": {
+    "date-parts": [
+      [
+        2011,
+        10,
+        12
+      ]
+    ]
+  },
+  "container-title": "PLoS ONE",
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        20
+      ]
+    ],
+    "date-time": "2016-04-20T18:00:53Z",
+    "timestamp": 1461175253000
+  },
+  "score": 1,
+  "subtitle": [],
+  "editor": [
+    {
+      "affiliation": [],
+      "family": "Steinke",
+      "given": "Dirk"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2011,
+        10,
+        12
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1371/journal.pone.0026252",
+  "ISSN": [
+    "1932-6203"
+  ],
+  "subject": [
+    "Biochemistry, Genetics and Molecular Biology(all)",
+    "Agricultural and Biological Sciences(all)",
+    "Medicine(all)"
+  ],
+  "id": "pois11mme"
+}

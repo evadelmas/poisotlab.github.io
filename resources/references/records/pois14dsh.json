@@ -1,0 +1,159 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        25
+      ]
+    ],
+    "date-time": "2015-12-25T23:42:22Z",
+    "timestamp": 1451086942533
+  },
+  "reference-count": 57,
+  "publisher": "Wiley-Blackwell",
+  "issue": "19",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 348,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2015-09-01T00:00:00Z",
+        "timestamp": 1441065600000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2014,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1002/ece3.1151",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        9,
+        18
+      ]
+    ],
+    "date-time": "2014-09-18T10:53:18Z",
+    "timestamp": 1411037598000
+  },
+  "page": "3841-3850",
+  "source": "CrossRef",
+  "title": "Dispersal and spatial heterogeneity allow coexistence between enemies and protective mutualists",
+  "prefix": "http://id.crossref.org/prefix/10.1002",
+  "volume": "4",
+  "author": [
+    {
+      "affiliation": [
+        {
+          "name": "Université Montpellier II; Institut des Sciences de l'Evolution; UMR 5554; Place Eugène Bataillon 34095 Montpellier CEDEX 05 France"
+        },
+        {
+          "name": "Département de Biologie; Université du Québec à Rimouski; 300 Allée des Ursulines Rimouski Quebec G5L 3A1 Canada"
+        },
+        {
+          "name": "Québec Centre for Biodiversity Sciences; Montréal (QC) Canada"
+        },
+        {
+          "name": "School of Biological Sciences; University of Canterbury; Private Bag 4800 Christchurch 8140 New Zealand"
+        }
+      ],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Department of Biology; Indiana University; Bloomington Indiana 47405"
+        }
+      ],
+      "family": "Bever",
+      "given": "James D."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "CSIRO Plant Industry; GPO Box 1600 Canberra Australian Capital Territory 2601 Australia"
+        }
+      ],
+      "family": "Thrall",
+      "given": "Peter H."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Université Montpellier II; Institut des Sciences de l'Evolution; UMR 5554; Place Eugène Bataillon 34095 Montpellier CEDEX 05 France"
+        },
+        {
+          "name": "Santa Fe Institute; Santa Fe New Mexico 87501"
+        },
+        {
+          "name": "Wissenschaftskolleg zu Berlin; Berlin 14193 Germany"
+        }
+      ],
+      "family": "Hochberg",
+      "given": "Michael E."
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        9,
+        18
+      ]
+    ]
+  },
+  "container-title": "Ecol Evol",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "unspecified",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fece3.1151"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        10,
+        20
+      ]
+    ],
+    "date-time": "2015-10-20T23:53:39Z",
+    "timestamp": 1445385219000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        9,
+        18
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1002/ece3.1151",
+  "ISSN": [
+    "2045-7758"
+  ],
+  "id": "pois14dsh"
+}

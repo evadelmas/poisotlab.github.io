@@ -18,6 +18,8 @@ BSc, Life sciences, Université d'Évry, 2006
 
 # Grants
 
+QCBS Working group award, *Stakeholder-engaged research for landscape connectivity management*, 2016, 5k CAD
+
 NSERC Discovery Grant, *Causes and consequences of the variation of species interactions*, 2015-2020, 125k CAD
 
 FRQNT Starting investigator grant, *Statistical approaches to the variation of biotic interactions*, 2015-2017, 32k CAD, and 14k CAD for equipment
@@ -28,7 +30,9 @@ Canadian Institute of Ecology & Evolution working group, *Community ecology at t
 
 # Academic citizenship
 
-Vice chair of the Open Science section, Ecological Society of America
+Chair of the Open Science section, Ecological Society of America
+
+Associate editor (software), PLOS Computational Biology
 
 Associate editor (software), Methods in Ecology & Evolution
 

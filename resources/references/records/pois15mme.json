@@ -1,0 +1,235 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        2
+      ]
+    ],
+    "date-time": "2016-04-02T14:40:46Z",
+    "timestamp": 1459608046707
+  },
+  "reference-count": 24,
+  "publisher": "Wiley-Blackwell",
+  "issue": "4",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            7,
+            2
+          ]
+        ],
+        "date-time": "2015-07-02T00:00:00Z",
+        "timestamp": 1435795200000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    },
+    {
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            7,
+            2
+          ]
+        ],
+        "date-time": "2015-07-02T00:00:00Z",
+        "timestamp": 1435795200000
+      },
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1111/ecog.00976",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        7,
+        2
+      ]
+    ],
+    "date-time": "2015-07-02T09:21:52Z",
+    "timestamp": 1435828912000
+  },
+  "page": "384-390",
+  "source": "CrossRef",
+  "title": "mangal - making ecological network analysis simple",
+  "prefix": "http://id.crossref.org/prefix/10.1111",
+  "volume": "39",
+  "author": [
+    {
+      "affiliation": [
+        {
+          "name": "Univ. of Canterbury, School of Biological Sciences; Christchurch New Zealand"
+        },
+        {
+          "name": "Dépt de sciences biologiques; Univ. de Montréal, Pavillon Marie-Victorin; C.P. 6128, succ. Centre-ville Montréal QC H3C 3J7 Canada"
+        },
+        {
+          "name": "Québec Centre for Biodiversity Sciences; Montréal QC Canada"
+        }
+      ],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Dept of Wildlife Ecology and Conservation; Univ. of Florida; Gainesville USA"
+        }
+      ],
+      "family": "Baiser",
+      "given": "Benjamin"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Sante Fe Inst.; 1399 Hyde Park Road Santa Fe NM 87501 USA"
+        }
+      ],
+      "family": "Dunne",
+      "given": "Jennifer A."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Inst. des Sciences de l'Évolution, Univ. de Montpellier, CNRS, IRD, EPHE; CC065, Place Eugène Bataillon FR-34095 Montpellier Cedex 05 France"
+        }
+      ],
+      "family": "Kéfi",
+      "given": "Sonia"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Laboratoire Génétique et Evolution des Populations Végétales, CNRS UMR 8198, Univ. Lille 1; Bâtiment SN2 FR-59655 Villeneuve d'Ascq cedex France"
+        },
+        {
+          "name": "UMR 5175 CEFE - Centre d'Ecologie Fonctionnelle et Evolutive (CNRS); 1919 Route de Mende FR-34293 Montpellier Cedex 05 France"
+        }
+      ],
+      "family": "Massol",
+      "given": "François"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Inst. des Sciences de l'Évolution, Univ. de Montpellier, CNRS, IRD, EPHE; CC065, Place Eugène Bataillon FR-34095 Montpellier Cedex 05 France"
+        }
+      ],
+      "family": "Mouquet",
+      "given": "Nicolas"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Dept of Biology; Dalhousie Univ.; Canada"
+        }
+      ],
+      "family": "Romanuk",
+      "given": "Tamara N."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Univ. of Canterbury, School of Biological Sciences; Christchurch New Zealand"
+        }
+      ],
+      "family": "Stouffer",
+      "given": "Daniel B."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Natural Capital Project, School of Environmental and Forest Sciences, Univ. of Washington; Seattle WA 98195 USA"
+        },
+        {
+          "name": "Dept of Biological Sciences; Idaho State Univ.; Pocatello ID 83209 USA"
+        }
+      ],
+      "family": "Wood",
+      "given": "Spencer A."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Univ. du Québec à Rimouski; Dépt de Biologie; 300 Allées des Ursulines Rimouski QC G5L 3A1 Canada"
+        },
+        {
+          "name": "Québec Centre for Biodiversity Sciences; Montréal QC Canada"
+        }
+      ],
+      "family": "Gravel",
+      "given": "Dominique"
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        7,
+        2
+      ]
+    ]
+  },
+  "container-title": "Ecography",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "application/pdf",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fecog.00976"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        2
+      ]
+    ],
+    "date-time": "2016-04-02T13:30:41Z",
+    "timestamp": 1459603841000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        7,
+        2
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1111/ecog.00976",
+  "archive": [
+    "Portico"
+  ],
+  "ISSN": [
+    "0906-7590"
+  ],
+  "subject": [
+    "Ecology, Evolution, Behavior and Systematics"
+  ],
+  "id": "pois15mme"
+}

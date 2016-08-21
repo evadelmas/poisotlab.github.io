@@ -1,0 +1,144 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        26
+      ]
+    ],
+    "date-time": "2015-12-26T01:37:00Z",
+    "timestamp": 1451093820989
+  },
+  "reference-count": 82,
+  "publisher": "Wiley-Blackwell",
+  "issue": "3",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 301,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2015-09-01T00:00:00Z",
+        "timestamp": 1441065600000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        3
+      ]
+    ]
+  },
+  "DOI": "10.1111/oik.01719",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2014-11-04T16:02:27Z",
+    "timestamp": 1415116947000
+  },
+  "page": "243-251",
+  "source": "CrossRef",
+  "title": "Beyond species: why ecological interaction networks vary through space and time",
+  "prefix": "http://id.crossref.org/prefix/10.1111",
+  "volume": "124",
+  "author": [
+    {
+      "affiliation": [
+        {
+          "name": "School of Biological Sciences, Univ. of Canterbury; Christchurch New Zealand"
+        },
+        {
+          "name": "Québec Centre for Biodiversity Sciences; Montréal, QC Canada"
+        }
+      ],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "School of Biological Sciences, Univ. of Canterbury; Christchurch New Zealand"
+        }
+      ],
+      "family": "Stouffer",
+      "given": "Daniel B."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Québec Centre for Biodiversity Sciences; Montréal, QC Canada"
+        },
+        {
+          "name": "Dept of Biology; Univ. du Québec à Rimouski; Rimouski, QC G5L 3A1 Canada"
+        }
+      ],
+      "family": "Gravel",
+      "given": "Dominique"
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        11,
+        4
+      ]
+    ]
+  },
+  "container-title": "Oikos",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "unspecified",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Foik.01719"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        10,
+        20
+      ]
+    ],
+    "date-time": "2015-10-20T06:33:10Z",
+    "timestamp": 1445322790000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        11,
+        4
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1111/oik.01719",
+  "ISSN": [
+    "0030-1299"
+  ],
+  "subject": [
+    "Ecology, Evolution, Behavior and Systematics"
+  ],
+  "id": "pois14sei"
+}

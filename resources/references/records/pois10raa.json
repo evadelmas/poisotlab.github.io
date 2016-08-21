@@ -1,0 +1,114 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        27
+      ]
+    ],
+    "date-time": "2015-12-27T01:15:54Z",
+    "timestamp": 1451178954531
+  },
+  "reference-count": 24,
+  "publisher": "The Royal Society",
+  "issue": "2",
+  "published-print": {
+    "date-parts": [
+      [
+        2011,
+        4,
+        23
+      ]
+    ]
+  },
+  "DOI": "10.1098/rsbl.2010.0774",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2010,
+        10,
+        21
+      ]
+    ],
+    "date-time": "2010-10-21T00:16:48Z",
+    "timestamp": 1287620208000
+  },
+  "page": "201-204",
+  "update-policy": "http://dx.doi.org/10.1098/crossmarkpolicy",
+  "source": "CrossRef",
+  "title": "Resource availability affects the structure of a natural bacteria-bacteriophage community",
+  "prefix": "http://id.crossref.org/prefix/10.1098",
+  "volume": "7",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "T."
+    },
+    {
+      "affiliation": [],
+      "family": "Lepennetier",
+      "given": "G."
+    },
+    {
+      "affiliation": [],
+      "family": "Martinez",
+      "given": "E."
+    },
+    {
+      "affiliation": [],
+      "family": "Ramsayer",
+      "given": "J."
+    },
+    {
+      "affiliation": [],
+      "family": "Hochberg",
+      "given": "M. E."
+    }
+  ],
+  "member": "http://id.crossref.org/member/175",
+  "published-online": {
+    "date-parts": [
+      [
+        2010,
+        10,
+        20
+      ]
+    ]
+  },
+  "container-title": "Biology Letters",
+  "deposited": {
+    "date-parts": [
+      [
+        2012,
+        10,
+        22
+      ]
+    ],
+    "date-time": "2012-10-22T21:55:41Z",
+    "timestamp": 1350942941000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2010,
+        10,
+        20
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1098/rsbl.2010.0774",
+  "ISSN": [
+    "1744-9561",
+    "1744-957X"
+  ],
+  "subject": [
+    "Agricultural and Biological Sciences (miscellaneous)",
+    "Agricultural and Biological Sciences(all)"
+  ],
+  "id": "pois10raa"
+}

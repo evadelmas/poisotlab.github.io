@@ -1,0 +1,108 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        28
+      ]
+    ],
+    "date-time": "2015-12-28T16:18:02Z",
+    "timestamp": 1451319482655
+  },
+  "reference-count": 0,
+  "publisher": "PAGEPress Publications",
+  "issue": "s1",
+  "DOI": "10.4081/jlimnol.2014.807",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        5,
+        13
+      ]
+    ],
+    "date-time": "2014-05-13T06:43:23Z",
+    "timestamp": 1399963403000
+  },
+  "source": "CrossRef",
+  "title": "Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes",
+  "prefix": "http://id.crossref.org/prefix/10.4081",
+  "volume": "73",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Gravel",
+      "given": "Dominique"
+    },
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Desjardins-Proulx",
+      "given": "Philippe"
+    }
+  ],
+  "member": "http://id.crossref.org/member/2549",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        4,
+        8
+      ]
+    ]
+  },
+  "container-title": "J Limnol",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "application/pdf",
+      "URL": "http://www.jlimnol.it/index.php/jlimnol/article/viewFile/807/613"
+    },
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "application/pdf",
+      "URL": "http://www.jlimnol.it/index.php/jlimnol/article/viewFile/807/614"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        17
+      ]
+    ],
+    "date-time": "2014-12-17T15:58:55Z",
+    "timestamp": 1418831935000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        4,
+        8
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.4081/jlimnol.2014.807",
+  "ISSN": [
+    "1723-8633",
+    "1129-5767"
+  ],
+  "subject": [
+    "Ecology",
+    "Aquatic Science",
+    "Water Science and Technology"
+  ],
+  "id": "grav14ntr"
+}

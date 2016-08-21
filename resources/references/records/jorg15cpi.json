@@ -1,0 +1,176 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        25
+      ]
+    ],
+    "date-time": "2016-02-25T19:45:54Z",
+    "timestamp": 1456429554875
+  },
+  "reference-count": 49,
+  "publisher": "Wiley-Blackwell",
+  "issue": "4",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 153,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2015-09-01T00:00:00Z",
+        "timestamp": 1441065600000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1890/es14-00198.1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        4,
+        28
+      ]
+    ],
+    "date-time": "2015-04-28T14:23:23Z",
+    "timestamp": 1430231003000
+  },
+  "page": "art68",
+  "source": "CrossRef",
+  "title": "Connecting people and ideas from around the world: global innovation platforms for next-generation ecology and beyond",
+  "prefix": "http://id.crossref.org/prefix/10.1002",
+  "volume": "6",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Jørgensen",
+      "given": "Peter Søgaard"
+    },
+    {
+      "affiliation": [],
+      "family": "Barraquand",
+      "given": "Frederic"
+    },
+    {
+      "affiliation": [],
+      "family": "Bonhomme",
+      "given": "Vincent"
+    },
+    {
+      "affiliation": [],
+      "family": "Curran",
+      "given": "Timothy J."
+    },
+    {
+      "affiliation": [],
+      "family": "Cieraad",
+      "given": "Ellen"
+    },
+    {
+      "affiliation": [],
+      "family": "Ezard",
+      "given": "Thomas G."
+    },
+    {
+      "affiliation": [],
+      "family": "Gherardi",
+      "given": "Laureano A."
+    },
+    {
+      "affiliation": [],
+      "family": "Hayes",
+      "given": "R. Andrew"
+    },
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Salguero-Gómez",
+      "given": "Roberto"
+    },
+    {
+      "affiliation": [],
+      "family": "DeSoto",
+      "given": "Lucía"
+    },
+    {
+      "affiliation": [],
+      "family": "Swartz",
+      "given": "Brian"
+    },
+    {
+      "affiliation": [],
+      "family": "Talbot",
+      "given": "Jennifer M."
+    },
+    {
+      "affiliation": [],
+      "family": "Wee",
+      "given": "Brian"
+    },
+    {
+      "affiliation": [],
+      "family": "Zimmerman",
+      "given": "Naupaka"
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "container-title": "Ecosphere",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "unspecified",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1890%2FES14-00198.1"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        25
+      ]
+    ],
+    "date-time": "2016-02-25T18:38:51Z",
+    "timestamp": 1456425531000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        4
+      ]
+    ]
+  },
+  "alternative-id": [
+    "10.1890/ES14-00198.1"
+  ],
+  "URL": "http://dx.doi.org/10.1890/es14-00198.1",
+  "ISSN": [
+    "2150-8925"
+  ],
+  "id": "jorg15cpi"
+}

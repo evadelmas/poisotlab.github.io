@@ -1,0 +1,220 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        2
+      ]
+    ],
+    "date-time": "2016-04-02T14:41:03Z",
+    "timestamp": 1459608063424
+  },
+  "reference-count": 40,
+  "publisher": "Wiley-Blackwell",
+  "issue": "4",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2015-11-16T00:00:00Z",
+        "timestamp": 1447632000000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    },
+    {
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2015-11-16T00:00:00Z",
+        "timestamp": 1447632000000
+      },
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1111/ecog.01941",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        10,
+        15
+      ]
+    ],
+    "date-time": "2015-10-15T09:09:42Z",
+    "timestamp": 1444900182000
+  },
+  "page": "402-408",
+  "source": "CrossRef",
+  "title": "Synthetic datasets and community tools for the rapid testing of ecological hypotheses",
+  "prefix": "http://id.crossref.org/prefix/10.1111",
+  "volume": "39",
+  "author": [
+    {
+      "affiliation": [
+        {
+          "name": "Univ. de Montréal; Dépt de Sciences Biologiques; 90 Avenue Vincent d'Indy Montréal QC H2V3S9 Canada"
+        },
+        {
+          "name": "Québec Centre for Biodiversity Sciences; 1205 Dr. Penfield Avenue Montréal QC H3A1B1 Canada"
+        }
+      ],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Québec Centre for Biodiversity Sciences; 1205 Dr. Penfield Avenue Montréal QC H3A1B1 Canada"
+        },
+        {
+          "name": "Univ. du Québec à Rimouski; Dépt de Biologie; 300 Allée des Ursulines Rimouski QC G5L3A1 Canada"
+        }
+      ],
+      "family": "Gravel",
+      "given": "Dominique"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Memorial Univ. of Newfoundland; Dept of Biology; 232 Elizabeth Ave St. John's NL A1B3X9 Canada"
+        }
+      ],
+      "family": "Leroux",
+      "given": "Shawn"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Woods Inst. for the Environment, Stanford Univ.; Stanford CA USA"
+        },
+        {
+          "name": "School for Environmental and Forest Science, Univ. of Washington; Seattle WA USA"
+        }
+      ],
+      "family": "Wood",
+      "given": "Spencer A."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Univ. of Toronto; Dept of Ecology and Evolutionary Biology; 25 Harbord Street Toronto ON M5S3G5 Canada"
+        }
+      ],
+      "family": "Fortin",
+      "given": "Marie-Josée"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Univ. of Florida; Dept of Wildlife, Ecology and Conservation; Gainseville FL USA"
+        }
+      ],
+      "family": "Baiser",
+      "given": "Benjamin"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Centre for Integrative Ecology, School of Biological Sciences, Univ. of Canterbury; Christchurch New Zealand"
+        }
+      ],
+      "family": "Cirtwill",
+      "given": "Alyssa R."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Museo Nacional de Ciencias Naturales, CSIC; C/José Gutiérrez Abascal 2 Madrid ES-28006 España"
+        }
+      ],
+      "family": "Araújo",
+      "given": "Miguel B."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Centre for Integrative Ecology, School of Biological Sciences, Univ. of Canterbury; Christchurch New Zealand"
+        }
+      ],
+      "family": "Stouffer",
+      "given": "Daniel B."
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        16
+      ]
+    ]
+  },
+  "container-title": "Ecography",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "application/pdf",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fecog.01941"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        4,
+        2
+      ]
+    ],
+    "date-time": "2016-04-02T13:32:03Z",
+    "timestamp": 1459603923000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        16
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1111/ecog.01941",
+  "archive": [
+    "Portico"
+  ],
+  "ISSN": [
+    "0906-7590"
+  ],
+  "subject": [
+    "Ecology, Evolution, Behavior and Systematics"
+  ],
+  "id": "pois15sdc"
+}

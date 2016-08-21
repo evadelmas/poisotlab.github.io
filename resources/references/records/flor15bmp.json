@@ -1,0 +1,220 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        1,
+        22
+      ]
+    ],
+    "date-time": "2016-01-22T10:59:45Z",
+    "timestamp": 1453460385805
+  },
+  "reference-count": 36,
+  "publisher": "Wiley-Blackwell",
+  "issue": "1",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            13
+          ]
+        ],
+        "date-time": "2015-09-13T00:00:00Z",
+        "timestamp": 1442102400000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    },
+    {
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            13
+          ]
+        ],
+        "date-time": "2015-09-13T00:00:00Z",
+        "timestamp": 1442102400000
+      },
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "award": [],
+      "doi-asserted-by": "publisher",
+      "name": "Burroughs Wellcome Fund",
+      "DOI": "10.13039/100000861"
+    },
+    {
+      "award": [
+        "OCE-1233760"
+      ],
+      "doi-asserted-by": "publisher",
+      "name": "National Science Foundation",
+      "DOI": "10.13039/100000001"
+    },
+    {
+      "award": [],
+      "name": "CONTACyT Foundation"
+    },
+    {
+      "award": [],
+      "name": "FQRNT-MELS"
+    },
+    {
+      "award": [],
+      "name": "PBEEE Post-doctoral Program"
+    },
+    {
+      "award": [
+        "FIS2013-44674-P"
+      ],
+      "name": "Spanish Ministry of Economy and Competitiveness"
+    },
+    {
+      "award": [],
+      "name": "Botin Foundation"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1111/2041-210x.12458",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        9,
+        14
+      ]
+    ],
+    "date-time": "2015-09-14T04:57:04Z",
+    "timestamp": 1442206624000
+  },
+  "page": "127-132",
+  "source": "CrossRef",
+  "title": " BiMat : a MATLAB package to facilitate the analysis of bipartite networks ",
+  "prefix": "http://id.crossref.org/prefix/10.1111",
+  "volume": "7",
+  "author": [
+    {
+      "affiliation": [
+        {
+          "name": "School of Physics; Georgia Institute of Technology; Atlanta GA 30332 USA"
+        }
+      ],
+      "family": "Flores",
+      "given": "Cesar O."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "School of Biological Sciences; University of Canterbury; Private Bag 4800 Christchurch 8140 New Zealand"
+        },
+        {
+          "name": "Département de Sciences Biologiques; Université de Montréal; 90 Avenue Vincent d'Indy Montréal QC H2V3S9 Canada"
+        },
+        {
+          "name": "Québec Centre for Biodiversity Sciences; 1205 Dr. Penfield Avenue Montréal QC H3A 1B1 Canada"
+        }
+      ],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Complex Systems Lab; Universitat Pompeu Fabra; Dr Aiguader 80 08003 Barcelona Spain"
+        },
+        {
+          "name": "Institute of Evolutionary Biology (CSIC-UPF); Passeig Maritim de la Barceloneta 37-49 E-08003 Barcelona Spain"
+        }
+      ],
+      "family": "Valverde",
+      "given": "Sergi"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "School of Biology; Georgia Institute of Technology; Atlanta GA 30332 USA"
+        },
+        {
+          "name": "School of Physics; Georgia Institute of Technology; Atlanta GA 30332 USA"
+        }
+      ],
+      "family": "Weitz",
+      "given": "Joshua S."
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        9,
+        13
+      ]
+    ]
+  },
+  "container-title": "Methods Ecol Evol",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "application/pdf",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F2041-210X.12458"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        1,
+        19
+      ]
+    ],
+    "date-time": "2016-01-19T14:55:23Z",
+    "timestamp": 1453215323000
+  },
+  "score": 1,
+  "subtitle": [],
+  "editor": [
+    {
+      "affiliation": [],
+      "family": "McInerny",
+      "given": "Greg"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        9,
+        13
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1111/2041-210x.12458",
+  "archive": [
+    "Portico"
+  ],
+  "ISSN": [
+    "2041-210X"
+  ],
+  "id": "flor15bmp"
+}

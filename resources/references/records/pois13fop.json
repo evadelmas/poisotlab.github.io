@@ -1,0 +1,111 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        27
+      ]
+    ],
+    "date-time": "2015-12-27T19:22:20Z",
+    "timestamp": 1451244140402
+  },
+  "reference-count": 44,
+  "publisher": "Cambridge University Press (CUP)",
+  "issue": "11",
+  "published-print": {
+    "date-parts": [
+      [
+        2013,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1017/s0031182013000851",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        8,
+        7
+      ]
+    ],
+    "date-time": "2013-08-07T08:29:45Z",
+    "timestamp": 1375864185000
+  },
+  "page": "1340-1345",
+  "source": "CrossRef",
+  "title": "Facultative and obligate parasite communities exhibit different network properties",
+  "prefix": "http://id.crossref.org/prefix/10.1017",
+  "volume": "140",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "POISOT",
+      "given": "TIMOTHÉE"
+    },
+    {
+      "affiliation": [],
+      "family": "STANKO",
+      "given": "MICHAL"
+    },
+    {
+      "affiliation": [],
+      "family": "MIKLISOVÁ",
+      "given": "DANA"
+    },
+    {
+      "affiliation": [],
+      "family": "MORAND",
+      "given": "SERGE"
+    }
+  ],
+  "member": "http://id.crossref.org/member/56",
+  "published-online": {
+    "date-parts": [
+      [
+        2013,
+        8,
+        7
+      ]
+    ]
+  },
+  "container-title": "Parasitology",
+  "deposited": {
+    "date-parts": [
+      [
+        2013,
+        8,
+        21
+      ]
+    ],
+    "date-time": "2013-08-21T13:43:00Z",
+    "timestamp": 1377092580000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        8,
+        7
+      ]
+    ]
+  },
+  "alternative-id": [
+    "S0031182013000851"
+  ],
+  "URL": "http://dx.doi.org/10.1017/s0031182013000851",
+  "ISSN": [
+    "0031-1820",
+    "1469-8161"
+  ],
+  "subject": [
+    "Animal Science and Zoology",
+    "Parasitology",
+    "Infectious Diseases"
+  ],
+  "id": "pois13fop"
+}

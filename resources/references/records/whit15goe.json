@@ -1,0 +1,166 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        25
+      ]
+    ],
+    "date-time": "2016-02-25T20:43:48Z",
+    "timestamp": 1456433028298
+  },
+  "reference-count": 92,
+  "publisher": "Wiley-Blackwell",
+  "issue": "8",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 31,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2015-09-01T00:00:00Z",
+        "timestamp": 1441065600000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        8
+      ]
+    ]
+  },
+  "DOI": "10.1890/es14-00485.1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        8,
+        7
+      ]
+    ],
+    "date-time": "2015-08-07T20:56:33Z",
+    "timestamp": 1438980993000
+  },
+  "page": "art134",
+  "source": "CrossRef",
+  "title": "The next generation ofaction ecology: novel approaches towards global ecological research",
+  "prefix": "http://id.crossref.org/prefix/10.1002",
+  "volume": "6",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "White",
+      "given": "Rachel L."
+    },
+    {
+      "affiliation": [],
+      "family": "Sutton",
+      "given": "Alexandra E."
+    },
+    {
+      "affiliation": [],
+      "family": "Salguero-Gómez",
+      "given": "Roberto"
+    },
+    {
+      "affiliation": [],
+      "family": "Bray",
+      "given": "Timothy C."
+    },
+    {
+      "affiliation": [],
+      "family": "Campbell",
+      "given": "Heather"
+    },
+    {
+      "affiliation": [],
+      "family": "Cieraad",
+      "given": "Ellen"
+    },
+    {
+      "affiliation": [],
+      "family": "Geekiyanage",
+      "given": "Nalaka"
+    },
+    {
+      "affiliation": [],
+      "family": "Gherardi",
+      "given": "Laureano"
+    },
+    {
+      "affiliation": [],
+      "family": "Hughes",
+      "given": "Alice C."
+    },
+    {
+      "affiliation": [],
+      "family": "Jørgensen",
+      "given": "Peter Søgaard"
+    },
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothee"
+    },
+    {
+      "affiliation": [],
+      "family": "DeSoto",
+      "given": "Lucía"
+    },
+    {
+      "affiliation": [],
+      "family": "Zimmerman",
+      "given": "Naupaka"
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "container-title": "Ecosphere",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "unspecified",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1890%2FES14-00485.1"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        25
+      ]
+    ],
+    "date-time": "2016-02-25T19:03:06Z",
+    "timestamp": 1456426986000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        8
+      ]
+    ]
+  },
+  "alternative-id": [
+    "10.1890/ES14-00485.1"
+  ],
+  "URL": "http://dx.doi.org/10.1890/es14-00485.1",
+  "ISSN": [
+    "2150-8925"
+  ],
+  "id": "whit15goe"
+}

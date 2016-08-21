@@ -5,28 +5,20 @@
 </head>
 <body>
 
-
+  {% include nav.html %}
 
   <div class="container">
     <div class="head">
       <div class="title">
           <a href="/"><img src="/resources/logo.png" class="logo" /></a>
-          <h2>the<span style="font-weight: bold;">poisot</span>lab</h2>
-          <h1>{% if page.chapo %}{{page.chapo}}{%else%}Quantitative & Computational Ecology, Université de Montréal{%endif%}</h1>
+          <h1>the<span style="font-weight: bold;">poisot</span>lab</h1> // <h2>{% if page.chapo %}{{page.chapo}}{%else%}Quantitative & Computational Ecology{%endif%}</h2>
         </div>
       </div>
   </div>
-  {% include nav.html %}
-  <div class="container">
-    {{ content }}
 
+  <div class="container" id="content">
+    {{ content }}
   </div>
 
-  <script type="text/javascript">
-  var navbarTop = $('.navbar').position().top;
-  $(document).scroll(function(){
-    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > navbarTop);
-  });
-  </script>
 </body>
 </html>

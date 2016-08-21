@@ -1,0 +1,154 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        28
+      ]
+    ],
+    "date-time": "2015-12-28T03:33:36Z",
+    "timestamp": 1451273616994
+  },
+  "reference-count": 35,
+  "publisher": "PeerJ",
+  "DOI": "10.7717/peerj.285",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        3,
+        4
+      ]
+    ],
+    "date-time": "2014-03-04T08:21:14Z",
+    "timestamp": 1393921274000
+  },
+  "page": "e285",
+  "source": "CrossRef",
+  "title": "Lack of quantitative training among early-career ecologists: a survey of the problem and potential solutions",
+  "prefix": "http://id.crossref.org/prefix/10.7717",
+  "volume": "2",
+  "author": [
+    {
+      "affiliation": [
+        {
+          "name": "Department of Arctic and Marine Biology, University of Tromsø, Tromsø, Norway"
+        }
+      ],
+      "family": "Barraquand",
+      "given": "Frédéric"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Centre for Biological Sciences, University of Southampton, Southampton, United Kingdom"
+        }
+      ],
+      "family": "Ezard",
+      "given": "Thomas H.G."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Center for Macroecology, Evolution and Climate, University of Copenhagen, Copenhagen, Denmark"
+        }
+      ],
+      "family": "Jørgensen",
+      "given": "Peter S."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Department of Biology, Stanford University, Stanford, USA"
+        }
+      ],
+      "family": "Zimmerman",
+      "given": "Naupaka"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Biology Department, Simon Fraser University, Burnaby, BC, Canada"
+        }
+      ],
+      "family": "Chamberlain",
+      "given": "Scott"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Max Planck Institute for Demographic Research, Evolutionary Biodemography Laboratory, Rostock, Germany"
+        },
+        {
+          "name": "School of Biological Sciences, Centre for Biodiversity and Conservation Science, University of Queensland, Brisbane, Australia"
+        }
+      ],
+      "family": "Salguero-Gómez",
+      "given": "Roberto"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Department of Ecology, Lincoln University, Canterbury, New Zealand"
+        }
+      ],
+      "family": "Curran",
+      "given": "Timothy J."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Département de Biologie, Chimie et Géographie, Université du Québec à Rimouski, Rimouski (QC), Canada"
+        },
+        {
+          "name": "Québec Centre for Biodiversity Sciences, McGill University, Canada"
+        }
+      ],
+      "family": "Poisot",
+      "given": "Timothée"
+    }
+  ],
+  "member": "http://id.crossref.org/member/4443",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        3,
+        4
+      ]
+    ]
+  },
+  "container-title": "PeerJ",
+  "deposited": {
+    "date-parts": [
+      [
+        2014,
+        3,
+        4
+      ]
+    ],
+    "date-time": "2014-03-04T08:21:14Z",
+    "timestamp": 1393921274000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        3,
+        4
+      ]
+    ]
+  },
+  "alternative-id": [
+    "10.7717/peerj.285"
+  ],
+  "URL": "http://dx.doi.org/10.7717/peerj.285",
+  "ISSN": [
+    "2167-8359"
+  ],
+  "id": "barr14lqt"
+}

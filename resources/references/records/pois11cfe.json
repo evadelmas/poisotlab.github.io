@@ -1,0 +1,138 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        23
+      ]
+    ],
+    "date-time": "2015-12-23T23:56:44Z",
+    "timestamp": 1450915004409
+  },
+  "reference-count": 80,
+  "publisher": "Wiley-Blackwell",
+  "issue": "9",
+  "license": [
+    {
+      "content-version": "tdm",
+      "delay-in-days": 1531,
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2015-09-01T00:00:00Z",
+        "timestamp": 1441065600000
+      },
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    }
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2011,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1111/j.1461-0248.2011.01645.x",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2011,
+        6,
+        25
+      ]
+    ],
+    "date-time": "2011-06-25T21:53:50Z",
+    "timestamp": 1309038830000
+  },
+  "page": "841-851",
+  "source": "CrossRef",
+  "title": "A conceptual framework for the evolution of ecological specialisation",
+  "prefix": "http://id.crossref.org/prefix/10.1111",
+  "volume": "14",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Bever",
+      "given": "James D."
+    },
+    {
+      "affiliation": [],
+      "family": "Nemri",
+      "given": "Adnane"
+    },
+    {
+      "affiliation": [],
+      "family": "Thrall",
+      "given": "Peter H."
+    },
+    {
+      "affiliation": [],
+      "family": "Hochberg",
+      "given": "Michael E."
+    }
+  ],
+  "member": "http://id.crossref.org/member/311",
+  "published-online": {
+    "date-parts": [
+      [
+        2011,
+        6,
+        23
+      ]
+    ]
+  },
+  "container-title": "Ecology Letters",
+  "link": [
+    {
+      "intended-application": "text-mining",
+      "content-version": "vor",
+      "content-type": "unspecified",
+      "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1461-0248.2011.01645.x"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        10,
+        21
+      ]
+    ],
+    "date-time": "2015-10-21T10:37:37Z",
+    "timestamp": 1445423857000
+  },
+  "score": 1,
+  "subtitle": [
+    "Evolution of ecological specialisation"
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2011,
+        6,
+        23
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.1111/j.1461-0248.2011.01645.x",
+  "ISSN": [
+    "1461-023X"
+  ],
+  "subject": [
+    "Ecology, Evolution, Behavior and Systematics"
+  ],
+  "id": "pois11cfe"
+}

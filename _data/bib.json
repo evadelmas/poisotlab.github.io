@@ -1,0 +1,1709 @@
+[
+  {
+    "DOI": "10.7717/peerj.285",
+    "type": "article-journal",
+    "page": "e285",
+    "title": "Lack of quantitative training among early-career ecologists: a survey of the problem and potential solutions",
+    "volume": "2",
+    "author": [
+      {
+        "family": "Barraquand",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Ezard",
+        "given": "Thomas H.G."
+      },
+      {
+        "family": "Jørgensen",
+        "given": "Peter S."
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka"
+      },
+      {
+        "family": "Chamberlain",
+        "given": "Scott"
+      },
+      {
+        "family": "Salguero-Gómez",
+        "given": "Roberto"
+      },
+      {
+        "family": "Curran",
+        "given": "Timothy J."
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "PeerJ",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          4
+        ]
+      ]
+    },
+    "id": "barr14lqt"
+  },
+  {
+    "issue": "5",
+    "DOI": "10.1371/journal.pbio.1001563",
+    "type": "article-journal",
+    "page": "e1001563",
+    "title": "The Case for Open Preprints in Biology",
+    "volume": "11",
+    "author": [
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      },
+      {
+        "family": "White",
+        "given": "Ethan P."
+      },
+      {
+        "family": "Adamson",
+        "given": "Joel J."
+      },
+      {
+        "family": "Ram",
+        "given": "Karthik"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "PLoS Biology",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          14
+        ]
+      ]
+    },
+    "id": "desj13cop"
+  },
+  {
+    "issue": "1",
+    "funder": [
+      {
+        "award": [],
+        "doi-asserted-by": "publisher",
+        "name": "Burroughs Wellcome Fund",
+        "DOI": "10.13039/100000861"
+      },
+      {
+        "award": [
+          "OCE-1233760"
+        ],
+        "doi-asserted-by": "publisher",
+        "name": "National Science Foundation",
+        "DOI": "10.13039/100000001"
+      },
+      {
+        "award": [],
+        "name": "CONTACyT Foundation"
+      },
+      {
+        "award": [],
+        "name": "FQRNT-MELS"
+      },
+      {
+        "award": [],
+        "name": "PBEEE Post-doctoral Program"
+      },
+      {
+        "award": [
+          "FIS2013-44674-P"
+        ],
+        "name": "Spanish Ministry of Economy and Competitiveness"
+      },
+      {
+        "award": [],
+        "name": "Botin Foundation"
+      }
+    ],
+    "DOI": "10.1111/2041-210x.12458",
+    "type": "article-journal",
+    "page": "127-132",
+    "title": " BiMat : a MATLAB package to facilitate the analysis of bipartite networks ",
+    "volume": "7",
+    "author": [
+      {
+        "family": "Flores",
+        "given": "Cesar O."
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Valverde",
+        "given": "Sergi"
+      },
+      {
+        "family": "Weitz",
+        "given": "Joshua S."
+      }
+    ],
+    "container-title": "Methods Ecol Evol",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          13
+        ]
+      ]
+    },
+    "id": "flor15bmp"
+  },
+  {
+    "issue": "11",
+    "DOI": "10.1111/2041-210x.12103",
+    "type": "article-journal",
+    "page": "1083-1090",
+    "title": "Inferring food web structure from predator-prey body size relationships",
+    "volume": "4",
+    "author": [
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Albouy",
+        "given": "Camille"
+      },
+      {
+        "family": "Velez",
+        "given": "Laure"
+      },
+      {
+        "family": "Mouillot",
+        "given": "David"
+      }
+    ],
+    "container-title": "Methods Ecol Evol",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          9,
+          2
+        ]
+      ]
+    },
+    "id": "grav13ifw"
+  },
+  {
+    "issue": "s1",
+    "DOI": "10.4081/jlimnol.2014.807",
+    "type": "article-journal",
+    "title": "Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes",
+    "volume": "73",
+    "author": [
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      }
+    ],
+    "container-title": "J Limnol",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          8
+        ]
+      ]
+    },
+    "id": "grav14ntr"
+  },
+  {
+    "publisher": "Cold Spring Harbor Laboratory Press",
+    "DOI": "10.1101/055558",
+    "type": "report",
+    "title": "Bringing Elton and Grinnell together: a quantitative framework to represent the biogeography of ecological interaction networks",
+    "author": [
+      {
+        "family": "Gravel",
+        "given": "Dominique",
+        "ORCID": "http://orcid.org/0000-0002-4498-7076"
+      },
+      {
+        "family": "Baiser",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Dune",
+        "given": "Jennifer A"
+      },
+      {
+        "family": "Kopelke",
+        "given": "Jens-Peter"
+      },
+      {
+        "family": "Martinez",
+        "given": "Neo D",
+        "ORCID": "http://orcid.org/0000-0002-1130-5550"
+      },
+      {
+        "family": "Nyman",
+        "given": "Tommi"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothee",
+        "ORCID": "http://orcid.org/0000-0002-0735-5184"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B",
+        "ORCID": "http://orcid.org/0000-0001-9436-9674"
+      },
+      {
+        "family": "Tylianakis",
+        "given": "Jason M",
+        "ORCID": "http://orcid.org/0000-0001-7402-5620"
+      },
+      {
+        "family": "Wood",
+        "given": "Spencer A",
+        "ORCID": "http://orcid.org/0000-0002-6840-7670"
+      },
+      {
+        "family": "Roslin",
+        "given": "Tomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          26
+        ]
+      ]
+    },
+    "URL": "http://dx.doi.org/10.1101/055558",
+    "id": "grav16beg"
+  },
+  {
+    "DOI": "10.1111/ecog.01748",
+    "type": "article-journal",
+    "page": "n/a-n/a",
+    "title": "Temperature and trophic structure are driving microbial productivity along a biogeographical gradient",
+    "author": [
+      {
+        "family": "Gray",
+        "given": "Sarah M"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Harvey",
+        "given": "Eric"
+      },
+      {
+        "family": "Mouquet",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Miller",
+        "given": "Thomas E."
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ecography",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "id": "gray15tts"
+  },
+  {
+    "issue": "2",
+    "DOI": "10.1080/19420889.2015.1017164",
+    "type": "article-journal",
+    "page": "e1017164",
+    "title": "The spread of a novel behavior in wild chimpanzees: New insights into the ape cultural mind",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Gruber",
+        "given": "Thibaud"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Zuberbühler",
+        "given": "Klaus"
+      },
+      {
+        "family": "Hoppitt",
+        "given": "William"
+      },
+      {
+        "family": "Hobaiter",
+        "given": "Catherine"
+      }
+    ],
+    "container-title": "Communicative & Integrative Biology",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "label": "Peer Review Statement",
+        "name": "peerreview_statement",
+        "order": 1,
+        "value": "The publishing and review policy for this title is described in its Aims & Scope."
+      },
+      {
+        "label": "Aim & Scope",
+        "name": "aims_and_scope_url",
+        "order": 2,
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=kcib20",
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=kcib20"
+      }
+    ],
+    "id": "grub15sbw"
+  },
+  {
+    "issue": "9",
+    "DOI": "10.1371/journal.pbio.1001960",
+    "type": "article-journal",
+    "page": "e1001960",
+    "title": "Social Network Analysis Shows Direct Evidence for Social Transmission of Tool Use in Wild Chimpanzees",
+    "volume": "12",
+    "author": [
+      {
+        "family": "Hobaiter",
+        "given": "Catherine"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Zuberbühler",
+        "given": "Klaus"
+      },
+      {
+        "family": "Hoppitt",
+        "given": "William"
+      },
+      {
+        "family": "Gruber",
+        "given": "Thibaud"
+      }
+    ],
+    "container-title": "PLoS Biology",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          30
+        ]
+      ]
+    },
+    "id": "hoba14sna"
+  },
+  {
+    "issue": "4",
+    "DOI": "10.1890/es14-00198.1",
+    "type": "article-journal",
+    "page": "art68",
+    "title": "Connecting people and ideas from around the world: global innovation platforms for next-generation ecology and beyond",
+    "volume": "6",
+    "author": [
+      {
+        "family": "Jørgensen",
+        "given": "Peter Søgaard"
+      },
+      {
+        "family": "Barraquand",
+        "given": "Frederic"
+      },
+      {
+        "family": "Bonhomme",
+        "given": "Vincent"
+      },
+      {
+        "family": "Curran",
+        "given": "Timothy J."
+      },
+      {
+        "family": "Cieraad",
+        "given": "Ellen"
+      },
+      {
+        "family": "Ezard",
+        "given": "Thomas G."
+      },
+      {
+        "family": "Gherardi",
+        "given": "Laureano A."
+      },
+      {
+        "family": "Hayes",
+        "given": "R. Andrew"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Salguero-Gómez",
+        "given": "Roberto"
+      },
+      {
+        "family": "DeSoto",
+        "given": "Lucía"
+      },
+      {
+        "family": "Swartz",
+        "given": "Brian"
+      },
+      {
+        "family": "Talbot",
+        "given": "Jennifer M."
+      },
+      {
+        "family": "Wee",
+        "given": "Brian"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka"
+      }
+    ],
+    "container-title": "Ecosphere",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "id": "jorg15cpi"
+  },
+  {
+    "issue": "7",
+    "DOI": "10.1111/j.1095-8649.2009.02400.x",
+    "type": "article-journal",
+    "page": "1667-1682",
+    "title": "Interactions between immunocompetence, somatic condition and parasitism in the chubLeuciscus cephalusin early spring",
+    "volume": "75",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "T."
+      },
+      {
+        "family": "Å imkovÃ¡",
+        "given": "A."
+      },
+      {
+        "family": "HyrÅ¡l",
+        "given": "P."
+      },
+      {
+        "family": "Morand",
+        "given": "S."
+      }
+    ],
+    "container-title": "Journal of Fish Biology",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          11
+        ]
+      ]
+    },
+    "id": "pois09iis"
+  },
+  {
+    "issue": "3",
+    "DOI": "10.1111/j.1095-8312.2009.01381.x",
+    "type": "article-journal",
+    "page": "559-569",
+    "title": "Putative speciation events in Lamellodiscus (Monogenea: Diplectanidae) assessed by a morphometric approach",
+    "volume": "99",
+    "author": [
+      {
+        "family": "POISOT",
+        "given": "TIMOTHÉE"
+      },
+      {
+        "family": "DESDEVISES",
+        "given": "YVES"
+      }
+    ],
+    "container-title": "Biological Journal of the Linnean Society",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          5
+        ]
+      ]
+    },
+    "id": "pois10pse"
+  },
+  {
+    "issue": "2",
+    "DOI": "10.1098/rsbl.2010.0774",
+    "type": "article-journal",
+    "page": "201-204",
+    "title": "Resource availability affects the structure of a natural bacteria-bacteriophage community",
+    "volume": "7",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "T."
+      },
+      {
+        "family": "Lepennetier",
+        "given": "G."
+      },
+      {
+        "family": "Martinez",
+        "given": "E."
+      },
+      {
+        "family": "Ramsayer",
+        "given": "J."
+      },
+      {
+        "family": "Hochberg",
+        "given": "M. E."
+      }
+    ],
+    "container-title": "Biology Letters",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          10,
+          20
+        ]
+      ]
+    },
+    "id": "pois10raa"
+  },
+  {
+    "issue": "9",
+    "DOI": "10.1111/j.1461-0248.2011.01645.x",
+    "type": "article-journal",
+    "page": "841-851",
+    "title": "A conceptual framework for the evolution of ecological specialisation",
+    "volume": "14",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bever",
+        "given": "James D."
+      },
+      {
+        "family": "Nemri",
+        "given": "Adnane"
+      },
+      {
+        "family": "Thrall",
+        "given": "Peter H."
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E."
+      }
+    ],
+    "container-title": "Ecology Letters",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          23
+        ]
+      ]
+    },
+    "id": "pois11cfe"
+  },
+  {
+    "issue": "10",
+    "DOI": "10.1371/journal.pone.0026252",
+    "type": "article-journal",
+    "page": "e26252",
+    "title": "Morphological and Molecular Evolution Are Not Linked in Lamellodiscus (Plathyhelminthes, Monogenea)",
+    "volume": "6",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Verneau",
+        "given": "Olivier"
+      },
+      {
+        "family": "Desdevises",
+        "given": "Yves"
+      }
+    ],
+    "container-title": "PLoS ONE",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          12
+        ]
+      ]
+    },
+    "id": "pois11mme"
+  },
+  {
+    "issue": "1727",
+    "DOI": "10.1098/rspb.2011.0826",
+    "type": "article-journal",
+    "page": "299-308",
+    "title": "Trophic network structure emerges through antagonistic coevolution in temporally varying environments",
+    "volume": "279",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "T."
+      },
+      {
+        "family": "Thrall",
+        "given": "P. H."
+      },
+      {
+        "family": "Hochberg",
+        "given": "M. E."
+      }
+    ],
+    "container-title": "Proceedings of the Royal Society B: Biological Sciences",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          8
+        ]
+      ]
+    },
+    "id": "pois11tns"
+  },
+  {
+    "issue": "12",
+    "DOI": "10.1111/ele.12002",
+    "type": "article-journal",
+    "page": "1353-1361",
+    "title": "The dissimilarity of species interaction networks",
+    "volume": "15",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Canard",
+        "given": "Elsa"
+      },
+      {
+        "family": "Mouillot",
+        "given": "David"
+      },
+      {
+        "family": "Mouquet",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ecology Letters",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          20
+        ]
+      ]
+    },
+    "id": "pois12dsi"
+  },
+  {
+    "DOI": "10.12688/f1000research.1-21.v1",
+    "type": "article-journal",
+    "title": "Terminal investment induced by a bacteriophage in a rhizosphere bacterium",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bell",
+        "given": "Thomas"
+      },
+      {
+        "family": "Martinez",
+        "given": "Esteban"
+      },
+      {
+        "family": "Gougat-Barbera",
+        "given": "Claire"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "F1000Research",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          10,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "group": {
+          "label": "Current Referee Status",
+          "name": "current-referee-status"
+        },
+        "label": "Referee status",
+        "name": "referee-status",
+        "order": 0,
+        "URL": "http://f1000research.com/articles/1-21/v1#article-reports",
+        "value": "Indexed"
+      },
+      {
+        "group": {
+          "label": "Article Reports",
+          "name": "article-reports"
+        },
+        "label": "Referee Report",
+        "name": "referee-response-457",
+        "order": 0,
+        "URL": "http://f1000research.com/articles/1-21/v1#referee-response-457",
+        "value": "<b>Britt Koskella</b> Centre for Ecology &amp; Conservation Biosciences, College of Life &amp; Environmental Sciences, University of Exeter, Exeter, UK Approved with reservations: 08 Oct 2012 (v1); I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.; Understanding the response of bacterial populations to bacteriophage viruses is of central importance to predicting microbial dynamics. To do so requires knowledge about both the ecological and evolutionary responses of bacteria to phage in the environment.This includes possible changes in bacterial growth rate and cell size, as both have been shown to affect the rate of adsorption of phages by host cells (e.g. Hadas <i>et al.</i> 1997). In this paper, Poisot and coauthors investigate the inducible response of bacteria to phages by using UV-treated phages that are capable of binding to, but not infecting their host cells. They find that bacteria encountering UV-treated phages have a faster doubling time and smaller cell size than the control bacterial populations but that this response is short-lived and does not confer resistance to the phage.This is a very intriguing result that confirms work from studies using live phages (e.g. G&oacute;mez, P. and A. Buckling. 2011) and suggests that binding of phages, regardless of subsequent infection success, might play a key role in shaping bacterial population dynamics. The approach taken is a very nice way to look for inducible responses to phage and the results are, for the most part, very clear. I do, however, wonder about the independence of the results for doubling time (measured as optical density) and cell size. Surely the optical density measure is affected by the cell size? The authors state that “Analyses of the distribution of several flow cytometry profiles showed that a difference in cell shape is unlikely to explain this result (see data associated to this article)” Since this is an absolutely central result of the finding, I would find it very helpful if the authors actually presented and discussed this evidence. In fact, it was not clear to me which data were in support of this. Otherwise, I do not think that the results should be used to primarily suggest a phage-induced response of increased growth rate, with a cost of decreased cell size. Instead, perhaps it is a response of decreased cell size with a subsequent small change in doubling time? I imagine the authors have the analyses to rule out the latter possibility. Further to this, when the authors do look directly at colony forming units, rather than optical density, in their analyses of bacterial resistance to live phages they do not find a difference among the treatments. In this case, when bacteria were exposed to live phages, bacterial populations that had been exposed to inactivated phages grew to the same densities over 24 hours as those that had not been exposed to inactivated phages. I find this hard to interpret as it could suggest that a) the previous results were primarily indicative of a change in cell size, rather than growth rate, or even that b) the bacteria from the inactivated phage treatments do have a higher growth rate but were more susceptible to phages and thus had the same CFU. It would be helpful if the authors could discuss this result in more detail.I have a few additional points of clarification that I think would help readers fully understand the results.First, I wonder whether the authors could clarify their thoughts on the mechanism underlying the change to smaller cell size and/or increased doubling time of bacteria encountering inactivated phages. For example, could it be that small cell size is a response to altered numbers or activity of receptors on the bacterial cell surface? It seems that phage binding to receptors could alter their function and thus those bacterial cells with bound inactivated phages could be smaller due to decreased uptake of resources.Second, I think the finding that bacteria treated with inactivated phages show changes in growth rate and/or cell size but do not differ in terms of their resistance to live phages is quite interesting! I would be keen to know what the infection rates of the control and treated populations were, as this would help with interpretation of the result. It seems surprising that there is no change in resistance, as previous evidence suggests a strong correlation between cell size and growth rate with adsorption rate. Might this result give insight to the mechanism underlying the changes observed? The authors mention that smaller surface area would mean a lower encounter rate with phages, but this doesn’t seem to be the case when the cells are exposed to live phages.As a very minor point, I wonder whether the authors meant to say that bacteria were separated from unbound, rather than bound, phages in their methods section, as it is unclear how centrifugation would separate bacteria from bound phages.; <b>Competing Interests:</b>No competing interests were disclosed."
+      },
+      {
+        "group": {
+          "label": "Article Reports",
+          "name": "article-reports"
+        },
+        "label": "Referee Report",
+        "name": "referee-response-458",
+        "order": 1,
+        "URL": "http://f1000research.com/articles/1-21/v1#referee-response-458",
+        "value": "<b>Paul Turner</b> Department of Ecology and Evolutionary Biology, Yale University, New Haven, CT, USA Approved with reservations: 22 Oct 2012 (v1); I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.; <b>1.</b> ls there a subpopulation of the UV inactivated phage that are destroyed in the process of creating them, such that addition to bacterial cultures might constitute addition of DNA that can be taken up through transformation ? If so, is it possible that this transformed DNA is being used as a nutrient by the bacteria? This might explain the slight increase in growth rate of phage-exposed bacteria in the experiments. There is precedent in other bacterial systems, but I do not know whether this provides an alternative explanation in the current study. The authors should take this possibility into account. <b>2.</b> It is unclear what constitutes the controls performed in this study. One choice of control would be to obtain the UV-inactivated phage, and then remove these particles via centrifugation. The particle-free supernatant would then be added to controls, so that all components (except phage presence) would be otherwise identical across treatments and controls. However, it is unclear whether this was the approach used, and therefore I am worried that the chosen control is insufficient for drawing proper conclusions in the work.Overall, the work seems very preliminary, and the data presented are not strongly supportive of the conclusions drawn.; <b>Competing Interests:</b>No competing interests were disclosed."
+      },
+      {
+        "label": "Grant Information",
+        "name": "grant-information",
+        "order": 2,
+        "value": "TP is funded by a CNRS-Région Languedoc Roussillon doctoral grant. TB was funded by NERC. MEH is funded by ANR EvolStress (ANR-09-BLAN-099-01), by the Ec2Co “Cytrix” program, and the McDonnell Foundation (JSMF 220020294/SCS-Research Award).The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+      },
+      {
+        "label": "Copyright",
+        "name": "copyright-info",
+        "order": 0,
+        "value": "This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.Data associated with the article are available under the terms of the Creative Commons Zero \"No rights reserved\" data waiver (CC0 1.0 Public domain dedication)."
+      }
+    ],
+    "id": "pois12tii"
+  },
+  {
+    "issue": "11",
+    "DOI": "10.1017/s0031182013000851",
+    "type": "article-journal",
+    "page": "1340-1345",
+    "title": "Facultative and obligate parasite communities exhibit different network properties",
+    "volume": "140",
+    "author": [
+      {
+        "family": "POISOT",
+        "given": "TIMOTHÉE"
+      },
+      {
+        "family": "STANKO",
+        "given": "MICHAL"
+      },
+      {
+        "family": "MIKLISOVÁ",
+        "given": "DANA"
+      },
+      {
+        "family": "MORAND",
+        "given": "SERGE"
+      }
+    ],
+    "container-title": "Parasitology",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          7
+        ]
+      ]
+    },
+    "id": "pois13fop"
+  },
+  {
+    "issue": "4",
+    "DOI": "10.1002/ece3.508",
+    "type": "article-journal",
+    "page": "1125-1139",
+    "title": "High-Throughput Sequencing: A Roadmap Toward Community Ecology",
+    "volume": "3",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Péquin",
+        "given": "Bérangère"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ecol Evol",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          3,
+          11
+        ]
+      ]
+    },
+    "id": "pois13hsr"
+  },
+  {
+    "issue": "2",
+    "DOI": "10.4033/iee.2013.6b.14.f",
+    "type": "article-journal",
+    "title": "Moving toward a sustainable ecological science: don't let data go to waste!",
+    "volume": "6",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      },
+      {
+        "family": "Mounce",
+        "given": "Ross"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ideas in Ecology and Evolution",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "id": "pois13mse"
+  },
+  {
+    "update-to": [
+      {
+        "updated": {
+          "date-parts": [
+            [
+              2013,
+              8,
+              30
+            ]
+          ],
+          "date-time": "2013-08-30T00:00:00Z",
+          "timestamp": 1377820800000
+        },
+        "DOI": "10.12688/f1000research.2-130.v1",
+        "type": "new_version",
+        "label": "New version"
+      }
+    ],
+    "DOI": "10.12688/f1000research.2-130.v2",
+    "type": "article-journal",
+    "title": "An a posteriori measure of network modularity",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "F1000Research",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          30
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "group": {
+          "label": "Current Referee Status",
+          "name": "current-referee-status"
+        },
+        "label": "Referee status",
+        "name": "referee-status",
+        "order": 0,
+        "URL": "http://f1000research.com/articles/2-130/v2#article-reports",
+        "value": "Indexed"
+      },
+      {
+        "group": {
+          "label": "Article Reports",
+          "name": "article-reports"
+        },
+        "label": "Referee Report",
+        "name": "referee-response-1028",
+        "order": 0,
+        "URL": "http://f1000research.com/articles/2-130/v2#referee-response-1028",
+        "value": "<b>Carsten Dormann</b> Biometry and Environmental System Analysis, University Freiburg, Freiburg, Germany Approved with reservations: 26 Jun 2013 (v1); I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.; The proposed index of modularity is of striking simplicity - and thus likely to be prone to artifacts. In the opening paragraph, Poisot forgot to mention that random networks are also modular. Thus, a Q_R &gt; 0 means, in itself, nothing, as Poisot rightly assumes when employing a null model.The typically log-normal abundance of species in nature will introduce apparent structure into networks, even if the links simply reflect probabilistic interactions (i.e. any species interacts more with a common than a rare species). Thus, without a null model correcting for number of species, for their abundance and for the possibility of random networks also being modular, any index may report only spurious, artefactual results. Poisot uses a null model, but because his example data are binary networks (containing no information about the strength of a link), the best he (or anyone) can do is to use a null model based on degrees, which is only a very poor reflection of the actual abundance. Given that often more than a third of the species in a network are singletons, I believe that their contributions to modularity are overemphasized by any binary measure. <b>Suggested Revisions:</b> 1. Simulate networks (ideally weighted ones) and compare their Q_R values to quantitative null models. How much information does Q_R (and Q) actually contain? 2. Comparison of Q_R not only with Q and connectance but also with other network metrics, such as linkage density or dependence asymmetry&nbsp; (and particularly those with a more or less clear ecological interpretation, such as H2'). The question, again, is: what does Q_R provide in addition to current metrics?3. Gain in ecological knowledge (which follows from 1. and 2.): If there is additional information, what does it mean? Which ecological features (specialization, number of functionally similar species, number of trophic level, number of habitats sampled etc.) contribute to Q_R? (For example along the lines of Pocock <i>et al.</i> 2012, who work on different types of sub networks put together into one large, or Clauset <i>et al</i>. 2008. Are these different sub networks identifiable as modules? If so, what does Q_R stand for?); <b>Competing Interests:</b>No competing interests were disclosed."
+      },
+      {
+        "group": {
+          "label": "Article Reports",
+          "name": "article-reports"
+        },
+        "label": "Referee Report",
+        "name": "referee-response-1638",
+        "order": 1,
+        "URL": "http://f1000research.com/articles/2-130/v2#referee-response-1638",
+        "value": "<b>Daniel Carstensen</b> Department of Bioscience, Universidade Federal de S&atilde;o Paulo, S&atilde;o Paulo, Brazil Approved: 02 Sep 2013 (v2); I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard. ; ; <b>Competing Interests:</b>No competing interests were disclosed."
+      },
+      {
+        "group": {
+          "label": "Article Reports",
+          "name": "article-reports"
+        },
+        "label": "Referee Report",
+        "name": "referee-response-2678",
+        "order": 2,
+        "URL": "http://f1000research.com/articles/2-130/v2#referee-response-2678",
+        "value": "<b>Jochen Fr&uuml;nd</b> Agroecology, Georg-August-University of G&ouml;ttingen, G&ouml;ttingen, Germany Approved with reservations: 05 Dec 2013 (v2); I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.; This article suggests a simple intuitive measure of network modularity. The suggested measure, Q'R, is related to established measures but calculated slightly differently. It is proposed as an <i>a posteriori</i> measure, which means it is not suggested to be used for assigning nodes (e.g. species) to modules, but only to evaluate partitions based on other methods that calculate modularity, identify modules and assign nodes to them.In principle I welcome the suggestion of a simple, easy to interpret measure. The metric suggested here can help presenting modularity. I see that the amount of between-module links in relation to within-module links may have direct functional consequences. Established measures of modularity measure basically the same, they only correct for the expectation of within-module links in non-modular random networks in a different way.However, I have a number of serious concerns making the study potentially misleading. These concerns include reservations about whether the analyses address the study aim, whether the dataset is suitable for testing modularity, how the proposed metric is interpreted and that it is suggested as an <i>a posteriori </i>measure. <b>General issues:</b>The study aim set out in the abstract and introduction, to compare different methods and approaches detecting modularity, is not reflected by the analyses. Neither is a functional meaning of the new metric demonstrated to support the case that the metric can be used to evaluate other methods, and decide which method to use. The abstract claims that new insights are gained about the modularity of the food webs in the empirical example dataset, but I struggle to find these new insights.A paragraph added during the revision does some comparison, but it is not integrated with the rest of the paper and neither does it demonstrate the usefulness or added value of the new measure. For the most part, the paper rather compares values of one standard measure of modularity with values for the new metric in an example dataset of 290 unipartite and bipartite food webs. Using one method of module assignment, the paper shows how the two metrics are related to each other, to randomizations of the webs, and to network connectance. The meaning of these relationships for the study purpose is unclear.Importantly, the usefulness of the empirical dataset for evaluating modularity methods is questionable. Typically, studies proposing modularity methods test them on networks of known modularity. However, the nullmodel analysis brings to attention that the vast majority of the networks used here are not more modular (based on Q) than expected by chance, and even less might be significantly modular. This means that this study tries to evaluate modularity methods on networks that are mostly not modular. This questions the value of the whole study and calls again for external information for validation. If networks are not modular, then the practical value of measuring modularity becomes negligible: the variation in module assignment in networks not significantly modular is probably much less worrying than failure to detect a known modular structure (which is not given here).The straightforward interpretation of QR is changed in Q'R, the version the author describes as being scaled between 0 and 1, only to report negative values later on in the paper (Fig. 2). For networks of unknown modularity, Q'R can actually take values between -1 and 1. Furthermore, the notion that negative values of Q'R detect cases of spuriously significant modularity is not generally correct. The threshold of meaningful modularity depends on the purpose and may be above or below Q'R =0.This brings me to a fundamental problem with the study – what is modularity and why should it be measured? The author states that the new metric “makes no assumption about what modularity is”. If this is really the case, then there is no point in defining a measure for it. To be useful, an assumption about what is being measured has to be made. This questions the claims and even policy recommendations made by the author. The difference in concepts and goals is likely a major reason why previous methods differ (e.g. unipartite vs. bipartite modularity suggested by Guimera <i>et al.</i>, 2007). Only when a concept of interest is defined can methods be compared in how well they serve the purpose.I am not sure how useful the whole idea of an <i>a posteriori </i>measure is. The author stresses that the measure is not aimed at maximizing modularity in an algorithm, but just to select which algorithm to use. This is not convincing: either the measure reflects the property of interest, then it should be maximized in the first place in the algorithm to find the best partition; or it is not a sensible measure, then it cannot be used for selection at all. The approach proposed here appears very inefficient and almost certainly not to give the best partition. Furthermore, any measure of modularity could be calculated <i>a posteriori</i> or during modularity optimization. The description of this index specifically as an <i>a posteriori</i> measure gives no real sense, without additional data or simulations showing that it is more meaningful than others. If the functional meaning was demonstrated, there could be some value in using it <i>a posteriori </i>for those who don’t have access to source algorithms. <b>Alternative methods (algorithms) paragraph:</b>As said above, this is not connected to the rest of the paper. Of course it improves the paper to consider alternative methods for module assignment. However, this paragraph has several shortcomings. First, restricting this analysis to the unipartite networks makes it hard to compare to the other results. Second, it remains unclear why this focuses on the correlation between Q and Q'R. The modularity of the partition returned by each method would be compared more directly by comparing the values of Q or Q'R between methods. At the moment, for judging the three methods the reader is just left at guessing that “several” negative values (for methods walktrap and edge-betweenness) are more than “less than 8%” (method spinglass). Third, it looks like an inconsistent ad-hoc addition: citations for the methods and the igraph library (package) are missing, the methods are not mentioned before or described and correlation coefficients are called r here but rho above. <b>Null model:</b>The description of the nullmodel leaves unclear whether the connectance and degree are fixed exactly or just determine the expected value probabilistically. Moreover, the nullmodel is discussed as reflecting “chance”. Given that many links likely remain unobserved in ecological network datasets, a reasonable simulation of chance should ideally consider detection probability. Binary network data (e.g. the data used here) are often problematic: ecological network data are virtually always just samples of all realized interactions – this likely applies to the examples used here (even expert opinion may be influenced by observation bias). This can lead to strong biases in measures of network structure between the real web and its sample, but these problems are ignored here. As the simulations are called “pseudo-random”, they may be acceptable within the constraints of binary data – which then casts questions about the usefulness of the test dataset for the study purpose (see above). <b>Unipartite vs. bipartite webs:</b>It should be better explained how the different data types were handled with the same methods. Bipartite networks have additional (conceptual) ambiguities in how modularity should be calculated, which may be a core reason for discrepancy between modularity methods (Guimera <i>et al</i>., 2007, Th&eacute;bault, 2013). To be able to interpret the data better, it is warranted to present or identify the unipartite and bipartite webs separately in the graphs and results. <b>Minor points:</b>More information on the datasets should be provided; the bipartite dataset is not even found in the reference provided for it, but must be traced back several steps to the original reference.&nbsp;Why is an algorithm chosen that is recommended for large networks (many thousands to millions of nodes, Blondel <i>et al.</i>, 2008) when the webs analyzed here have less than 200 nodes?&nbsp;Without defining the purpose or demonstrating the functional meaning of Q'R, it is difficult to know whether no correlation with connectance is desirable or not.&nbsp;“Results” should actually be entitled “Results and Discussion”.&nbsp;The terminological differentiation between true modularity and realized modularity is confusing.Overall, the study is inconsistent and doesn’t live up to its promises. A study evaluating modularity measures should look at additional information to validate it (especially if it is not a formal comparison of multiple metrics). As shown by previous papers on the topic, this additional information could be the correspondence to biological traits in empirical networks (e.g. Mart&iacute;n Gonz&aacute;lez <i>et al.</i>, 2012), the detection of build-in module structure in simulated networks (e.g. Th&eacute;bault, 2013) or the demonstration of functional consequences (e.g. by a model). To be useful, the study should be put on a more solid foundation.; <b>Competing Interests:</b>No competing interests were disclosed."
+      },
+      {
+        "label": "Grant Information",
+        "name": "grant-information",
+        "order": 3,
+        "value": "TP is funded by a PBEEE-FQRNT post-doctoral scholarship, and thanks the EEC Canada Research Chair for providing computational support.The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+      },
+      {
+        "label": "Copyright",
+        "name": "copyright-info",
+        "order": 0,
+        "value": "This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.Data associated with the article are available under the terms of the Creative Commons Zero \"No rights reserved\" data waiver (CC0 1.0 Public domain dedication)."
+      }
+    ],
+    "id": "pois13pmn"
+  },
+  {
+    "issue": "1",
+    "DOI": "10.1186/2192-1709-2-13",
+    "type": "article-journal",
+    "page": "13",
+    "title": "The structure of natural microbial enemy-victim networks",
+    "volume": "2",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Lounnas",
+        "given": "Manon"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "Ecological Processes",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "id": "pois13snm"
+  },
+  {
+    "issue": "7",
+    "DOI": "10.1111/ele.12118",
+    "type": "article-journal",
+    "page": "853-861",
+    "title": "Trophic complementarity drives the biodiversity-ecosystem functioning relationship in food webs",
+    "volume": "16",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Mouquet",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ecology Letters",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          22
+        ]
+      ]
+    },
+    "id": "pois13tcd"
+  },
+  {
+    "issue": "19",
+    "DOI": "10.1002/ece3.1151",
+    "type": "article-journal",
+    "page": "3841-3850",
+    "title": "Dispersal and spatial heterogeneity allow coexistence between enemies and protective mutualists",
+    "volume": "4",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bever",
+        "given": "James D."
+      },
+      {
+        "family": "Thrall",
+        "given": "Peter H."
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E."
+      }
+    ],
+    "container-title": "Ecol Evol",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          18
+        ]
+      ]
+    },
+    "id": "pois14dsh"
+  },
+  {
+    "DOI": "10.7717/peerj.251",
+    "type": "article-journal",
+    "page": "e251",
+    "title": "When is an ecological network complex? Connectance drives degree distribution and emerging network properties",
+    "volume": "2",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "PeerJ",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          4
+        ]
+      ]
+    },
+    "id": "pois14enc"
+  },
+  {
+    "issue": "3",
+    "DOI": "10.1111/oik.01719",
+    "type": "article-journal",
+    "page": "243-251",
+    "title": "Beyond species: why ecological interaction networks vary through space and time",
+    "volume": "124",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B."
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Oikos",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          4
+        ]
+      ]
+    },
+    "id": "pois14sei"
+  },
+  {
+    "publisher": "Cambridge University Press (CUP)",
+    "DOI": "10.1017/cbo9781139794749.028",
+    "type": "chapter",
+    "page": "420-433",
+    "title": "When is co-phylogeny evidence of coevolution?",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Evolutionary Ecology Meets Phylogenetics",
+    "editor": [
+      {
+        "family": "Morand",
+        "given": "Serge"
+      },
+      {
+        "family": "Krasnov",
+        "given": "Boris R."
+      },
+      {
+        "family": "Littlewood",
+        "given": "D. Timothy J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "ISBN": "http://id.crossref.org/isbn/9781139794749",
+    "URL": "http://dx.doi.org/10.1017/cbo9781139794749.028",
+    "id": "pois15cec"
+  },
+  {
+    "issue": "5",
+    "DOI": "10.1371/journal.pone.0114674",
+    "type": "article-journal",
+    "page": "e0114674",
+    "title": "A Continuum of Specialists and Generalists in Empirical Communities",
+    "volume": "10",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Kéfi",
+        "given": "Sonia"
+      },
+      {
+        "family": "Morand",
+        "given": "Serge"
+      },
+      {
+        "family": "Stanko",
+        "given": "Michal"
+      },
+      {
+        "family": "Marquet",
+        "given": "Pablo A."
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E."
+      }
+    ],
+    "container-title": "PLOS ONE",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          20
+        ]
+      ]
+    },
+    "id": "pois15csg"
+  },
+  {
+    "publisher": "Cold Spring Harbor Laboratory Press",
+    "DOI": "10.1101/033050",
+    "type": "report",
+    "title": "Interactions retain the co-phylogenetic matching that communities lost",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel",
+        "ORCID": "http://orcid.org/0000-0001-9436-9674"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11,
+          26
+        ]
+      ]
+    },
+    "URL": "http://dx.doi.org/10.1101/033050",
+    "id": "pois15irc"
+  },
+  {
+    "issue": "4",
+    "DOI": "10.1111/ecog.00976",
+    "type": "article-journal",
+    "page": "384-390",
+    "title": "mangal - making ecological network analysis simple",
+    "volume": "39",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Baiser",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Dunne",
+        "given": "Jennifer A."
+      },
+      {
+        "family": "Kéfi",
+        "given": "Sonia"
+      },
+      {
+        "family": "Massol",
+        "given": "François"
+      },
+      {
+        "family": "Mouquet",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Romanuk",
+        "given": "Tamara N."
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B."
+      },
+      {
+        "family": "Wood",
+        "given": "Spencer A."
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ecography",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          2
+        ]
+      ]
+    },
+    "id": "pois15mme"
+  },
+  {
+    "DOI": "10.4033/iee.2015.8.8.f",
+    "type": "article-journal",
+    "title": "Best publishing practices to improve user confidence in scientific software",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      }
+    ],
+    "container-title": "Ideas in Ecology and Evolution",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "id": "pois15ppi"
+  },
+  {
+    "issue": "4",
+    "DOI": "10.1111/ecog.01941",
+    "type": "article-journal",
+    "page": "402-408",
+    "title": "Synthetic datasets and community tools for the rapid testing of ecological hypotheses",
+    "volume": "39",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Leroux",
+        "given": "Shawn"
+      },
+      {
+        "family": "Wood",
+        "given": "Spencer A."
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Baiser",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Cirtwill",
+        "given": "Alyssa R."
+      },
+      {
+        "family": "Araújo",
+        "given": "Miguel B."
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B."
+      }
+    ],
+    "container-title": "Ecography",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11,
+          16
+        ]
+      ]
+    },
+    "id": "pois15sdc"
+  },
+  {
+    "issue": "3",
+    "funder": [
+      {
+        "award": [],
+        "doi-asserted-by": "publisher",
+        "name": "Natural Sciences and Engineering Research Council of Canada",
+        "DOI": "10.13039/501100000038"
+      },
+      {
+        "award": [],
+        "doi-asserted-by": "publisher",
+        "name": "Université de Montréal",
+        "DOI": "10.13039/501100005242"
+      },
+      {
+        "award": [],
+        "doi-asserted-by": "publisher",
+        "name": "California Institute of Energy and Environment",
+        "DOI": "10.13039/100009151"
+      },
+      {
+        "award": [
+          "UOC-1101"
+        ],
+        "name": "Marsden Fund Fast-Start"
+      },
+      {
+        "award": [],
+        "name": "Rutherford Discovery Fellowship"
+      }
+    ],
+    "DOI": "10.1111/2041-210x.12468",
+    "type": "article-journal",
+    "page": "303-312",
+    "title": "The structure of probabilistic networks",
+    "volume": "7",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Cirtwill",
+        "given": "Alyssa R."
+      },
+      {
+        "family": "Cazelles",
+        "given": "Kévin"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B."
+      }
+    ],
+    "container-title": "Methods Ecol Evol",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          24
+        ]
+      ]
+    },
+    "id": "pois15spn"
+  },
+  {
+    "publisher": "Wiley-Blackwell",
+    "DOI": "10.1002/9780470015902.a0026281",
+    "type": "reference-entry",
+    "page": "1-7",
+    "title": "Evolutionary Ecology of Specialisation",
+    "author": [
+      {
+        "family": "Vamosi",
+        "given": "Jana C"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "eLS",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          2,
+          15
+        ]
+      ]
+    },
+    "ISBN": "http://id.crossref.org/isbn/9780470015902",
+    "URL": "http://dx.doi.org/10.1002/9780470015902.a0026281",
+    "id": "vamo16ees"
+  },
+  {
+    "issue": "2",
+    "DOI": "10.1016/j.tim.2012.11.003",
+    "type": "article-journal",
+    "page": "82-91",
+    "title": "Phage–bacteria infection networks",
+    "volume": "21",
+    "author": [
+      {
+        "family": "Weitz",
+        "given": "Joshua S."
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Meyer",
+        "given": "Justin R."
+      },
+      {
+        "family": "Flores",
+        "given": "Cesar O."
+      },
+      {
+        "family": "Valverde",
+        "given": "Sergi"
+      },
+      {
+        "family": "Sullivan",
+        "given": "Matthew B."
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E."
+      }
+    ],
+    "container-title": "Trends in Microbiology",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "id": "weit13pin"
+  },
+  {
+    "issue": "8",
+    "DOI": "10.1890/es14-00485.1",
+    "type": "article-journal",
+    "page": "art134",
+    "title": "The next generation ofaction ecology: novel approaches towards global ecological research",
+    "volume": "6",
+    "author": [
+      {
+        "family": "White",
+        "given": "Rachel L."
+      },
+      {
+        "family": "Sutton",
+        "given": "Alexandra E."
+      },
+      {
+        "family": "Salguero-Gómez",
+        "given": "Roberto"
+      },
+      {
+        "family": "Bray",
+        "given": "Timothy C."
+      },
+      {
+        "family": "Campbell",
+        "given": "Heather"
+      },
+      {
+        "family": "Cieraad",
+        "given": "Ellen"
+      },
+      {
+        "family": "Geekiyanage",
+        "given": "Nalaka"
+      },
+      {
+        "family": "Gherardi",
+        "given": "Laureano"
+      },
+      {
+        "family": "Hughes",
+        "given": "Alice C."
+      },
+      {
+        "family": "Jørgensen",
+        "given": "Peter Søgaard"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      },
+      {
+        "family": "DeSoto",
+        "given": "Lucía"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka"
+      }
+    ],
+    "container-title": "Ecosphere",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          8
+        ]
+      ]
+    },
+    "id": "whit15goe"
+  }
+]

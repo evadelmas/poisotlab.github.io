@@ -1,0 +1,82 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        6,
+        26
+      ]
+    ],
+    "date-time": "2016-06-26T08:40:09Z",
+    "timestamp": 1466930409604
+  },
+  "reference-count": 0,
+  "publisher": "Cold Spring Harbor Laboratory Press",
+  "DOI": "10.1101/033050",
+  "type": "report",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        27
+      ]
+    ],
+    "date-time": "2015-11-27T06:12:16Z",
+    "timestamp": 1448604736000
+  },
+  "source": "CrossRef",
+  "title": "Interactions retain the co-phylogenetic matching that communities lost",
+  "prefix": "http://id.crossref.org/prefix/10.1101",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothee"
+    },
+    {
+      "affiliation": [],
+      "family": "Stouffer",
+      "given": "Daniel",
+      "ORCID": "http://orcid.org/0000-0001-9436-9674"
+    }
+  ],
+  "member": "http://id.crossref.org/member/246",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        26
+      ]
+    ]
+  },
+  "container-title": null,
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        6,
+        26
+      ]
+    ],
+    "date-time": "2016-06-26T07:00:01Z",
+    "timestamp": 1466924401000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        26
+      ]
+    ]
+  },
+  "alternative-id": [
+    "10.1101/033050"
+  ],
+  "URL": "http://dx.doi.org/10.1101/033050",
+  "id": "pois15irc"
+}

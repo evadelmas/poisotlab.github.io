@@ -1,0 +1,37 @@
+<div class="entryContent" id="{{p.id}}">
+
+<span class="entryIndex">{{forloop.rindex}}</span>
+
+<!-- Title -->
+<span class="entryTitle">{{p.title}}</span>
+
+<br />
+
+<!-- Date of publication -->
+{% if p.issued %}<span class="entryDate">{{ p.issued.date-parts[0][0] | inspect }}</span>{% endif %}
+
+<span class="sep"> // </span>
+
+<!-- List of authors -->
+{% if p.author %}
+<div class="authorList">
+{% for a in p.author %}{% if forloop.first %}{%else%}{% if forloop.last %} & {%else%}, {% endif %}{%endif%}<span class="authorName">{%if a.family %}{{a.family | capitalize}}{% endif %}</span>{% endfor %}
+</div>
+{% endif %}
+
+<br />
+
+{% if p.DOI %}
+
+{% if p.type == "report" %}
+<a class='tag' href="http://dx.doi.org/{{ p.DOI }}" title="{{ p.title }}">preprint</a>
+{% endif %}
+
+{% if p.container-title %}
+  <a class='tag' href="http://dx.doi.org.sci-hub.cc/{{ p.DOI }}" title="{{ p.title }} // {{ p.container-title }}">sci-hub</a>
+  <a class='tag' href="http://dx.doi.org/{{ p.DOI }}" title="{{ p.title }} // {{ p.container-title }}">journal</a>
+{% endif %}
+
+{% endif %}
+
+</div>

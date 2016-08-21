@@ -1,0 +1,88 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        16
+      ]
+    ],
+    "date-time": "2016-05-16T18:48:39Z",
+    "timestamp": 1463424519766
+  },
+  "reference-count": 66,
+  "publisher": "Springer Nature",
+  "issue": "1",
+  "published-print": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "DOI": "10.1186/2192-1709-2-13",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        5,
+        31
+      ]
+    ],
+    "date-time": "2013-05-31T00:15:14Z",
+    "timestamp": 1369959314000
+  },
+  "page": "13",
+  "source": "CrossRef",
+  "title": "The structure of natural microbial enemy-victim networks",
+  "prefix": "http://id.crossref.org/prefix/10.1186",
+  "volume": "2",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Lounnas",
+      "given": "Manon"
+    },
+    {
+      "affiliation": [],
+      "family": "Hochberg",
+      "given": "Michael E"
+    }
+  ],
+  "member": "http://id.crossref.org/member/297",
+  "container-title": "Ecological Processes",
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        16
+      ]
+    ],
+    "date-time": "2016-05-16T17:35:46Z",
+    "timestamp": 1463420146000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "alternative-id": [
+    "2192-1709-2-13"
+  ],
+  "URL": "http://dx.doi.org/10.1186/2192-1709-2-13",
+  "ISSN": [
+    "2192-1709"
+  ],
+  "id": "pois13snm"
+}

@@ -1,0 +1,86 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        28
+      ]
+    ],
+    "date-time": "2015-12-28T02:14:24Z",
+    "timestamp": 1451268864850
+  },
+  "reference-count": 24,
+  "publisher": "PeerJ",
+  "DOI": "10.7717/peerj.251",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        2,
+        4
+      ]
+    ],
+    "date-time": "2014-02-04T08:35:26Z",
+    "timestamp": 1391502926000
+  },
+  "page": "e251",
+  "source": "CrossRef",
+  "title": "When is an ecological network complex? Connectance drives degree distribution and emerging network properties",
+  "prefix": "http://id.crossref.org/prefix/10.7717",
+  "volume": "2",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Gravel",
+      "given": "Dominique"
+    }
+  ],
+  "member": "http://id.crossref.org/member/4443",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        2,
+        4
+      ]
+    ]
+  },
+  "container-title": "PeerJ",
+  "deposited": {
+    "date-parts": [
+      [
+        2014,
+        2,
+        4
+      ]
+    ],
+    "date-time": "2014-02-04T08:35:27Z",
+    "timestamp": 1391502927000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        2,
+        4
+      ]
+    ]
+  },
+  "alternative-id": [
+    "10.7717/peerj.251"
+  ],
+  "URL": "http://dx.doi.org/10.7717/peerj.251",
+  "ISSN": [
+    "2167-8359"
+  ],
+  "id": "pois14enc"
+}

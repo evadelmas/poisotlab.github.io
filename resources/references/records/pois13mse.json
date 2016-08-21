@@ -1,0 +1,84 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        28
+      ]
+    ],
+    "date-time": "2015-12-28T00:05:38Z",
+    "timestamp": 1451261138306
+  },
+  "reference-count": 0,
+  "publisher": "Ideas in Ecology and Evolution",
+  "issue": "2",
+  "DOI": "10.4033/iee.2013.6b.14.f",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        12,
+        5
+      ]
+    ],
+    "date-time": "2013-12-05T17:15:38Z",
+    "timestamp": 1386263738000
+  },
+  "source": "CrossRef",
+  "title": "Moving toward a sustainable ecological science: don't let data go to waste!",
+  "prefix": "http://id.crossref.org/prefix/10.4033",
+  "volume": "6",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothee"
+    },
+    {
+      "affiliation": [],
+      "family": "Mounce",
+      "given": "Ross"
+    },
+    {
+      "affiliation": [],
+      "family": "Gravel",
+      "given": "Dominique"
+    }
+  ],
+  "member": "http://id.crossref.org/member/2467",
+  "published-online": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "container-title": "Ideas in Ecology and Evolution",
+  "deposited": {
+    "date-parts": [
+      [
+        2013,
+        12,
+        5
+      ]
+    ],
+    "date-time": "2013-12-05T17:15:39Z",
+    "timestamp": 1386263739000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.4033/iee.2013.6b.14.f",
+  "ISSN": [
+    "1918-3178"
+  ],
+  "id": "pois13mse"
+}

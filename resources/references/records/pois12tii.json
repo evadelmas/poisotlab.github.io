@@ -1,0 +1,144 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        22
+      ]
+    ],
+    "date-time": "2015-12-22T02:46:28Z",
+    "timestamp": 1450752388056
+  },
+  "reference-count": 2,
+  "publisher": "F1000 Research, Ltd.",
+  "DOI": "10.12688/f1000research.1-21.v1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        5,
+        9
+      ]
+    ],
+    "date-time": "2013-05-09T16:28:59Z",
+    "timestamp": 1368116939000
+  },
+  "update-policy": "http://dx.doi.org/10.12688/f1000research.crossmark-policy",
+  "source": "CrossRef",
+  "title": "Terminal investment induced by a bacteriophage in a rhizosphere bacterium",
+  "prefix": "http://id.crossref.org/prefix/10.12688",
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Poisot",
+      "given": "Timothée"
+    },
+    {
+      "affiliation": [],
+      "family": "Bell",
+      "given": "Thomas"
+    },
+    {
+      "affiliation": [],
+      "family": "Martinez",
+      "given": "Esteban"
+    },
+    {
+      "affiliation": [],
+      "family": "Gougat-Barbera",
+      "given": "Claire"
+    },
+    {
+      "affiliation": [],
+      "family": "Hochberg",
+      "given": "Michael E"
+    }
+  ],
+  "member": "http://id.crossref.org/member/4950",
+  "published-online": {
+    "date-parts": [
+      [
+        2012,
+        10,
+        2
+      ]
+    ]
+  },
+  "container-title": "F1000Research",
+  "deposited": {
+    "date-parts": [
+      [
+        2015,
+        9,
+        15
+      ]
+    ],
+    "date-time": "2015-09-15T14:56:56Z",
+    "timestamp": 1442329016000
+  },
+  "score": 1,
+  "subtitle": [],
+  "issued": {
+    "date-parts": [
+      [
+        2012,
+        10,
+        2
+      ]
+    ]
+  },
+  "URL": "http://dx.doi.org/10.12688/f1000research.1-21.v1",
+  "ISSN": [
+    "2046-1402"
+  ],
+  "assertion": [
+    {
+      "group": {
+        "label": "Current Referee Status",
+        "name": "current-referee-status"
+      },
+      "label": "Referee status",
+      "name": "referee-status",
+      "order": 0,
+      "URL": "http://f1000research.com/articles/1-21/v1#article-reports",
+      "value": "Indexed"
+    },
+    {
+      "group": {
+        "label": "Article Reports",
+        "name": "article-reports"
+      },
+      "label": "Referee Report",
+      "name": "referee-response-457",
+      "order": 0,
+      "URL": "http://f1000research.com/articles/1-21/v1#referee-response-457",
+      "value": "<b>Britt Koskella</b> Centre for Ecology &amp; Conservation Biosciences, College of Life &amp; Environmental Sciences, University of Exeter, Exeter, UK Approved with reservations: 08 Oct 2012 (v1); I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.; Understanding the response of bacterial populations to bacteriophage viruses is of central importance to predicting microbial dynamics. To do so requires knowledge about both the ecological and evolutionary responses of bacteria to phage in the environment.This includes possible changes in bacterial growth rate and cell size, as both have been shown to affect the rate of adsorption of phages by host cells (e.g. Hadas <i>et al.</i> 1997). In this paper, Poisot and coauthors investigate the inducible response of bacteria to phages by using UV-treated phages that are capable of binding to, but not infecting their host cells. They find that bacteria encountering UV-treated phages have a faster doubling time and smaller cell size than the control bacterial populations but that this response is short-lived and does not confer resistance to the phage.This is a very intriguing result that confirms work from studies using live phages (e.g. G&oacute;mez, P. and A. Buckling. 2011) and suggests that binding of phages, regardless of subsequent infection success, might play a key role in shaping bacterial population dynamics. The approach taken is a very nice way to look for inducible responses to phage and the results are, for the most part, very clear. I do, however, wonder about the independence of the results for doubling time (measured as optical density) and cell size. Surely the optical density measure is affected by the cell size? The authors state that “Analyses of the distribution of several flow cytometry profiles showed that a difference in cell shape is unlikely to explain this result (see data associated to this article)” Since this is an absolutely central result of the finding, I would find it very helpful if the authors actually presented and discussed this evidence. In fact, it was not clear to me which data were in support of this. Otherwise, I do not think that the results should be used to primarily suggest a phage-induced response of increased growth rate, with a cost of decreased cell size. Instead, perhaps it is a response of decreased cell size with a subsequent small change in doubling time? I imagine the authors have the analyses to rule out the latter possibility. Further to this, when the authors do look directly at colony forming units, rather than optical density, in their analyses of bacterial resistance to live phages they do not find a difference among the treatments. In this case, when bacteria were exposed to live phages, bacterial populations that had been exposed to inactivated phages grew to the same densities over 24 hours as those that had not been exposed to inactivated phages. I find this hard to interpret as it could suggest that a) the previous results were primarily indicative of a change in cell size, rather than growth rate, or even that b) the bacteria from the inactivated phage treatments do have a higher growth rate but were more susceptible to phages and thus had the same CFU. It would be helpful if the authors could discuss this result in more detail.I have a few additional points of clarification that I think would help readers fully understand the results.First, I wonder whether the authors could clarify their thoughts on the mechanism underlying the change to smaller cell size and/or increased doubling time of bacteria encountering inactivated phages. For example, could it be that small cell size is a response to altered numbers or activity of receptors on the bacterial cell surface? It seems that phage binding to receptors could alter their function and thus those bacterial cells with bound inactivated phages could be smaller due to decreased uptake of resources.Second, I think the finding that bacteria treated with inactivated phages show changes in growth rate and/or cell size but do not differ in terms of their resistance to live phages is quite interesting! I would be keen to know what the infection rates of the control and treated populations were, as this would help with interpretation of the result. It seems surprising that there is no change in resistance, as previous evidence suggests a strong correlation between cell size and growth rate with adsorption rate. Might this result give insight to the mechanism underlying the changes observed? The authors mention that smaller surface area would mean a lower encounter rate with phages, but this doesn’t seem to be the case when the cells are exposed to live phages.As a very minor point, I wonder whether the authors meant to say that bacteria were separated from unbound, rather than bound, phages in their methods section, as it is unclear how centrifugation would separate bacteria from bound phages.; <b>Competing Interests:</b>No competing interests were disclosed."
+    },
+    {
+      "group": {
+        "label": "Article Reports",
+        "name": "article-reports"
+      },
+      "label": "Referee Report",
+      "name": "referee-response-458",
+      "order": 1,
+      "URL": "http://f1000research.com/articles/1-21/v1#referee-response-458",
+      "value": "<b>Paul Turner</b> Department of Ecology and Evolutionary Biology, Yale University, New Haven, CT, USA Approved with reservations: 22 Oct 2012 (v1); I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.; <b>1.</b> ls there a subpopulation of the UV inactivated phage that are destroyed in the process of creating them, such that addition to bacterial cultures might constitute addition of DNA that can be taken up through transformation ? If so, is it possible that this transformed DNA is being used as a nutrient by the bacteria? This might explain the slight increase in growth rate of phage-exposed bacteria in the experiments. There is precedent in other bacterial systems, but I do not know whether this provides an alternative explanation in the current study. The authors should take this possibility into account. <b>2.</b> It is unclear what constitutes the controls performed in this study. One choice of control would be to obtain the UV-inactivated phage, and then remove these particles via centrifugation. The particle-free supernatant would then be added to controls, so that all components (except phage presence) would be otherwise identical across treatments and controls. However, it is unclear whether this was the approach used, and therefore I am worried that the chosen control is insufficient for drawing proper conclusions in the work.Overall, the work seems very preliminary, and the data presented are not strongly supportive of the conclusions drawn.; <b>Competing Interests:</b>No competing interests were disclosed."
+    },
+    {
+      "label": "Grant Information",
+      "name": "grant-information",
+      "order": 2,
+      "value": "TP is funded by a CNRS-Région Languedoc Roussillon doctoral grant. TB was funded by NERC. MEH is funded by ANR EvolStress (ANR-09-BLAN-099-01), by the Ec2Co “Cytrix” program, and the McDonnell Foundation (JSMF 220020294/SCS-Research Award).The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+    },
+    {
+      "label": "Copyright",
+      "name": "copyright-info",
+      "order": 0,
+      "value": "This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.Data associated with the article are available under the terms of the Creative Commons Zero \"No rights reserved\" data waiver (CC0 1.0 Public domain dedication)."
+    }
+  ],
+  "id": "pois12tii"
+}
