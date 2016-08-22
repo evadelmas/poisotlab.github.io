@@ -9,7 +9,7 @@ layout: page
 {{ content }}
 
 {% if page.paper %}<br /><br />
-{% for p in site.data.papers %}{% if p.key == page.paper %}
-{% include paper.html %}
+{% for p in site.data.bib %}{% if p.id == page.paper %}
+{% include bibentry.html %}
 {% endif %}{% endfor %}
 {% endif %}

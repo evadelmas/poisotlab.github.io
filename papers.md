@@ -10,7 +10,6 @@ featured:
 sorted: []
 ---
 
-
 <!-- NOTE this block will assign the empty page.sorted array to a new array
 called pubs, then add references sorted in reverse chronological order to it.
 The rest of the page will iterate over pubs, which will therefore be sorted. -->
