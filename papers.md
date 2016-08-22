@@ -7,29 +7,46 @@ featured:
   - pois15ppi
   - pois15sdc
   - pois15spn
+sorted: []
 ---
+
+<!-- NOTE
+
+Here there be ugliness. There is an empty array created in the page, then I push
+items to it as I go along.
+
+-->
+
+{% assign pubs = page.sorted %}
+{% for pubyear in (2005..2020) reversed %}
+{% for p in site.data.bib %}
+{% if p.issued.date-parts[0][0] == pubyear %}
+{% assign pubs = pubs | push: p %}
+{% endif %}{% endfor %}
+{% endfor %}
 
 # Selected papers
 
-{% for p in site.data.bib %}{% if page.featured contains p.id %}
+{% for p in pubs %}
+{% if page.featured contains p.id %}
 {% include bibentry.html %}
 {% endif %}{% endfor %}
 
 # Preprints and reports
 
-{% for p in site.data.bib %}{% if p.type == "report" %}
+{% for p in pubs %}{% if p.type == "report" %}
 {% include bibentry.html %}
 {% endif %}{% endfor %}
 
 # Research articles
 
-{% for p in site.data.bib %}{% if p.type == "article-journal" %}
+{% for p in pubs %}{% if p.type == "article-journal" %}
 {% include bibentry.html %}
 {% endif %}{% endfor %}
 
 # Other publications
 
-{% for p in site.data.bib %}
+{% for p in pubs %}
 {% if p.type == "reference-entry"%}
 {% include bibentry.html %}
 {% endif %}
