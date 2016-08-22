@@ -10,12 +10,10 @@ featured:
 sorted: []
 ---
 
-<!-- NOTE
 
-Here there be ugliness. There is an empty array created in the page, then I push
-items to it as I go along.
-
--->
+<!-- NOTE this block will assign the empty page.sorted array to a new array
+called pubs, then add references sorted in reverse chronological order to it.
+The rest of the page will iterate over pubs, which will therefore be sorted. -->
 
 {% assign pubs = page.sorted %}
 {% for pubyear in (2005..2020) reversed %}
