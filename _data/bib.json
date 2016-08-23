@@ -52,6 +52,44 @@
     "id": "barr14lqt"
   },
   {
+    "DOI": "10.1101/070946",
+    "URL": "http://biorxiv.org/content/early/2016/08/23/070946",
+    "author": [
+      {
+        "family": "DELMAS",
+        "given": "Eva"
+      },
+      {
+        "family": "Brose",
+        "given": "Ulrich"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      }
+    ],
+    "container-title": "bioRxiv",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Cold Spring Harbor Labs Journals",
+    "title": "Simulations of biomass dynamics in community food webs",
+    "type": "report",
+    "id": "delm16sbd"
+  },
+  {
     "issue": "5",
     "DOI": "10.1371/journal.pbio.1001563",
     "type": "article-journal",

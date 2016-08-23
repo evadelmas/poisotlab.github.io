@@ -25,12 +25,13 @@
 
 {% if p.type == "report" %}
 <a class='tag preprint' href="http://dx.doi.org/{{ p.DOI }}" title="{{ p.title }}">preprint</a>
-{% endif %}
-
+{% else %}
 {% if p.container-title %}
   <a class='tag scihub' href="http://dx.doi.org.sci-hub.cc/{{ p.DOI }}" title="{{ p.title }} // {{ p.container-title }}">sci-hub</a>
   <a class='tag journal' href="http://dx.doi.org/{{ p.DOI }}" title="{{ p.title }} // {{ p.container-title }}">journal</a>
 {% endif %}
+{% endif %}
+
 
 {% endif %}
 
