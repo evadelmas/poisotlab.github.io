@@ -32,7 +32,16 @@
 {% endif %}
 {% endif %}
 
-
 {% endif %}
+
+{% for m in site.data.metadata %}
+{% if m.id == p.id %}
+  {% if m.preprint %}<a class='tag preprint' href="http://dx.doi.org/{{ m.preprint }}" title="{{ p.title }}">preprint</a>{% endif %}
+  {% if m.data %}<a class='tag data' href="http://dx.doi.org/{{ m.data }}" title="{{ p.title }}">data</a>{% endif %}
+  {% if m.zenodo %}<a class='tag zenodo' href="http://dx.doi.org/{{ m.zenodo }}" title="{{ p.title }}">code on zenodo</a>{% endif %}
+  {% if m.org %}<a class='tag org' href="{{ m.org }}" title="{{ p.title }}">github group</a>{% endif %}
+  {% if m.website %}<a class='tag website' href="{{ m.website }}" title="{{ p.title }}">website</a>{% endif %}
+{% endif %}
+{% endfor %}
 
 </div>

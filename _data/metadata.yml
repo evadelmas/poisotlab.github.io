@@ -1,0 +1,17 @@
+- id: barr14lqt
+  preprint: 10.7287/peerj.preprints.53v2
+- id: pois14enc
+  preprint: 10.7287/peerj.preprints.50v4
+- id: pois15spn
+  preprint: 10.1101/016485
+- id: pois15ppi
+  preprint: 10.6084/m9.figshare.1434688.v1
+- id: pois15sdc
+  preprint: 10.1101/021402
+  zenodo: 10.5281/zenodo.31975
+- id: pois15mme
+  website: http://mangal.io/
+  preprint: 10.1101/002634
+  org: https://github.com/mangal-wg
+- id: pois10pse
+  data: 10.6084/m9.figshare.97320.v1
