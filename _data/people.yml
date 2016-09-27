@@ -26,7 +26,13 @@
   current: yes
   id: daphnee
   mugshot: daphneelecourstessier.jpg
-  blurb: is an undergraduate research assistant, working on establishing brest practices to connect the landscape to the limnoscape in order to maintain and restort habitat connectivity.
+  blurb: is an undergraduate research assistant, working on establishing best practices to connect the landscape to the limnoscape in order to maintain and restore habitat connectivity.
+
+- name: The raccoon
+  current: yes
+  id: raccoon
+  mughsot: raccoon.jpg
+  blurbl: is our spirit animal. Muche like him, we thrive of people's leftover (data), spend a lot of time cleaning them, and will absolutely seize any data left unattended. None of us are actual raccoons (that you know of).
 
 - name: Philippe Desjardins-Proulx
   current: yes
