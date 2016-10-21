@@ -128,5 +128,5 @@ the relevant questions in the [application form][form].
 Selected applicants will be notified by the first week of March 2017.
 
 [ciee]: http://www.ciee-icee.com/
-[form]: https://goo.gl/5xTok7
+[form]: https://docs.google.com/forms/d/1deKwzuO2Kr7_KDG1s2SnYdG3WP3afkew1qA-75Jbxog
 [sbl]: http://www.sbl.umontreal.ca/index.html
