@@ -14,25 +14,28 @@
 
 
 html {
-  min-height: 100%;
-  height: 100%;
-  padding: 0 0;
-  margin: 0 0;
+    min-height: 100%;
+    height: 100%;
+    padding: 0 0;
+    margin: 0 0;
+    background: url(/resources/bg/10.jpg) no-repeat center fixed;
+    background-size: cover;
 }
 
 body {
-  background: none;
-  font-family: "PT Sans";
-  min-height: 100%;
-  height: 100%;
-  margin: 0 0;
-  padding: 0 0;
+    background: none;
+    font-family: "PT Sans";
+    min-height: 100%;
+    /*height: 100%;*/
+    padding: 0 0;
+    background-color: rgba(255, 255, 255, 0.97);
+    max-width: 900px;
+    margin: 0px auto;
 }
 
 .container {
-  max-width: 900px;
-  margin: 0px auto;
-  padding: 20px;
+    margin: 0px auto;
+    padding: 50px;
 }
 
 #content {
@@ -67,7 +70,7 @@ body {
 
 .title {
   color: #ccc;
-  padding-top: 1em;
+  padding-top: 2em;
   margin-bottom: 3em;
   h1, h2 {
     font-size: 1.3em;
@@ -92,9 +95,10 @@ body {
 
 nav {
   position: fixed;
-  bottom: 0px;
-  background-color: @high;
+  top: 0px;
+  background-color: white;
   width: 100%;
+  max-width: 900px;
   text-align: center;
   ul {
     padding: 0px 0px;
@@ -108,7 +112,7 @@ nav {
     padding: 2px 15px;
   }
   li.active {
-    .linkContent { color: #fff; font-weight: bold;}
+    .linkContent { color: #222; }
   }
   .linkContent {
     padding-left: 5px;
@@ -117,10 +121,10 @@ nav {
   }
   a {
     text-decoration: none;
-    i {color: #ccc;}
-    .linkContent {color: #ddd;}
+    i {color: #888;}
+    .linkContent {color: #555;}
     &:hover {
-      i { color: #fff;}
+      i { color: #222;}
     }
   }
 }
@@ -199,4 +203,18 @@ nav {
       padding: 1px 5px !important;
     }
   }
+}
+
+.row {
+    clear: both;
+    max-width: 100%;
+    .left {
+        float: left;
+    }
+    .right {
+        float: right;
+    }
+    .large{width: 55%;}
+    .small{width: 40%;}
+    .medium{width: 45%;}
 }

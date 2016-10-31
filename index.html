@@ -6,22 +6,24 @@ title: Computational ecology
 
 <div class="row">
 
-<div class="seven columns lead"> <p><b>Why do species interact?</b> We
+<div class="left large"> <p><b>Why do species interact?</b> We
 study ecological interactions, their variation through space and time,
 and their consequences on ecosystem properties. We use numerical methods
 and computational tools to work on these topics, and you can read more on
 our <a href="/research" title="Research description">research</a> page. Some of our best friends are empiricists.
 </div>
 
-<div class="five columns">
-{% include footer.html %}
+<div class="right small">
+    <p>
+    {% include footer.html %}
+    </p>
 </div>
 
 </div>
 
 <div class="row">
 
-<div class="six columns">
+<div class="left medium">
   <h2>News</h2>
   {% for post in site.posts %}
     {% if post.layout == "news" %}
@@ -36,7 +38,7 @@ our <a href="/research" title="Research description">research</a> page. Some of 
   {% endfor %}
 </div>
 
-<div class="six columns">
+<div class="right medium">
   <h2>Blog</h2>
   {% for post in site.posts %}
     {% if post.layout == "post" %}

@@ -18,6 +18,8 @@ BSc, Life sciences, Université d'Évry, 2006
 
 # Grants
 
+FCI Leader's fund award, *Quantitative and Computational Ecology Laboratory*, 2016, 160k CAD
+
 QCBS Working group award, *Stakeholder-engaged research for landscape connectivity management*, 2016, 5k CAD
 
 NSERC Discovery Grant, *Causes and consequences of the variation of species interactions*, 2015-2020, 125k CAD
@@ -29,6 +31,10 @@ Université de Montréal starting grant, 2015-2018, 25k CAD
 Canadian Institute of Ecology & Evolution working group, *Community ecology at the continental scale*, 2014-2015, 14k CAD
 
 # Academic citizenship
+
+Member of the *Preprint Governance* Task Force, ASAPbio
+
+Member of the *Community Engagement and Outreach* working group, DataONE
 
 Chair of the Open Science section, Ecological Society of America
 
