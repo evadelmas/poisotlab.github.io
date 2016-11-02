@@ -1,0 +1,179 @@
+---
+# comment
+---
+
+// Imports
+@import "typography";
+@import "papers";
+
+html {
+    //min-height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top center;
+    background-image: url("/resources/bg/10.jpg");
+    margin: 4em;
+    margin-top: 0px;
+}
+
+body {
+    max-width: 900px;
+    margin: 0px auto;
+}
+
+$highlight: #3f8c7f;
+
+a {
+    color: $highlight;
+    text-decoration: none;
+}
+
+$innersep: 3em;
+$bordercol: #f3f3f3;
+
+.container {
+    &#header {
+        margin: 4em 0px;
+        min-height: 4em;
+        .title {
+            display: block !important;
+            height: 2em !important;
+            h1, h2, h3 {
+                display: inline-block;
+                line-height: 1.9em;
+                margin: 0px;
+                padding: 0px;
+                font-size: 2em !important;
+                font-weight: normal;
+                color: white !important; 
+            }
+            h2 {
+                font-family: $display;
+                font-variant: all-small-caps;
+                padding-left: 1em;
+            }
+            color: white;
+            display: inline-block;
+        }
+        .logo {
+            float: right;
+            width: 15%;
+            margin-top: -2em;
+        }
+    }
+    &#content {
+        background-color: white;
+        padding: $innersep;
+    }
+}
+
+nav, #footer {
+    margin: -$innersep;
+    padding: 0px;
+    background-color: $bordercol;
+    ul {
+        list-style: none;
+    }
+}
+
+#footer {
+    margin-top: $innersep;
+    padding: 1em $innersep;
+    color: #666;
+    ul {
+        float: right;
+        margin: -0.9em 0px;
+        padding: 0px;
+    }
+    li {
+        display: inline-block;
+        font-size: 1em;
+        line-height: 2em;
+        padding-left: 1em;
+    }
+    .snailmail {
+        font-size: 0.7em;
+        line-height: 1.0em;
+        width: 50% !important;
+        margin: 0px;
+        padding: 0px;
+        clear: none;
+    }
+    a {
+        color: #333;
+        &:hover {
+            color: $highlight;
+        }
+    }
+}
+
+nav {
+    text-align: center;
+    margin-bottom: $innersep;
+    ul {
+        list-style: none;
+        padding: 1em $innersep;
+        margin: 0px;
+    }
+    li {
+        display: inline-block;
+        padding-right: 2em;
+        &:last-child {
+            padding-right: 0px;
+        }
+    }
+    a {
+        text-transform: uppercase;
+        color: #555;
+        text-decoration: none;
+        &:hover {
+            color: $highlight;
+        }
+    }
+}
+
+.scrolled {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    margin: 0px;
+    width: 100%;
+}
+
+.lead {
+    color: black;
+    font-size: 120%;
+}
+
+.row {
+    .left {
+        float: left;
+    }
+    .right {
+        float: right;
+    }
+    .medium {
+        width: 48%;
+    }
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+.person {
+    @extend .row;
+    .img-circle {
+        border-radius: 70px;
+        box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    }
+    .blurb {
+        max-width: 80%;
+        float: right;
+    }
+    margin-bottom: 4em;
+}
+
+// Hide things on mobile
+@import "mobile";

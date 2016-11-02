@@ -7,11 +7,6 @@
 
 <br />
 
-<!-- Date of publication -->
-{% if p.issued %}<span class="entryDate">{{ p.issued.date-parts[0][0] | inspect }}</span>{% endif %}
-
-<span class="sep"> // </span>
-
 <!-- List of authors -->
 {% if p.author %}
 <div class="authorList">
@@ -19,10 +14,13 @@
 </div>
 {% endif %}
 
-<br />
+<!-- Date of publication -->
+{% if p.issued %}<span class="entryDate">{{ p.issued.date-parts[0][0] | inspect }}</span>{% endif %}
+
+
+<p />
 
 {% if p.DOI %}
-
 {% if p.type == "report" %}
 <a class='tag preprint' href="http://dx.doi.org/{{ p.DOI }}" title="{{ p.title }}">preprint</a>
 {% else %}

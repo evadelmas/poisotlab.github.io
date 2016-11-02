@@ -1,0 +1,33 @@
+@media screen and (max-device-width: 900px) {
+    html {
+        margin: 0em !important;
+    }
+    #header {
+        margin: 0em 1em !important;
+    }
+    .title {
+        margin: 1em 2em;
+        .logo {
+            display: none;
+        }
+        h2 {
+            display: none !important;
+        }
+    }
+}
+
+@media screen and (max-device-width: 450px) {
+    .linkContent {
+        display: none;
+    }
+    nav {
+        li {
+            padding-right: 0.8em;
+        }
+    }
+    #footer {
+        ul {
+            display: none;
+        }
+    }
+}

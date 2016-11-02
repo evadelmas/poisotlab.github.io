@@ -14,3 +14,6 @@ title: The Poisot Lab
 subtitle: Numerical and Computational Ecology
 author: Timothée Poisot
 production_url: http://poisotlab.io
+
+sass:
+    style: compressed

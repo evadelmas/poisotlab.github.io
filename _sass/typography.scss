@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700,700italic|PT+Serif:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700);
+
+$body: "PT Serif", serif;
+$titles: "PT Serif", sans-serif;
+$code: "PT Mono", monospace;
+$display: "PT Sans", sans-serif;
+
+body {
+    font-family: $display;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: $display;
+    color: #777;
+}
+
+pre, code {
+    font-family: $code;
+}
+
+.container {
+    &#content {
+        p {
+            color: #555;
+        }
+    }
+}
