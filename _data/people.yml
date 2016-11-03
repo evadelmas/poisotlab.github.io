@@ -28,6 +28,12 @@
   mugshot: daphneelecourstessier.jpg
   blurb: is an undergraduate research assistant, working on establishing best practices to connect the landscape to the limnoscape in order to maintain and restore habitat connectivity.
 
+- name: Dominique Caron
+  current: yes
+  id: dominiquecaron
+  mugshot: dominiquecaron.jpg
+  blurb: is an undergraduate student, working on documenting and inventorying the ways our effort to describe the biodiversity of Québec has changed over the last century. His work focuses on describing "black holes" of biodiversity data that are prime candidates for itensive sampling.
+
 - name: The raccoon
   current: yes
   id: raccoon
